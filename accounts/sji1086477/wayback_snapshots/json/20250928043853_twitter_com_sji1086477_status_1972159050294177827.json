@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1971822834680058110",
+    "created_at": "2025-09-28T04:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T05:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972159050294177827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1867601056429223936",
+          "start": 0,
+          "username": "ccxxhmbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972159050294177827",
+    "in_reply_to_user_id": "1867601056429223936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971822834680058110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccxxhmbb 很好，刚做完同类型题就刷到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 260791,
+        "height": 732,
+        "media_key": "13_1971822711384236032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971822711384236032/img/Q6ai1jo0tYBoAo76.jpg",
+        "public_metrics": {
+          "view_count": 27164
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971822711384236032/vid/avc1/320x488/91L65VS9dkPpwKze.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971822711384236032/vid/avc1/480x732/C77f8rVC4PR5Nfhv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971822711384236032/pl/z4aQLw9s0cBoZ1CY.m3u8?v=5e0"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1971822834680058110",
+        "created_at": "2025-09-28T04:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972159050294177827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1867601056429223936",
+              "start": 0,
+              "username": "ccxxhmbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972159050294177827",
+        "in_reply_to_user_id": "1867601056429223936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971822834680058110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccxxhmbb 很好，刚做完同类型题就刷到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971822711384236032"
+          ]
+        },
+        "author_id": "1867601056429223936",
+        "conversation_id": "1971822834680058110",
+        "created_at": "2025-09-27T06:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T07:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971822834680058110"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "男喘"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "高中数学"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "男高中生"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "猎奇"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "手冲实录"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "抽象"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UQbYmvkD3",
+              "end": 63,
+              "expanded_url": "https://x.com/ccxxhmbb/status/1971822834680058110/video/1",
+              "media_key": "13_1971822711384236032",
+              "start": 40,
+              "url": "https://t.co/1UQbYmvkD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971822834680058110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 75849,
+          "like_count": 628,
+          "quote_count": 8,
+          "reply_count": 81,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "是数学题手冲回来了\n#男喘 #高中数学 #男高中生 #猎奇 #手冲实录 #抽象 https://t.co/1UQbYmvkD3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 66
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T16:02:52.000Z",
+        "description": "接讲解题目文科5r一道，理科10r一道，大学20r包教会。点男喘 @ThClub_1 （本人也在） 🚪52+v。周二男粉福利。自用靠谱🪜：https://t.co/lgUT1XukjU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "ThClub_1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sulink.life/#/register?cod…",
+                "end": 92,
+                "expanded_url": "https://www.sulink.life/#/register?code=CSv9eIoC",
+                "start": 69,
+                "url": "https://t.co/lgUT1XukjU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccxxhmbb",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccxxhmbb",
+                "start": 0,
+                "url": "https://t.co/GiNEYJ8Jbq"
+              }
+            ]
+          }
+        },
+        "id": "1867601056429223936",
+        "location": "🚪52+v 匿名箱～",
+        "name": "睦依",
+        "pinned_tweet_id": "1970155668142514627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916067175665963012/uGwkZE0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16965,
+          "following_count": 67,
+          "like_count": 1792,
+          "listed_count": 22,
+          "media_count": 267,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/GiNEYJ8Jbq",
+        "username": "ccxxhmbb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2035817175223882202",
+    "created_at": "2026-03-22T20:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T21:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035817175223882202"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035817175223882202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "直到现在社交对我来说也很累，我必须给自己立一个很傻逼的人设才能融入他们，我下意识害怕社交我害怕他们会像小学那群人一样孤立我霸凌我，我依旧在意别人的眼光虽然不像以前一样讨好型，我不去融入任何一个小团体，我成了吃瓜群众致力于不去得罪任何人，尽管这样有些孤独但我很轻松"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2035817175223882202",
+        "created_at": "2026-03-22T20:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T21:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035817175223882202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035817175223882202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直到现在社交对我来说也很累，我必须给自己立一个很傻逼的人设才能融入他们，我下意识害怕社交我害怕他们会像小学那群人一样孤立我霸凌我，我依旧在意别人的眼光虽然不像以前一样讨好型，我不去融入任何一个小团体，我成了吃瓜群众致力于不去得罪任何人，尽管这样有些孤独但我很轻松"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  /  欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 23,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 366
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

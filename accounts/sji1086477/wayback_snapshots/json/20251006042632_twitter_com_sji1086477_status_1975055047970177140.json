@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1975055047970177140",
+    "created_at": "2025-10-06T04:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T05:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975055047970177140"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975055047970177140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我发现我有时候翻译英文的时候会翻译成一个由汉字组成的乱码。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1975055047970177140",
+        "created_at": "2025-10-06T04:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975055047970177140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975055047970177140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我有时候翻译英文的时候会翻译成一个由汉字组成的乱码。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直 | 欢迎找我聊天～（没点关注、主页空白/转发大量黄推的私信一律不回）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 108
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1980844883582808491",
+    "created_at": "2025-10-22T10:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T11:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980940830652461160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247769753097101318",
+          "start": 0,
+          "username": "X09COTCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980940830652461160",
+    "in_reply_to_user_id": "1247769753097101318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980844883582808491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X09COTCC 应该加个条件，你们住在无人问津的十八线破败小县城的窄小脏乱差出租屋里面，他每天的生活就是抽烟喝酒打牌一因为娱乐活动不多每天一有空就做爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_1980844859561783296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G31f56FWsAARxyd.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1980844883582808491",
+        "created_at": "2025-10-22T10:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T11:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980940830652461160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247769753097101318",
+              "start": 0,
+              "username": "X09COTCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980940830652461160",
+        "in_reply_to_user_id": "1247769753097101318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980844883582808491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X09COTCC 应该加个条件，你们住在无人问津的十八线破败小县城的窄小脏乱差出租屋里面，他每天的生活就是抽烟喝酒打牌一因为娱乐活动不多每天一有空就做爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980844859561783296"
+          ]
+        },
+        "author_id": "1247769753097101318",
+        "conversation_id": "1980844883582808491",
+        "created_at": "2025-10-22T03:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T04:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980844883582808491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x8r5tnjeOr",
+              "end": 53,
+              "expanded_url": "https://x.com/X09COTCC/status/1980844883582808491/photo/1",
+              "media_key": "3_1980844859561783296",
+              "start": 30,
+              "url": "https://t.co/x8r5tnjeOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980844883582808491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 44661,
+          "like_count": 480,
+          "quote_count": 4,
+          "reply_count": 52,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "你觉得这样的日子是你想过的吗？？？你还有一点身为人的尊严吗 https://t.co/x8r5tnjeOr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 17,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 187
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T06:15:29.000Z",
+        "description": "tell me who i am",
+        "id": "1247769753097101318",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "太阳瓜",
+        "pinned_tweet_id": "1977037026026524749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976459986567053312/fJpGKW31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7235,
+          "following_count": 1750,
+          "like_count": 155578,
+          "listed_count": 18,
+          "media_count": 1269,
+          "tweet_count": 43739
+        },
+        "username": "X09COTCC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1988119260598874487",
+    "created_at": "2025-11-11T14:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T15:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988246858897011165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1589874350919864321",
+          "start": 0,
+          "username": "Happinessa_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988246858897011165",
+    "in_reply_to_user_id": "1589874350919864321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988119260598874487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Happinessa_X 她这段文字给我感觉透露出了一股浓浓的男凝味儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1988119260598874487",
+        "created_at": "2025-11-11T14:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T15:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988246858897011165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1589874350919864321",
+              "start": 0,
+              "username": "Happinessa_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988246858897011165",
+        "in_reply_to_user_id": "1589874350919864321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988119260598874487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Happinessa_X 她这段文字给我感觉透露出了一股浓浓的男凝味儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589874350919864321",
+        "conversation_id": "1988119260598874487",
+        "created_at": "2025-11-11T05:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988119260598874487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gg594058308536…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/gg5940583085364/status/1988087135589855342",
+              "start": 133,
+              "url": "https://t.co/fcRjWRpVgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988119260598874487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 49563,
+          "like_count": 298,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988087135589855342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长的胖又没惹别人，约不约炮擦边赚钱也是你情我愿的事，又没人逼着男的给bbw花钱，各花入各眼罢了，难不成胖女生必须得减肥到“标准”体重才配得到关注？多瘦算瘦，多美算美？再说了，男的都有丑帅这种奇葩形容词了，对女的宽容点咋了，说这种话不就是在帮着男权规训女性助纣为虐吗 https://t.co/fcRjWRpVgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、支黑、小粉红 | （主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 20,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T06:56:36.000Z",
+        "description": "什么假家真家，你认错人了｜有偿转推",
+        "id": "1589874350919864321",
+        "name": "炸鱼片片拌饭",
+        "pinned_tweet_id": "1815101130525069611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839348706266820608/8zNFoI1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34071,
+          "following_count": 501,
+          "like_count": 20651,
+          "listed_count": 95,
+          "media_count": 623,
+          "tweet_count": 9687
+        },
+        "username": "Happinessa_X",
+        "verified": false
+      }
+    ]
+  }
+}

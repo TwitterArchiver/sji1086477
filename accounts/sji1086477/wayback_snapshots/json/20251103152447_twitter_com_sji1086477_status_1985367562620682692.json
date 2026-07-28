@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1985362333439283574",
+    "created_at": "2025-11-03T15:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985367562620682692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1933027996329463808",
+          "start": 0,
+          "username": "ssf40298914184"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985367562620682692",
+    "in_reply_to_user_id": "1933027996329463808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985367115562381492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssf40298914184 请给我个准确的日期"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1985362333439283574",
+        "created_at": "2025-11-03T15:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985367562620682692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1933027996329463808",
+              "start": 0,
+              "username": "ssf40298914184"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985367562620682692",
+        "in_reply_to_user_id": "1933027996329463808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985367115562381492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssf40298914184 请给我个准确的日期"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933027996329463808",
+        "conversation_id": "1985362333439283574",
+        "created_at": "2025-11-03T15:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985367115562381492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985367115562381492",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985364353810383241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 我让你笑，我今天就较上劲了，老反贼我就见惯不惯了，对你这种小孩我必须尽我的义务，我会找到你，不能再让你带坏身边任何一个同学，我很难想象我的孩子要是跟你做同座得多可怕，公安一定能找到你，不要以为不实名就找不到，前不久办完在日骂国人的很容易就找到了，今天算你倒霉，也算给你一个教训"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、粉红 |（主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "pinned_tweet_id": "1985362333439283574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 21,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T05:06:28.000Z",
+        "description": "",
+        "id": "1933027996329463808",
+        "name": "ss f",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933028103070289920/y_1Z9Rmx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 61
+        },
+        "username": "ssf40298914184",
+        "verified": false
+      }
+    ]
+  }
+}

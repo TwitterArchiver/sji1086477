@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985745324040704000"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "conversation_id": "1985745326959923374",
+    "created_at": "2025-11-04T16:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985745326959923374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iWZGA5KtcJ",
+          "end": 31,
+          "expanded_url": "https://x.com/sji1086477/status/1985745326959923374/photo/1",
+          "media_key": "3_1985745324040704000",
+          "start": 8,
+          "url": "https://t.co/iWZGA5KtcJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985745326959923374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今晚的做梦素材 https://t.co/iWZGA5KtcJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1985745324040704000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47I2e3W0AAmWDF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985745324040704000"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "conversation_id": "1985745326959923374",
+        "created_at": "2025-11-04T16:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985745326959923374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWZGA5KtcJ",
+              "end": 31,
+              "expanded_url": "https://x.com/sji1086477/status/1985745326959923374/photo/1",
+              "media_key": "3_1985745324040704000",
+              "start": 8,
+              "url": "https://t.co/iWZGA5KtcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985745326959923374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚的做梦素材 https://t.co/iWZGA5KtcJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、小粉红 | （主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 21,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

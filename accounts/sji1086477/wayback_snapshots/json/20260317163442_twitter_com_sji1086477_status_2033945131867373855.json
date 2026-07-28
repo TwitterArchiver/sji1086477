@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2033945131867373855",
+    "created_at": "2026-03-17T16:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T17:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033945131867373855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1592765285534007296",
+          "start": 3,
+          "username": "DAIYUSHIHUANGDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033945131867373855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033894058784178326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DAIYUSHIHUANGDI: 各位宝宝老师们 不要太焦虑到底要选择走哪条路 其实每条路都是错的 条条大路通坟墓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2033945131867373855",
+        "created_at": "2026-03-17T16:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T17:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033945131867373855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1592765285534007296",
+              "start": 3,
+              "username": "DAIYUSHIHUANGDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033945131867373855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033894058784178326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DAIYUSHIHUANGDI: 各位宝宝老师们 不要太焦虑到底要选择走哪条路 其实每条路都是错的 条条大路通坟墓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592765285534007296",
+        "conversation_id": "2033894058784178326",
+        "created_at": "2026-03-17T13:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033894058784178326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033894058784178326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 23777,
+          "like_count": 760,
+          "quote_count": 19,
+          "reply_count": 41,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "各位宝宝老师们 不要太焦虑到底要选择走哪条路 其实每条路都是错的 条条大路通坟墓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07   女  碎碎念  休学备考中…    这里是我发疯的唯一途径",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 24,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T06:23:39.000Z",
+        "description": "四大名著不知名研究学家｜没有门槛 话题的开始可以请我喝杯咖啡｜熟人认出勿扰可以关注不要认亲｜防丢@DAIIIYUUUUU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "DAIIIYUUUUU"
+              }
+            ]
+          }
+        },
+        "id": "1592765285534007296",
+        "name": "黛玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826054092491481088/2iiFS6rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83165,
+          "following_count": 85,
+          "like_count": 60663,
+          "listed_count": 232,
+          "media_count": 240,
+          "tweet_count": 3955
+        },
+        "username": "DAIYUSHIHUANGDI",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2056706198989426937",
+    "created_at": "2026-05-19T12:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056711062322585890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838433917529149440",
+          "start": 0,
+          "username": "shwjwn2575471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056711062322585890",
+    "in_reply_to_user_id": "1838433917529149440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056706198989426937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shwjwn2575471 不被大众接受的人们聚集在一起形成了一个小圈子，痛苦比较于是痛苦成瘾再继续循环，最让人难过的不是健全人和餐券的标签，而是社会规训人们压抑自己令痛苦无法宣泄，于是就形成了通过比较痛苦的方式，谁最惨谁的痛苦才有“资格”成立😢😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2056706198989426937",
+        "created_at": "2026-05-19T12:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056711062322585890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838433917529149440",
+              "start": 0,
+              "username": "shwjwn2575471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056711062322585890",
+        "in_reply_to_user_id": "1838433917529149440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056706198989426937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shwjwn2575471 不被大众接受的人们聚集在一起形成了一个小圈子，痛苦比较于是痛苦成瘾再继续循环，最让人难过的不是健全人和餐券的标签，而是社会规训人们压抑自己令痛苦无法宣泄，于是就形成了通过比较痛苦的方式，谁最惨谁的痛苦才有“资格”成立😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838433917529149440",
+        "conversation_id": "2056706198989426937",
+        "created_at": "2026-05-19T11:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056706198989426937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056706198989426937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我相信很多人都有丰富的心理活动，思考各种问题，感受到痛苦。因为一个人不嗑药不割手，就觉得他岁月静好，没有内心的痛苦，共情能力也很差，然后说他是健全人。这种贴标签很无趣啊。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 76,
+          "like_count": 1668,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 753
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T04:23:09.000Z",
+        "description": "我什么也不知道我什么都想知道",
+        "id": "1838433917529149440",
+        "location": "荒野之中",
+        "name": "hippie wildman",
+        "pinned_tweet_id": "2048431152642339234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044801952408866816/FBqFxwaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 167,
+          "like_count": 5863,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 226
+        },
+        "username": "shwjwn2575471",
+        "verified": false
+      }
+    ]
+  }
+}

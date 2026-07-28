@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2061315934837707087",
+    "created_at": "2026-06-01T10:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061390342486732894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061390342486732894",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061315934837707087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin 老大我想给你化妆🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2061315934837707087",
+        "created_at": "2026-06-01T10:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061390342486732894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "ZhuangXuexin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061390342486732894",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061315934837707087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuangXuexin 老大我想给你化妆🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717455447110844416",
+        "conversation_id": "2061315934837707087",
+        "created_at": "2026-06-01T05:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061315934837707087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061315934837707087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1325,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想穿黑裤袜和百褶裙了。。。有没有前辈指点一下🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 110,
+          "like_count": 2024,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 953
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185/72 想交朋友 想买衣服。国女国男综合特征 想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲塑造的。看过一些木柜子动画 中国古典文学和西方近现代哲学 最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔。新对政治思想史 英美道德学 德国法学感兴趣。物理学研究生 想学代数拓扑。想做一个功利主义的幸福者。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2061042977041211725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 112,
+          "like_count": 8794,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1208
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      }
+    ]
+  }
+}

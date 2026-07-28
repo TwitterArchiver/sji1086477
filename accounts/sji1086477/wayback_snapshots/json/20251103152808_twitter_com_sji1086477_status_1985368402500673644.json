@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1985362333439283574",
+    "created_at": "2025-11-03T15:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985368402500673644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1933027996329463808",
+          "start": 0,
+          "username": "ssf40298914184"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985368402500673644",
+    "in_reply_to_user_id": "1933027996329463808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985368230551310514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssf40298914184 嗯嗯，好哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1985362333439283574",
+        "created_at": "2025-11-03T15:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985368402500673644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1933027996329463808",
+              "start": 0,
+              "username": "ssf40298914184"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985368402500673644",
+        "in_reply_to_user_id": "1933027996329463808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985368230551310514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssf40298914184 嗯嗯，好哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933027996329463808",
+        "conversation_id": "1985362333439283574",
+        "created_at": "2025-11-03T15:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985368230551310514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985368230551310514",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985362333439283574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 不给你个教训 你将来不得了 一定会出事  就跟当年我的校友王懿一样 从品学兼优到接触反共圈子再到骗父母亲戚钱到日本，然后饿死在日本前后也就5年，这一次我就较真了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、粉红 |（主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "pinned_tweet_id": "1985362333439283574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 21,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T05:06:28.000Z",
+        "description": "",
+        "id": "1933027996329463808",
+        "name": "ss f",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933028103070289920/y_1Z9Rmx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 62
+        },
+        "username": "ssf40298914184",
+        "verified": false
+      }
+    ]
+  }
+}

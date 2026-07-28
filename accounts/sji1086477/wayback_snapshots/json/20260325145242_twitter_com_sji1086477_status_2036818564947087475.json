@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2036818564947087475",
+    "created_at": "2026-03-25T14:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036818564947087475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1712754288777379840",
+          "start": 3,
+          "username": "sugishita_japan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036818564947087475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036701844534395033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sugishita_japan: 我小的时候看到四川地震，觉得死了那么多人好可怜，还给日本赤十字捐钱来着，觉得共产党傻逼，中国人是受害者。后来东日本大地震看到中国人在网上庆祝，且不是个例，是群体性的，非常后悔之前对他们的同情，以至于武肺疫情时完全提不起同情之心。丝毫没有…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2036818564947087475",
+        "created_at": "2026-03-25T14:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036818564947087475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1712754288777379840",
+              "start": 3,
+              "username": "sugishita_japan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036818564947087475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036701844534395033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sugishita_japan: 我小的时候看到四川地震，觉得死了那么多人好可怜，还给日本赤十字捐钱来着，觉得共产党傻逼，中国人是受害者。后来东日本大地震看到中国人在网上庆祝，且不是个例，是群体性的，非常后悔之前对他们的同情，以至于武肺疫情时完全提不起同情之心。丝毫没有…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712754288777379840",
+        "conversation_id": "2036701844534395033",
+        "created_at": "2026-03-25T07:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036701844534395033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036701844534395033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12558,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我小的时候看到四川地震，觉得死了那么多人好可怜，还给日本赤十字捐钱来着，觉得共产党傻逼，中国人是受害者。后来东日本大地震看到中国人在网上庆祝，且不是个例，是群体性的，非常后悔之前对他们的同情，以至于武肺疫情时完全提不起同情之心。丝毫没有说一千道一万，千言万语汇成一句话：不图行吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  /  欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 24,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 377
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T08:57:07.000Z",
+        "description": "チャイニーズがわかる日本人。衆議院議員政策顧問。サナ活。日本列島を強く豊かに！ サブ@sugishita123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "sugishita123"
+              }
+            ]
+          }
+        },
+        "id": "1712754288777379840",
+        "location": "東京 千代田区",
+        "name": "杉下右京",
+        "pinned_tweet_id": "1993331935180210498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881357980274413568/Osk3otel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5163,
+          "following_count": 508,
+          "like_count": 17163,
+          "listed_count": 52,
+          "media_count": 1951,
+          "tweet_count": 12556
+        },
+        "username": "sugishita_japan",
+        "verified": false
+      }
+    ]
+  }
+}

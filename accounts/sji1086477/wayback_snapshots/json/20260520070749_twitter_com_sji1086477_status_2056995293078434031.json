@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2056777134492844039",
+    "created_at": "2026-05-20T07:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056995293078434031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1557036804578377730",
+          "start": 0,
+          "username": "PM2_53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056995293078434031",
+    "in_reply_to_user_id": "1557036804578377730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056987827972530667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PM2_53 可能想的不一样吧🤔对我来说爱这个人的本身是不掺杂需求的，只要是因为对方某项具体能力而喜欢就是工具性爱情😭人能自足才是良好关系的开始❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2056777134492844039",
+        "created_at": "2026-05-20T07:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056995293078434031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1557036804578377730",
+              "start": 0,
+              "username": "PM2_53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056995293078434031",
+        "in_reply_to_user_id": "1557036804578377730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056987827972530667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PM2_53 可能想的不一样吧🤔对我来说爱这个人的本身是不掺杂需求的，只要是因为对方某项具体能力而喜欢就是工具性爱情😭人能自足才是良好关系的开始❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557036804578377730",
+        "conversation_id": "2056777134492844039",
+        "created_at": "2026-05-20T06:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056987827972530667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056987827972530667",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056967419256533260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 我觉得你把“需求”和“工具化”混为一谈了。人际关系本来就是因为彼此需要才建立连接，重点不在于有没有需求，而在于有没有把对方简化成满足需求的手段。爱不是彻底无所求，而是在有需求的前提下，依然尊重对方的主体性，也愿意回应对方的需求。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 75,
+          "like_count": 1677,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 759
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T16:12:52.000Z",
+        "description": "03大学生，男生，喜欢动画，历史，金融，欢迎大家\nwelcome for chating(。・`ω´・)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mengluosuiyuan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mengluosuiyuan",
+                "start": 0,
+                "url": "https://t.co/lZLbGAgALy"
+              }
+            ]
+          }
+        },
+        "id": "1557036804578377730",
+        "name": "梦落随缘",
+        "pinned_tweet_id": "2051933142127428073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051863921800396800/KnuHQknZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 94,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/lZLbGAgALy",
+        "username": "PM2_53",
+        "verified": false
+      }
+    ]
+  }
+}

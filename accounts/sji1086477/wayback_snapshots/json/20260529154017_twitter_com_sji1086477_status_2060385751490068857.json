@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2060291064167276631",
+    "created_at": "2026-05-29T15:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060385751490068857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1632765156244738048",
+          "start": 0,
+          "username": "xiaotunsalutee"
+        },
+        {
+          "end": 29,
+          "id": "1591344896757026821",
+          "start": 16,
+          "username": "xng328460971"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060385751490068857",
+    "in_reply_to_user_id": "1632765156244738048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060366447726219433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaotunsalutee @xng328460971 打扮朴素一点戴个眼镜装学生妹说痛经🤓👆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2060291064167276631",
+        "created_at": "2026-05-29T15:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060385751490068857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1632765156244738048",
+              "start": 0,
+              "username": "xiaotunsalutee"
+            },
+            {
+              "end": 29,
+              "id": "1591344896757026821",
+              "start": 16,
+              "username": "xng328460971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060385751490068857",
+        "in_reply_to_user_id": "1632765156244738048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060366447726219433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaotunsalutee @xng328460971 打扮朴素一点戴个眼镜装学生妹说痛经🤓👆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632765156244738048",
+        "conversation_id": "2060291064167276631",
+        "created_at": "2026-05-29T14:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060366447726219433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591344896757026821",
+              "start": 0,
+              "username": "xng328460971"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060366447726219433",
+        "in_reply_to_user_id": "1591344896757026821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060291064167276631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xng328460971 去医院开的吗。我怕我去医院说神经痛医生一眼看出我是欧弟的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 100,
+          "like_count": 1893,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 875
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T15:28:52.000Z",
+        "description": "宝宝们跟我互fo呀../我有精神疾病/od\n金属/二刺猿\n好想要同样属性的朋友😭",
+        "id": "1632765156244738048",
+        "location": "异世界",
+        "name": "aphrodite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872266257396809728/zyHOZP_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 158,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 175
+        },
+        "username": "xiaotunsalutee",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T08:19:34.000Z",
+        "description": "我只是一个路人…｜自伤｜od｜同类互fo｜私信会回｜不加墙内联系方式｜不吵架不站队立场是关我屁事",
+        "id": "1591344896757026821",
+        "name": "小人",
+        "pinned_tweet_id": "2047528717719642466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014266753748996097/q2q0pA-9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 167,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 374
+        },
+        "username": "xng328460971",
+        "verified": false
+      }
+    ]
+  }
+}

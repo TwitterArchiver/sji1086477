@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1967890754896073178",
+    "created_at": "2025-09-16T15:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T16:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967976409894428769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727950209190367232",
+          "start": 0,
+          "username": "dtinl110036"
+        },
+        {
+          "end": 25,
+          "id": "1688397365336850432",
+          "start": 13,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967976409894428769",
+    "in_reply_to_user_id": "1727950209190367232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967907392433361048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dtinl110036 @hongpigu980 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1967890754896073178",
+        "created_at": "2025-09-16T15:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T16:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967976409894428769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727950209190367232",
+              "start": 0,
+              "username": "dtinl110036"
+            },
+            {
+              "end": 25,
+              "id": "1688397365336850432",
+              "start": 13,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967976409894428769",
+        "in_reply_to_user_id": "1727950209190367232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967907392433361048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dtinl110036 @hongpigu980 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727950209190367232",
+        "conversation_id": "1967890754896073178",
+        "created_at": "2025-09-16T11:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967907392433361048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967907392433361048",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2171,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967890754896073178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 真救大命了，我睡过一个男的做爱的时候狂说我嘞个豆 还阳痿，简直这辈子阴影，睡过回来想到自己的经历，窝囊地哭了一个下午🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 38
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-24T07:20:33.000Z",
+        "description": "",
+        "id": "1727950209190367232",
+        "name": "香草常青树",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727951452201746432/cpHHGWnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 76,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "dtinl110036",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "🥇全球外围质量最高选➡️ @yunle111 “用性对抗平庸的生活”推广自辨/关评为广",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yunle111"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1967533836109267312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79942,
+          "following_count": 61,
+          "like_count": 79,
+          "listed_count": 80,
+          "media_count": 1189,
+          "tweet_count": 1546
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2046892755155066883",
+    "created_at": "2026-04-22T10:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046898014527127770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873708075619946497",
+          "start": 0,
+          "username": "qik1182069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046898014527127770",
+    "in_reply_to_user_id": "1873708075619946497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046896328475848843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qik1182069 他们总是轻描淡写地一笔带过我的痛苦，他们知道我有心理创伤，但是他们不敢为他们做过的暴力行为负责任，他们在逃避。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2046892755155066883",
+        "created_at": "2026-04-22T10:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046898014527127770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873708075619946497",
+              "start": 0,
+              "username": "qik1182069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046898014527127770",
+        "in_reply_to_user_id": "1873708075619946497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046896328475848843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qik1182069 他们总是轻描淡写地一笔带过我的痛苦，他们知道我有心理创伤，但是他们不敢为他们做过的暴力行为负责任，他们在逃避。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873708075619946497",
+        "conversation_id": "2046892755155066883",
+        "created_at": "2026-04-22T10:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046896328475848843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046896328475848843",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046892755155066883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 说这种话根本没什么用，根本忘记不了，事不能就这么过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / od / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 46,
+          "like_count": 1391,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 606
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T12:30:09.000Z",
+        "description": "三民主义-五权宪法-天下为公\n民族 民权 民生-三民主义\n立法 行政 司法 考试 监察-五权宪法\n🇹🇼天下为公🇹🇼",
+        "id": "1873708075619946497",
+        "location": "🇹🇼中华民国🇹🇼",
+        "name": "孙中山革命归来 看封建专制土崩瓦解 🇹🇼自由民主宪政共和终将实现🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045170474041417728/OQzNxgPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 21,
+          "like_count": 311,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "qik1182069",
+        "verified": false
+      }
+    ]
+  }
+}

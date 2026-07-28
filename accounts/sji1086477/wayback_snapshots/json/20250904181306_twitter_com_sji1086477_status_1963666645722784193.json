@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1963623385386111457",
+    "created_at": "2025-09-04T18:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T19:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963666645722784193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868507491967074304",
+          "start": 0,
+          "username": "exosvt20242013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963666645722784193",
+    "in_reply_to_user_id": "1868507491967074304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963629570202243403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@exosvt20242013 叫醒两次了，完全没有用🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1963623385386111457",
+        "created_at": "2025-09-04T18:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T19:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963666645722784193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868507491967074304",
+              "start": 0,
+              "username": "exosvt20242013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963666645722784193",
+        "in_reply_to_user_id": "1868507491967074304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963629570202243403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@exosvt20242013 叫醒两次了，完全没有用🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868507491967074304",
+        "conversation_id": "1963623385386111457",
+        "created_at": "2025-09-04T15:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963629570202243403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963629570202243403",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963623385386111457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 推醒他😂她😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控 欢迎找我聊天～",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T04:05:11.000Z",
+        "description": "",
+        "id": "1868507491967074304",
+        "name": "饺子大王",
+        "pinned_tweet_id": "1942516967237423286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950855233057562624/I-aVPljy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 145,
+          "like_count": 6095,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 745
+        },
+        "username": "exosvt20242013",
+        "verified": false
+      }
+    ]
+  }
+}

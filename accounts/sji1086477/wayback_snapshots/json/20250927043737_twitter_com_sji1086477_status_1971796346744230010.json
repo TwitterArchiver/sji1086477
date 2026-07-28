@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1971796346744230010",
+    "created_at": "2025-09-27T04:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T05:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971796346744230010"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971796346744230010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前害怕性格暴躁的男的于是总是被性格温柔的吸引，相处下来才发现温柔的都叠加了懦弱➕没能力的buff"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1971796346744230010",
+        "created_at": "2025-09-27T04:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971796346744230010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971796346744230010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前害怕性格暴躁的男的于是总是被性格温柔的吸引，相处下来才发现温柔的都叠加了懦弱➕没能力的buff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 16,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

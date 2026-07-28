@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2080984883162472467",
+    "created_at": "2026-07-25T12:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080990444008190196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011051704440274947",
+          "start": 0,
+          "username": "luminescence_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080990444008190196",
+    "in_reply_to_user_id": "2011051704440274947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080984883162472467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luminescence_0 我吃了直接想自杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2080984883162472467",
+        "created_at": "2026-07-25T12:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080990444008190196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011051704440274947",
+              "start": 0,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080990444008190196",
+        "in_reply_to_user_id": "2011051704440274947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080984883162472467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luminescence_0 我吃了直接想自杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011051704440274947",
+        "conversation_id": "2080984883162472467",
+        "created_at": "2026-07-25T11:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080984883162472467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080984883162472467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国产的舍曲林是真的比进口的副作用大吗乐元吃了之后必恶心想吐 但是原研药也换成晖致生产的了不知道应不应该换进口的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念   /  这里是我发疯的唯一途径  / 不是健全人  / 尝试戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 161,
+          "like_count": 2813,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1277
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "enby iiii depression\n欢迎扩列&友善的人会回fo❤️ 可交友\nThey told me all of my cages were mental So I got wasted like all my potential\n私信完全开放 ⬇️ngl链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/indigo73483",
+                "end": 23,
+                "expanded_url": "https://ngl.link/indigo73483",
+                "start": 0,
+                "url": "https://t.co/EQGVs6sr3N"
+              }
+            ]
+          }
+        },
+        "id": "2011051704440274947",
+        "location": "武汉",
+        "name": "Luminescence💚",
+        "pinned_tweet_id": "2079958567952794074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078779941844635648/ufP4w65o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 407,
+          "like_count": 2241,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/EQGVs6sr3N",
+        "username": "luminescence_0",
+        "verified": false
+      }
+    ]
+  }
+}

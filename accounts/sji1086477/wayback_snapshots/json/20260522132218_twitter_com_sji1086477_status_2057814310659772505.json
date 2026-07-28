@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2057814310659772505",
+    "created_at": "2026-05-22T13:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057814310659772505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1724557026867781632",
+          "start": 3,
+          "username": "Peacock166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057814310659772505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057755925851603395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Peacock166: 「社会化程度低」这个说法,是假借学术权威的误用。以前的说法是「不成熟」「长不大」「没出过社会」，这里所说的「社会」，不是社会学意义上的社会——它指的是那个社会险恶、尔虞我诈的社会\n\n而在他们眼中的「社会化程度高」——把人际关系当作资源、懂变通、油…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2057814310659772505",
+        "created_at": "2026-05-22T13:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057814310659772505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1724557026867781632",
+              "start": 3,
+              "username": "Peacock166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057814310659772505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057755925851603395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Peacock166: 「社会化程度低」这个说法,是假借学术权威的误用。以前的说法是「不成熟」「长不大」「没出过社会」，这里所说的「社会」，不是社会学意义上的社会——它指的是那个社会险恶、尔虞我诈的社会\n\n而在他们眼中的「社会化程度高」——把人际关系当作资源、懂变通、油…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724557026867781632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2057755925851603395",
+        "created_at": "2026-05-22T09:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057755925851603395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/Sui_aini/status/2057652164013818146",
+              "start": 129,
+              "url": "https://t.co/RAEO7TBH6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057755925851603395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「社会化程度低」这个说法,是假借学术权威的误用。以前的说法是「不成熟」「长不大」「没出过社会」，这里所说的「社会」，不是社会学意义上的社会——它指的是那个社会险恶、尔虞我诈的社会\n\n而在他们眼中的「社会化程度高」——把人际关系当作资源、懂变通、油条、脸皮厚\n基本上说的是反社会人格的行为模式：无视是非对错/习惯性说谎与操纵/缺乏同理心与悔意/极度自我中心\n\n总之：想成为怎样的人是个人选择，真正让我不爽的，是那些拿到一个专有名词就好像被赋予了什么权威，四处替人作诊断的人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1691,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057652164013818146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「社会化程度低」这个说法,是假借学术权威的误用。以前的说法是「不成熟」「长不大」「没出过社会」，这里所说的「社会」，不是社会学意义上的社会——它指的是那个社会险恶、尔虞我诈的社会\n\n而在他们眼中的「社会化程度高」——把人际关系当作资源、懂变通、油条、脸皮厚 https://t.co/RAEO7TBH6g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 77,
+          "like_count": 1711,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 783
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T22:37:16.000Z",
+        "description": "我很好骗",
+        "id": "1724557026867781632",
+        "name": "你坐到我尾巴了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022118727941308416/8EVYn_tH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 141,
+          "like_count": 14492,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 798
+        },
+        "username": "Peacock166",
+        "verified": true
+      }
+    ]
+  }
+}

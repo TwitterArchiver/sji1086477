@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2037228750908346748",
+    "created_at": "2026-03-26T18:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037238507882660289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2003119052898865152",
+          "start": 0,
+          "username": "Jiaoganemo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037238507882660289",
+    "in_reply_to_user_id": "2003119052898865152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037231793074802761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiaoganemo 学校根本不是人呆的地方👿正常小孩一旦被送进中国学校就等待着被学校折磨地失去勇气失去创新力失去自信失去主体性进行打压式愧疚式教育，被喂了那么多💩被折磨成精神病到头来还要感恩戴德😡🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2037228750908346748",
+        "created_at": "2026-03-26T18:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037238507882660289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2003119052898865152",
+              "start": 0,
+              "username": "Jiaoganemo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037238507882660289",
+        "in_reply_to_user_id": "2003119052898865152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037231793074802761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiaoganemo 学校根本不是人呆的地方👿正常小孩一旦被送进中国学校就等待着被学校折磨地失去勇气失去创新力失去自信失去主体性进行打压式愧疚式教育，被喂了那么多💩被折磨成精神病到头来还要感恩戴德😡🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003119052898865152",
+        "conversation_id": "2037228750908346748",
+        "created_at": "2026-03-26T18:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037231793074802761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037231793074802761",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037228750908346748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 我当时也好想休学，硬是强忍着恶心读完三年高中…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  /  欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 25,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 390
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T15:03:03.000Z",
+        "description": "恶魔的手帐📖｜互关欢迎🥰",
+        "id": "2003119052898865152",
+        "name": "交感恶魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003350257661280256/OGqW645W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 94,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 154
+        },
+        "username": "Jiaoganemo",
+        "verified": false
+      }
+    ]
+  }
+}

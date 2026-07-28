@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2049053516581445726",
+    "created_at": "2026-04-29T03:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049331887035109594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838433917529149440",
+          "start": 0,
+          "username": "shwjwn2575471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049331887035109594",
+    "in_reply_to_user_id": "1838433917529149440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049331471257850357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shwjwn2575471 好，今晚尝试😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2049053516581445726",
+        "created_at": "2026-04-29T03:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049331887035109594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838433917529149440",
+              "start": 0,
+              "username": "shwjwn2575471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049331887035109594",
+        "in_reply_to_user_id": "1838433917529149440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049331471257850357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shwjwn2575471 好，今晚尝试😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838433917529149440",
+        "conversation_id": "2049053516581445726",
+        "created_at": "2026-04-29T03:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049331471257850357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049331471257850357",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049330695773073454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 可以吧 好像苯二氮卓可以下机 不过我看了lolapsylab的视频后我吃啥药都不下机，因为我认同她不管什么trip都可以给你带来思考的观点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / od / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 60,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 651
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T04:23:09.000Z",
+        "description": "我什么也不知道我什么都想知道",
+        "id": "1838433917529149440",
+        "name": "shwjwn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044801952408866816/FBqFxwaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 121,
+          "like_count": 4628,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 112
+        },
+        "username": "shwjwn2575471",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2046850530333409732",
+    "created_at": "2026-04-22T07:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046854587613650989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2018268636180529152",
+          "start": 0,
+          "username": "yoyo936713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046854587613650989",
+    "in_reply_to_user_id": "2018268636180529152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046853029572542707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyo936713 晶哥就是一群混混当上了官🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2046850530333409732",
+        "created_at": "2026-04-22T07:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046854587613650989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018268636180529152",
+              "start": 0,
+              "username": "yoyo936713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046854587613650989",
+        "in_reply_to_user_id": "2018268636180529152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046853029572542707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyo936713 晶哥就是一群混混当上了官🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018268636180529152",
+        "conversation_id": "2046850530333409732",
+        "created_at": "2026-04-22T07:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046853029572542707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046853029572542707",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046850530333409732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 因为晶哥也是爱打孩子的父母"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 46,
+          "like_count": 1384,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 600
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T10:22:12.000Z",
+        "description": "精神分裂的高中辍学，穷逼电子厂打工国男一枚，丑陋致极，性压抑，骚扰变态，极品嘉豪啊嗯",
+        "id": "2018268636180529152",
+        "name": "yoyo（鸡哥cos版）",
+        "pinned_tweet_id": "2045150744261566908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038287122256302080/T-kolqI2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 265,
+          "like_count": 4961,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 374
+        },
+        "username": "yoyo936713",
+        "verified": false
+      }
+    ]
+  }
+}

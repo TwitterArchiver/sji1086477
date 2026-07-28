@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2052308217644953811",
+    "created_at": "2026-05-07T11:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052352536082829687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1557036804578377730",
+          "start": 0,
+          "username": "PM2_53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052352536082829687",
+    "in_reply_to_user_id": "1557036804578377730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052348568347062512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PM2_53 好像都有，我也不确定，或许是因为高考一直在我心里压着呢。也许六月份过去我能好很多，谢谢你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2052308217644953811",
+        "created_at": "2026-05-07T11:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052352536082829687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1557036804578377730",
+              "start": 0,
+              "username": "PM2_53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052352536082829687",
+        "in_reply_to_user_id": "1557036804578377730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052348568347062512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PM2_53 好像都有，我也不确定，或许是因为高考一直在我心里压着呢。也许六月份过去我能好很多，谢谢你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557036804578377730",
+        "conversation_id": "2052308217644953811",
+        "created_at": "2026-05-07T11:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052348568347062512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052348568347062512",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052308217644953811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 我觉得既然你想把它看的不重要，说明你还是很重视它的，首先你得搞清楚为什么重视它，是它能给你带来稳定的工作，亦或是父母的期望等等。等搞明白了原因，看看它与你现在想要或是未来期许的生活是否背离，如果相背离那自然就不重要，如果相和的话，那自然就是重要的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 71,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 698
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T16:12:52.000Z",
+        "description": "03大学生，男生，喜欢动画，历史，金融，欢迎大家\nwelcome for chating(。・`ω´・)",
+        "id": "1557036804578377730",
+        "name": "梦落随缘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051863921800396800/KnuHQknZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 31
+        },
+        "username": "PM2_53",
+        "verified": false
+      }
+    ]
+  }
+}

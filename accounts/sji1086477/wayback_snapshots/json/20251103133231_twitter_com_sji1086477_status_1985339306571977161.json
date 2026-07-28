@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1985182220844507560",
+    "created_at": "2025-11-03T13:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985339306571977161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955222109569028102",
+          "start": 0,
+          "username": "124118Chen"
+        },
+        {
+          "end": 20,
+          "id": "1703086500366450688",
+          "start": 12,
+          "username": "AGQNLZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985339306571977161",
+    "in_reply_to_user_id": "1955222109569028102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985297977506943313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@124118Chen @AGQNLZS 我完全没提到过任何日本相关，你个弱智粉红那么自卑啥都能跟日本扯上关系，我看中国出生率不低，到处都是像你一样的出生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1985182220844507560",
+        "created_at": "2025-11-03T13:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985339306571977161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955222109569028102",
+              "start": 0,
+              "username": "124118Chen"
+            },
+            {
+              "end": 20,
+              "id": "1703086500366450688",
+              "start": 12,
+              "username": "AGQNLZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985339306571977161",
+        "in_reply_to_user_id": "1955222109569028102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985297977506943313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@124118Chen @AGQNLZS 我完全没提到过任何日本相关，你个弱智粉红那么自卑啥都能跟日本扯上关系，我看中国出生率不低，到处都是像你一样的出生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955222109569028102",
+        "conversation_id": "1985182220844507560",
+        "created_at": "2025-11-03T10:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985297977506943313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            },
+            {
+              "end": 20,
+              "id": "1703086500366450688",
+              "start": 12,
+              "username": "AGQNLZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985297977506943313",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985287848543887745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 @AGQNLZS 被你这种人拉低素质了\n建议学习高素质日本人切腹\n以降低中国低素质率\n我说完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、粉红 |（主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 21,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T10:57:53.000Z",
+        "description": "中国人，热爱世界旅游，喜欢火锅与烤肉。我可以跟任何人交谈，偏见是人与人最远的距离",
+        "id": "1955222109569028102",
+        "name": "飞狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955222206600056837/HsPe5FZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 5,
+          "like_count": 3706,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 1559
+        },
+        "username": "124118Chen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T16:40:46.000Z",
+        "description": "清澈的爱，只为中国！🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqHrn…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqHrnDPURu18A90AUqJovvQ?si=NGcqmUi6RjNviqNB",
+                "start": 0,
+                "url": "https://t.co/K3JZ4OviFF"
+              }
+            ]
+          }
+        },
+        "id": "1703086500366450688",
+        "location": "China",
+        "name": "爱国青年刘战神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703086648777695232/Mhdka8cM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 127,
+          "like_count": 171,
+          "listed_count": 21,
+          "media_count": 177,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/K3JZ4OviFF",
+        "username": "AGQNLZS",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2057731798642160007",
+    "created_at": "2026-05-22T07:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T08:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057731798642160007"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057731798642160007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爸这种控制型自我感动喜欢当拯救者照护者来道德绑架侵犯边界感试图把自我感动式“付出”当做隐形条件来交换我以后对他年老时的保障的人根本就不是爱我吧🤣他爱的只有他投射出的自己，恰恰相反他才是更离不开我的那个，我离开只会让他感到自我价值感缺失🤣🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2057731798642160007",
+        "created_at": "2026-05-22T07:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057731798642160007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057731798642160007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爸这种控制型自我感动喜欢当拯救者照护者来道德绑架侵犯边界感试图把自我感动式“付出”当做隐形条件来交换我以后对他年老时的保障的人根本就不是爱我吧🤣他爱的只有他投射出的自己，恰恰相反他才是更离不开我的那个，我离开只会让他感到自我价值感缺失🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 76,
+          "like_count": 1706,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 781
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

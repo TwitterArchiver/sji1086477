@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2045484155862233578",
+    "created_at": "2026-04-19T12:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045840622922182683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045736813772640256",
+          "start": 0,
+          "username": "kkpian"
+        },
+        {
+          "end": 18,
+          "id": "1546162160111321088",
+          "start": 8,
+          "username": "17748_777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045840622922182683",
+    "in_reply_to_user_id": "2045736813772640256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045798612651872304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkpian @17748_777 回旋镖迟早打在你身上，爱上推特看黄是吗？给你屌上来两刀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2045484155862233578",
+        "created_at": "2026-04-19T12:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045840622922182683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045736813772640256",
+              "start": 0,
+              "username": "kkpian"
+            },
+            {
+              "end": 18,
+              "id": "1546162160111321088",
+              "start": 8,
+              "username": "17748_777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045840622922182683",
+        "in_reply_to_user_id": "2045736813772640256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045798612651872304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkpian @17748_777 回旋镖迟早打在你身上，爱上推特看黄是吗？给你屌上来两刀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045736813772640256",
+        "conversation_id": "2045484155862233578",
+        "created_at": "2026-04-19T09:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045798612651872304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546162160111321088",
+              "start": 0,
+              "username": "17748_777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045798612651872304",
+        "in_reply_to_user_id": "1546162160111321088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8800,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045484155862233578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17748_777 爱割的不怕脖子吃醋吗给脖子也来两刀呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川 / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 40,
+          "like_count": 1292,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 558
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T05:32:12.000Z",
+        "description": "锐评一切之人",
+        "id": "2045736813772640256",
+        "name": "igs3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045737329101549568/_0YzEznI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "kkpian",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T15:59:30.000Z",
+        "description": "我不再自残了。主页往期推文不会删，现在大概发的都是些恢复。女孩子互fo大欢迎",
+        "id": "1546162160111321088",
+        "name": "182",
+        "pinned_tweet_id": "1772350061399138646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679811687053152256/kgGNSBTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 497,
+          "like_count": 13017,
+          "listed_count": 5,
+          "media_count": 386,
+          "tweet_count": 1064
+        },
+        "username": "17748_777",
+        "verified": false
+      }
+    ]
+  }
+}

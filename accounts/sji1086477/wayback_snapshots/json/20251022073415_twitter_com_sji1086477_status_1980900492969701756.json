@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1980392443364442427",
+    "created_at": "2025-10-22T07:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T08:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980900492969701756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1749461171999051776",
+          "start": 0,
+          "username": "ni_jd19721"
+        },
+        {
+          "end": 27,
+          "id": "1669893523611725824",
+          "start": 12,
+          "username": "dngbwn36967737"
+        },
+        {
+          "end": 36,
+          "id": "1816923932005396480",
+          "start": 28,
+          "username": "ZHRKGHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980900492969701756",
+    "in_reply_to_user_id": "1749461171999051776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980674637794275591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ni_jd19721 @dngbwn36967737 @ZHRKGHG 抱歉哦我不需要跟男人成家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1980392443364442427",
+        "created_at": "2025-10-22T07:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980900492969701756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749461171999051776",
+              "start": 0,
+              "username": "ni_jd19721"
+            },
+            {
+              "end": 27,
+              "id": "1669893523611725824",
+              "start": 12,
+              "username": "dngbwn36967737"
+            },
+            {
+              "end": 36,
+              "id": "1816923932005396480",
+              "start": 28,
+              "username": "ZHRKGHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980900492969701756",
+        "in_reply_to_user_id": "1749461171999051776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980674637794275591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ni_jd19721 @dngbwn36967737 @ZHRKGHG 抱歉哦我不需要跟男人成家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749461171999051776",
+        "conversation_id": "1980392443364442427",
+        "created_at": "2025-10-21T16:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980674637794275591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            },
+            {
+              "end": 27,
+              "id": "1669893523611725824",
+              "start": 12,
+              "username": "dngbwn36967737"
+            },
+            {
+              "end": 36,
+              "id": "1816923932005396480",
+              "start": 28,
+              "username": "ZHRKGHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980674637794275591",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980584085262344656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 @dngbwn36967737 @ZHRKGHG 那你赚钱养家吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 17,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T15:57:17.000Z",
+        "description": "",
+        "id": "1749461171999051776",
+        "name": "ni jd d",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 30,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ni_jd19721",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-17T02:23:56.000Z",
+        "description": "右翼/反犹（包括☭☪️✡️✝️）/反台独/反毒品/反一切女权/反lgbt/男权主义/漢本位支持者/国社主义支持者，拒绝mtf性别逃亡主义，坐看🇵🇸🇮🇱狗咬狗。台湾是中国仅存的一部分。㜅无法创造社会和文化，它们只会腐化和毁坏已被创造出的文明和优秀文化。",
+        "id": "1669893523611725824",
+        "name": "make men great again",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920062884652199936/AyRIGMJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 265,
+          "like_count": 84482,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 16818
+        },
+        "username": "dngbwn36967737",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T19:50:20.000Z",
+        "description": "",
+        "id": "1816923932005396480",
+        "location": "加利福尼亚州",
+        "name": "中华人矿共和国",
+        "pinned_tweet_id": "1980744633731715540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950500480775544832/WwaIftgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41979,
+          "following_count": 1753,
+          "like_count": 35208,
+          "listed_count": 136,
+          "media_count": 4545,
+          "tweet_count": 7926
+        },
+        "username": "ZHRKGHG",
+        "verified": false
+      }
+    ]
+  }
+}

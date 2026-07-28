@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062091600784928768"
+      ],
+      "media_source_tweet_id": [
+        "2062091606321401930"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2062406855821857126",
+    "created_at": "2026-06-04T05:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T06:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062406855821857126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520784045021724672",
+          "start": 3,
+          "username": "akutan_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LbP2eOyFY8",
+          "end": 57,
+          "expanded_url": "https://x.com/akutan_bot/status/2062091606321401930/photo/1",
+          "media_key": "3_2062091600784928768",
+          "start": 34,
+          "url": "https://t.co/LbP2eOyFY8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062406855821857126",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1828
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062091606321401930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akutan_bot: これで何のアニメかわかった人は猛者 https://t.co/LbP2eOyFY8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1840,
+        "media_key": "3_2062091600784928768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4FYq8aMAAoGf3.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062091600784928768"
+          ],
+          "media_source_tweet_id": [
+            "2062091606321401930"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2062406855821857126",
+        "created_at": "2026-06-04T05:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T06:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062406855821857126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520784045021724672",
+              "start": 3,
+              "username": "akutan_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbP2eOyFY8",
+              "end": 57,
+              "expanded_url": "https://x.com/akutan_bot/status/2062091606321401930/photo/1",
+              "media_key": "3_2062091600784928768",
+              "start": 34,
+              "url": "https://t.co/LbP2eOyFY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062406855821857126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1828
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062091606321401930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akutan_bot: これで何のアニメかわかった人は猛者 https://t.co/LbP2eOyFY8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062091600784928768"
+          ]
+        },
+        "author_id": "1520784045021724672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2062091606321401930",
+        "created_at": "2026-06-03T08:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062091606321401930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbP2eOyFY8",
+              "end": 41,
+              "expanded_url": "https://x.com/akutan_bot/status/2062091606321401930/photo/1",
+              "media_key": "3_2062091600784928768",
+              "start": 18,
+              "url": "https://t.co/LbP2eOyFY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062091606321401930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1267,
+          "impression_count": 3821829,
+          "like_count": 26395,
+          "quote_count": 908,
+          "reply_count": 785,
+          "retweet_count": 1828
+        },
+        "reply_settings": "everyone",
+        "text": "これで何のアニメかわかった人は猛者 https://t.co/LbP2eOyFY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 115,
+          "like_count": 2113,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 987
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T15:15:54.000Z",
+        "description": "■アニメAnime■漫画■ネタツイ■イラスト■ツイ廃\n■毎日アニメや漫画の話題を投稿しています \n■サブ@mco_az■bot @f6kof @3ev34 @a_bkro @5kn_3■鍵 @akukinbot■絡みあればフォロバします",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 52,
+                "username": "mco_az"
+              },
+              {
+                "end": 70,
+                "start": 64,
+                "username": "f6kof"
+              },
+              {
+                "end": 77,
+                "start": 71,
+                "username": "3ev34"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "a_bkro"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "5kn_3"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "akukinbot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yzkrb",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@yzkrb",
+                "start": 0,
+                "url": "https://t.co/FuguaoErz6"
+              }
+            ]
+          }
+        },
+        "id": "1520784045021724672",
+        "location": "フォロワー5万人目標‼️",
+        "name": "夜桜🌸@アニメ•漫画",
+        "pinned_tweet_id": "1983131003607814461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953395257430929408/Rryg0qv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46029,
+          "following_count": 1071,
+          "like_count": 33982,
+          "listed_count": 125,
+          "media_count": 4848,
+          "tweet_count": 18952
+        },
+        "url": "https://t.co/FuguaoErz6",
+        "username": "akutan_bot",
+        "verified": true
+      }
+    ]
+  }
+}

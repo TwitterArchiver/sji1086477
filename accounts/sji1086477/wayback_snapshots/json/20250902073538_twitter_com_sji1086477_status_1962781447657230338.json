@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1962780712869994810",
+    "created_at": "2025-09-02T07:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T08:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962781447657230338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1935372590060843008",
+          "start": 0,
+          "username": "luobotoujunior"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962781447657230338",
+    "in_reply_to_user_id": "1935372590060843008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962780712869994810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobotoujunior 我长很丑吗我他妈对象呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1962780712869994810",
+        "created_at": "2025-09-02T07:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962781447657230338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1935372590060843008",
+              "start": 0,
+              "username": "luobotoujunior"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962781447657230338",
+        "in_reply_to_user_id": "1935372590060843008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962780712869994810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobotoujunior 我长很丑吗我他妈对象呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935372590060843008",
+        "conversation_id": "1962780712869994810",
+        "created_at": "2025-09-02T07:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962780712869994810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962780712869994810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我长很丑吗我他妈对象呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 欢迎找我聊天～",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T16:22:54.000Z",
+        "description": "萝卜头被砍成萝卜片了。自用蜂鸟VPN：https://t.co/AW9ZRmIABQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 42,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=MjvYc25r",
+                "start": 19,
+                "url": "https://t.co/AW9ZRmIABQ"
+              }
+            ]
+          }
+        },
+        "id": "1935372590060843008",
+        "name": "萝卜片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943673984748290048/fLXatP5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 111,
+          "like_count": 312,
+          "listed_count": 6,
+          "media_count": 44,
+          "tweet_count": 186
+        },
+        "username": "luobotoujunior",
+        "verified": false
+      }
+    ]
+  }
+}

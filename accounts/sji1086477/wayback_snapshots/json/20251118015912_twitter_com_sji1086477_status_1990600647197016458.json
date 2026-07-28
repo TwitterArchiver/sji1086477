@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1990600647197016458",
+    "created_at": "2025-11-18T01:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T02:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990600647197016458"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990600647197016458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每个老师都有个毛病觉得自己是皇帝所以每个学生都应该理所应当地对她们敬畏去尊重她们，无论她们如何对待学生，学生只能毕恭毕敬，不然就搬出儒教那一套随意批判下定义，并且这种毛病跟她们的讲课稀烂程度成正比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1990600647197016458",
+        "created_at": "2025-11-18T01:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990600647197016458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990600647197016458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每个老师都有个毛病觉得自己是皇帝所以每个学生都应该理所应当地对她们敬畏去尊重她们，无论她们如何对待学生，学生只能毕恭毕敬，不然就搬出儒教那一套随意批判下定义，并且这种毛病跟她们的讲课稀烂程度成正比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、支黑、小粉红 | （主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 19,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

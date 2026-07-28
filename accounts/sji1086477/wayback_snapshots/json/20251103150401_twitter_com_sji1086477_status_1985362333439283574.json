@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985362329161158656"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "conversation_id": "1985362333439283574",
+    "created_at": "2025-11-03T15:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T16:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985362333439283574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bayBIiWGbl",
+          "end": 89,
+          "expanded_url": "https://x.com/sji1086477/status/1985362333439283574/photo/1",
+          "media_key": "3_1985362329161158656",
+          "start": 66,
+          "url": "https://t.co/bayBIiWGbl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985362333439283574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "收到了小粉红的死亡威胁，还是那句话，你觉得我的言论辱党辱国了还是别的什么你可以随时报警，把我交给人民警察，如果我没有，那你就纯脑瘫 https://t.co/bayBIiWGbl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985362329161158656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41shPwX0AAhxOT.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985362329161158656"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "conversation_id": "1985362333439283574",
+        "created_at": "2025-11-03T15:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T16:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985362333439283574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bayBIiWGbl",
+              "end": 89,
+              "expanded_url": "https://x.com/sji1086477/status/1985362333439283574/photo/1",
+              "media_key": "3_1985362329161158656",
+              "start": 66,
+              "url": "https://t.co/bayBIiWGbl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985362333439283574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了小粉红的死亡威胁，还是那句话，你觉得我的言论辱党辱国了还是别的什么你可以随时报警，把我交给人民警察，如果我没有，那你就纯脑瘫 https://t.co/bayBIiWGbl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、粉红 |（主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 21,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

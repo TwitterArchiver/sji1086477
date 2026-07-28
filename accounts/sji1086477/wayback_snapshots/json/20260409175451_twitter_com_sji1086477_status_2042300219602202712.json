@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2042277673427140863",
+    "created_at": "2026-04-09T17:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042300219602202712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1896948222570147840",
+          "start": 0,
+          "username": "laki954456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042300219602202712",
+    "in_reply_to_user_id": "1896948222570147840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042277673427140863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laki954456 跟健全人交往是最虚伪的，因为他们自己都戴着虚假的社交面具不敢轻易表露出真实的自己。把自己的感受放在第一位把身边的人都当成NPC。。虽然这样很利己主义但是这是我能想到不内耗自己的最好的办法。。抱抱🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2042277673427140863",
+        "created_at": "2026-04-09T17:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042300219602202712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1896948222570147840",
+              "start": 0,
+              "username": "laki954456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042300219602202712",
+        "in_reply_to_user_id": "1896948222570147840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042277673427140863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laki954456 跟健全人交往是最虚伪的，因为他们自己都戴着虚假的社交面具不敢轻易表露出真实的自己。把自己的感受放在第一位把身边的人都当成NPC。。虽然这样很利己主义但是这是我能想到不内耗自己的最好的办法。。抱抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896948222570147840",
+        "conversation_id": "2042277673427140863",
+        "created_at": "2026-04-09T16:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042277673427140863"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042277673427140863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "究竟 何处是故乡啊。。\n哪里都可以我的容身之地啊\n无论在哪里我都是可有可无\n无论在哪里我都是最无所谓的那个\n我甚至还骚扰了那么多人。我就该直接下地狱来的。。废物 什么都不干做的废物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 长期失眠 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 32,
+          "like_count": 1151,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 496
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T15:38:36.000Z",
+        "description": "纯发泄负面情绪来的 不用在意的 虽然感觉本来也不会有人在意",
+        "id": "1896948222570147840",
+        "location": "Hong Kong",
+        "name": "em？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901088265647910913/qHy8PP0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 105,
+          "like_count": 2212,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 2345
+        },
+        "username": "laki954456",
+        "verified": false
+      }
+    ]
+  }
+}

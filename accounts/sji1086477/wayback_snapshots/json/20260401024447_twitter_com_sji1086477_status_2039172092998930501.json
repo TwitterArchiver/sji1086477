@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2039170781695893953",
+    "created_at": "2026-04-01T02:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039172092998930501"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039172092998930501",
+    "in_reply_to_user_id": "1934615181524615168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039170781695893953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中华民族完全就是社达民族，这几千年的历史经验就是告诉后代你不强大别人就会抢夺你的一切最后把你踩在脚下。这能指望这个社达民族能干出点什么民主共赢的事情，整个社会从上到下都是社达风气，完全就是一个披着现代外衣的封建国家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2039170781695893953",
+        "created_at": "2026-04-01T02:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039172092998930501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039172092998930501",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039170781695893953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中华民族完全就是社达民族，这几千年的历史经验就是告诉后代你不强大别人就会抢夺你的一切最后把你踩在脚下。这能指望这个社达民族能干出点什么民主共赢的事情，整个社会从上到下都是社达风气，完全就是一个披着现代外衣的封建国家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2039170781695893953",
+        "created_at": "2026-04-01T02:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039170781695893953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039170781695893953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中华历史本来就是历代皇帝压迫人民最终不是被起义干掉就是被政变干掉，各民族相互厮杀夺政权，到现如今居然可笑地要弘扬传承中华民族传统文化实则把官压民和儒教那套传承了下来，还一副假惺惺的样子宣传各民族团结实则背后无数双眼睛紧紧盯着有点风吹草动就动手生怕被夺了帝位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  /  欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 25,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 420
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

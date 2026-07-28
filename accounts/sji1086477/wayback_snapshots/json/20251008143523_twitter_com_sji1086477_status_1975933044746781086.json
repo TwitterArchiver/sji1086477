@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1975838767056592983",
+    "created_at": "2025-10-08T14:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T15:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975933044746781086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1803366054703591424",
+          "start": 0,
+          "username": "damilile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975933044746781086",
+    "in_reply_to_user_id": "1803366054703591424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975838767056592983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damilile 我会觉得对面在挑衅。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1041,
+        "media_key": "3_1975838760991596544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2uW4npaIAA14nv.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1975838767056592983",
+        "created_at": "2025-10-08T14:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975933044746781086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1803366054703591424",
+              "start": 0,
+              "username": "damilile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975933044746781086",
+        "in_reply_to_user_id": "1803366054703591424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975838767056592983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damilile 我会觉得对面在挑衅。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975838760991596544"
+          ]
+        },
+        "author_id": "1803366054703591424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975838767056592983",
+        "created_at": "2025-10-08T08:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T09:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975838767056592983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5oxLgLnor",
+              "end": 38,
+              "expanded_url": "https://x.com/damilile/status/1975838767056592983/photo/1",
+              "media_key": "3_1975838760991596544",
+              "start": 15,
+              "url": "https://t.co/F5oxLgLnor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975838767056592983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 41701,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一说话男朋友就说我骚货怎么办 https://t.co/F5oxLgLnor"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 19,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 122
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T09:55:58.000Z",
+        "description": "｜ᓚᘏᗢ💗੯‧̀͡⬮ ｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/damili53137",
+                "end": 23,
+                "expanded_url": "https://ngl.link/damili53137",
+                "start": 0,
+                "url": "https://t.co/ziwpexpXrR"
+              }
+            ]
+          }
+        },
+        "id": "1803366054703591424",
+        "name": "dami",
+        "pinned_tweet_id": "1973029917236547972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946187621882867712/olaeGKqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5995,
+          "following_count": 121,
+          "like_count": 5372,
+          "listed_count": 11,
+          "media_count": 301,
+          "tweet_count": 3840
+        },
+        "url": "https://t.co/ziwpexpXrR",
+        "username": "damilile",
+        "verified": false
+      }
+    ]
+  }
+}

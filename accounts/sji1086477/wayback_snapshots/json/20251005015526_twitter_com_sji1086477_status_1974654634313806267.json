@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1974520609653784666",
+    "created_at": "2025-10-05T01:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T02:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974654634313806267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "909425921722953729",
+          "start": 0,
+          "username": "TypicalSayori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974654634313806267",
+    "in_reply_to_user_id": "909425921722953729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974523630534201349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TypicalSayori 一股顺直气息扑面而来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1974520609653784666",
+        "created_at": "2025-10-05T01:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T02:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974654634313806267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "909425921722953729",
+              "start": 0,
+              "username": "TypicalSayori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974654634313806267",
+        "in_reply_to_user_id": "909425921722953729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974523630534201349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TypicalSayori 一股顺直气息扑面而来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909425921722953729",
+        "conversation_id": "1974520609653784666",
+        "created_at": "2025-10-04T17:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974523630534201349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974523630534201349",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974520609653784666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 主页破案😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 16,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 98
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-17T14:36:50.000Z",
+        "description": "你又因为没朋友大半夜来这锐评了是吗？",
+        "id": "909425921722953729",
+        "location": "破碎月亮",
+        "name": "如果是我的话我会很难过",
+        "pinned_tweet_id": "1725591382147113188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964022918104698884/A28SEp-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 201,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 240
+        },
+        "username": "TypicalSayori",
+        "verified": false
+      }
+    ]
+  }
+}

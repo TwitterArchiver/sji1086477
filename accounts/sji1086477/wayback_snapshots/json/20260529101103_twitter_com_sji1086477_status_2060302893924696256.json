@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2060257063276884350",
+    "created_at": "2026-05-29T10:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060302893924696256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838433917529149440",
+          "start": 0,
+          "username": "shwjwn2575471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060302893924696256",
+    "in_reply_to_user_id": "1838433917529149440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060257063276884350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shwjwn2575471 摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2060257063276884350",
+        "created_at": "2026-05-29T10:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060302893924696256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838433917529149440",
+              "start": 0,
+              "username": "shwjwn2575471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060302893924696256",
+        "in_reply_to_user_id": "1838433917529149440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060257063276884350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shwjwn2575471 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838433917529149440",
+        "conversation_id": "2060257063276884350",
+        "created_at": "2026-05-29T07:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060257063276884350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060257063276884350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑我真有严重的ptsd，我自从被抓之后，做了20多次各种各样嗑药被抓的梦。今天三点睡觉做了这样的梦五点醒了，然后胸闷想哭压抑，过了半小时睡着，7点又做了嗑药被抓的梦吓醒了，浑身剧痛，胸闷压抑。真的太恐怖了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 96,
+          "like_count": 1873,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 872
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T04:23:09.000Z",
+        "description": "我什么也不知道我什么都想知道",
+        "id": "1838433917529149440",
+        "location": "荒野之中",
+        "name": "hippie wildman",
+        "pinned_tweet_id": "2048431152642339234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044801952408866816/FBqFxwaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 196,
+          "like_count": 6627,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 269
+        },
+        "username": "shwjwn2575471",
+        "verified": false
+      }
+    ]
+  }
+}

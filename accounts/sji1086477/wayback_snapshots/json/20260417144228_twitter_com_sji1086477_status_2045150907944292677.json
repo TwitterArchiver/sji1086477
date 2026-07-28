@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045150904777887745"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "conversation_id": "2045149475149119949",
+    "created_at": "2026-04-17T14:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045150907944292677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JXF0ehha0N",
+          "end": 101,
+          "expanded_url": "https://x.com/sji1086477/status/2045150907944292677/photo/1",
+          "media_key": "3_2045150904777887745",
+          "start": 78,
+          "url": "https://t.co/JXF0ehha0N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045150907944292677",
+    "in_reply_to_user_id": "1934615181524615168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045149475149119949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一直以各种理由引导我发短信进行人机验证发了两条后觉得不对劲马上止损拉黑，后来还特别鸡贼给我发莫名其妙的话（还有中文）引诱我继续发短信，第一次见这种骗术😭😭 https://t.co/JXF0ehha0N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_2045150904777887745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHV6Yda0AEDR4q.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045150904777887745"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "conversation_id": "2045149475149119949",
+        "created_at": "2026-04-17T14:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045150907944292677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXF0ehha0N",
+              "end": 101,
+              "expanded_url": "https://x.com/sji1086477/status/2045150907944292677/photo/1",
+              "media_key": "3_2045150904777887745",
+              "start": 78,
+              "url": "https://t.co/JXF0ehha0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045150907944292677",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045149475149119949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直以各种理由引导我发短信进行人机验证发了两条后觉得不对劲马上止损拉黑，后来还特别鸡贼给我发莫名其妙的话（还有中文）引诱我继续发短信，第一次见这种骗术😭😭 https://t.co/JXF0ehha0N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2045149475149119949",
+        "created_at": "2026-04-17T14:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045149475149119949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045149475149119949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽中招了下个软件要人机验证扣了我80短信费🤧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 反父权剥削 / 身体自主权 /长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 37,
+          "like_count": 1241,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 536
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

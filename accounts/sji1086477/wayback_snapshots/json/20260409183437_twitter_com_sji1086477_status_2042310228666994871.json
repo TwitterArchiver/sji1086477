@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2042310228666994871",
+    "created_at": "2026-04-09T18:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T19:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042310228666994871"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042310228666994871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我讨厌中式教育，讨厌中国社会的一点就是，当我很努力地焦虑地学习但依旧卷不过别人被告知不够优秀时，一个北欧人告诉我他跟我比起来简直就像个废物，他说我比他上进多了。可是他所处的环境压根就不需要他多么上进，他不去焦虑这些是因为他没必要焦虑。相比之下我感觉我很可悲😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2042310228666994871",
+        "created_at": "2026-04-09T18:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042310228666994871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042310228666994871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌中式教育，讨厌中国社会的一点就是，当我很努力地焦虑地学习但依旧卷不过别人被告知不够优秀时，一个北欧人告诉我他跟我比起来简直就像个废物，他说我比他上进多了。可是他所处的环境压根就不需要他多么上进，他不去焦虑这些是因为他没必要焦虑。相比之下我感觉我很可悲😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 长期失眠 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 32,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 498
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

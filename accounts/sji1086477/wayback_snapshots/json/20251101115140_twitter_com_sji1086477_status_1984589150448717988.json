@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1976909509261205908",
+    "created_at": "2025-11-01T11:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T12:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984589150448717988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1422797484053520385",
+          "start": 0,
+          "username": "hsouncle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984589150448717988",
+    "in_reply_to_user_id": "1422797484053520385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976909509261205908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsouncle 在你认知里是不是国家＝政府＝人民"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1976909509261205908",
+        "created_at": "2025-11-01T11:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T12:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984589150448717988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1422797484053520385",
+              "start": 0,
+              "username": "hsouncle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984589150448717988",
+        "in_reply_to_user_id": "1422797484053520385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976909509261205908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsouncle 在你认知里是不是国家＝政府＝人民"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1422797484053520385",
+        "conversation_id": "1976909509261205908",
+        "created_at": "2025-10-11T07:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T08:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976909509261205908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976909509261205908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15542,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你可以攻击侮辱我，我无所谓，毕竟什么狗吠我都听过。我固然不重要，国家如何对我都不重要，但我的国家比我重要千千万倍，因为这国家有很多我爱的人和事，你不配对他们指指点点，说三道四。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 |（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 21,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T05:52:29.000Z",
+        "description": "现在开始分流。\n这个号是 美食/键政/唠叨/生活/乐子人模式。\n要看瑟瑟的请去旧号： @lspgauc\n谢谢大家支持。\nYouTube频道在搭建中。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "lspgauc"
+              }
+            ]
+          }
+        },
+        "id": "1422797484053520385",
+        "location": "小李卤味",
+        "name": "嘉叔🚀biantai***🈲",
+        "pinned_tweet_id": "1976909509261205908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873600543760990209/uIQ8Up6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18228,
+          "following_count": 686,
+          "like_count": 31054,
+          "listed_count": 90,
+          "media_count": 6528,
+          "tweet_count": 50451
+        },
+        "username": "hsouncle",
+        "verified": true
+      }
+    ]
+  }
+}

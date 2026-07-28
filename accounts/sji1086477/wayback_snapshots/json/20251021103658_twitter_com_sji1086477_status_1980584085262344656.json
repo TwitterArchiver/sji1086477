@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1980392443364442427",
+    "created_at": "2025-10-21T10:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T11:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980584085262344656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669893523611725824",
+          "start": 0,
+          "username": "dngbwn36967737"
+        },
+        {
+          "end": 24,
+          "id": "1816923932005396480",
+          "start": 16,
+          "username": "ZHRKGHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980584085262344656",
+    "in_reply_to_user_id": "1669893523611725824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980488543542865925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dngbwn36967737 @ZHRKGHG 那你在家带娃吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1980392443364442427",
+        "created_at": "2025-10-21T10:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980584085262344656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1669893523611725824",
+              "start": 0,
+              "username": "dngbwn36967737"
+            },
+            {
+              "end": 24,
+              "id": "1816923932005396480",
+              "start": 16,
+              "username": "ZHRKGHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980584085262344656",
+        "in_reply_to_user_id": "1669893523611725824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980488543542865925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dngbwn36967737 @ZHRKGHG 那你在家带娃吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669893523611725824",
+        "conversation_id": "1980392443364442427",
+        "created_at": "2025-10-21T04:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T05:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980488543542865925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816923932005396480",
+              "start": 0,
+              "username": "ZHRKGHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980488543542865925",
+        "in_reply_to_user_id": "1816923932005396480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2185,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980392443364442427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZHRKGHG 就这还一口一个男权社会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 17,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 183
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-17T02:23:56.000Z",
+        "description": "右翼/反犹（包括☭☪️✡️✝️）/反台独/反毒品/反一切女权/反lgbt/男权主义/漢本位支持者/国社主义支持者，拒绝mtf性别逃亡主义。台湾是中国仅存的一部分。㜅无法创造社会和文化，它们只会腐化和毁坏已被创造出的文明和优秀文化。",
+        "id": "1669893523611725824",
+        "name": "make men great again",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920062884652199936/AyRIGMJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 259,
+          "like_count": 84179,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 16691
+        },
+        "username": "dngbwn36967737",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T19:50:20.000Z",
+        "description": "",
+        "id": "1816923932005396480",
+        "location": "加利福尼亚州",
+        "name": "中华人矿共和国",
+        "pinned_tweet_id": "1979799981860307412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950500480775544832/WwaIftgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41871,
+          "following_count": 1752,
+          "like_count": 35140,
+          "listed_count": 135,
+          "media_count": 4533,
+          "tweet_count": 7872
+        },
+        "username": "ZHRKGHG",
+        "verified": false
+      }
+    ]
+  }
+}

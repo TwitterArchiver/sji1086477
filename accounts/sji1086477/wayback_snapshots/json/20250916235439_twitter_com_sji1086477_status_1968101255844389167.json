@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1967977052117803451",
+    "created_at": "2025-09-16T23:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T00:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968101255844389167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1596191910443749376",
+          "start": 0,
+          "username": "Hotissue0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968101255844389167",
+    "in_reply_to_user_id": "1596191910443749376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967989657439965387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hotissue0 🥹🥹神经衰弱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1967977052117803451",
+        "created_at": "2025-09-16T23:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T00:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968101255844389167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1596191910443749376",
+              "start": 0,
+              "username": "Hotissue0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968101255844389167",
+        "in_reply_to_user_id": "1596191910443749376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967989657439965387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hotissue0 🥹🥹神经衰弱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596191910443749376",
+        "conversation_id": "1967977052117803451",
+        "created_at": "2025-09-16T16:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T17:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967989657439965387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967989657439965387",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967977052117803451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 我也是嘞 好贱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 40
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T17:19:50.000Z",
+        "description": "滚^_^ 我废话很多很多很多多多多",
+        "id": "1596191910443749376",
+        "name": "Sue.zip",
+        "pinned_tweet_id": "1887010413977723108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955491113894285313/TxnXfEwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 223,
+          "like_count": 4491,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 3638
+        },
+        "username": "Hotissue0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1983144837684576645",
+    "created_at": "2025-10-31T01:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T02:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984069002595876976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1332712954047856641",
+          "start": 0,
+          "username": "xinwendiaocha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984069002595876976",
+    "in_reply_to_user_id": "1332712954047856641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983144837684576645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinwendiaocha 这个新闻调查总是发一些断章取义的内容和阴谋论，还是去维基百科搜词条能权威一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9333,
+        "height": 960,
+        "media_key": "13_1983144781820899329",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983144781820899329/img/UY3V3GrE_LN7xrDM.jpg",
+        "public_metrics": {
+          "view_count": 587359
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983144781820899329/vid/avc1/320x564/Uf2lXVMqTGDE1zSD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983144781820899329/vid/avc1/480x846/B-xCOpF91AmGpbDA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983144781820899329/vid/avc1/544x960/7pWatNZNZ3wDmnB3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983144781820899329/pl/jzjv6IKWNrXHDXeF.m3u8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 17133,
+        "height": 1280,
+        "media_key": "13_1983144781829357569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1983144781829357569/img/XijgbWbUf_Txsh7O.jpg",
+        "public_metrics": {
+          "view_count": 259497
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983144781829357569/vid/avc1/320x568/73IXRMP12y7_TAbQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983144781829357569/vid/avc1/480x852/RIEpYeyjIVII-8PU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1983144781829357569/vid/avc1/720x1280/e1_nf-llV-yQ5u-t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1983144781829357569/pl/yJrqP3gnfqbL7EnE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1983144837684576645",
+        "created_at": "2025-10-31T01:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T02:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984069002595876976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1332712954047856641",
+              "start": 0,
+              "username": "xinwendiaocha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984069002595876976",
+        "in_reply_to_user_id": "1332712954047856641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983144837684576645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinwendiaocha 这个新闻调查总是发一些断章取义的内容和阴谋论，还是去维基百科搜词条能权威一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1983144781820899329",
+            "13_1983144781829357569"
+          ]
+        },
+        "author_id": "1332712954047856641",
+        "conversation_id": "1983144837684576645",
+        "created_at": "2025-10-28T12:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T13:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983144837684576645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k3zCVvImt8",
+              "end": 36,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1983144837684576645/video/1",
+              "media_key": "13_1983144781820899329",
+              "start": 13,
+              "url": "https://t.co/k3zCVvImt8"
+            },
+            {
+              "display_url": "pic.x.com/k3zCVvImt8",
+              "end": 36,
+              "expanded_url": "https://x.com/xinwendiaocha/status/1983144837684576645/video/1",
+              "media_key": "13_1983144781829357569",
+              "start": 13,
+              "url": "https://t.co/k3zCVvImt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983144837684576645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 470,
+          "impression_count": 1362854,
+          "like_count": 2787,
+          "quote_count": 33,
+          "reply_count": 642,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "墙内又出现一名勇士，疯传 https://t.co/k3zCVvImt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 |（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 20,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-28T15:48:33.000Z",
+        "description": "追踪新闻，调查真相！ 投稿、商务合作邮箱：charles811203@gmail.com 蓝天号：https://t.co/jAbho9ANSf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/xinwen…",
+                "end": 72,
+                "expanded_url": "https://bsky.app/profile/xinwendiaocha2025.bsky.social",
+                "start": 49,
+                "url": "https://t.co/jAbho9ANSf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/7tHKzRuGFb"
+              }
+            ]
+          }
+        },
+        "id": "1332712954047856641",
+        "name": "新闻调查",
+        "pinned_tweet_id": "1967098978899816474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347827975383760896/6aV1UyGk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614696,
+          "following_count": 84,
+          "like_count": 3652,
+          "listed_count": 1585,
+          "media_count": 35718,
+          "tweet_count": 53866
+        },
+        "url": "https://t.co/7tHKzRuGFb",
+        "username": "xinwendiaocha",
+        "verified": true
+      }
+    ]
+  }
+}

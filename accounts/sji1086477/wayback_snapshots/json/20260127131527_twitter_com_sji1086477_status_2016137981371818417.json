@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2015437838440190343",
+    "created_at": "2026-01-27T13:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T14:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016137981371818417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1423876004779630592",
+          "start": 0,
+          "username": "cavu_zz"
+        },
+        {
+          "end": 25,
+          "id": "1959674017373462528",
+          "start": 9,
+          "username": "Alicemimimiao11"
+        },
+        {
+          "end": 33,
+          "id": "1842443903561338880",
+          "start": 26,
+          "username": "A3k938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016137981371818417",
+    "in_reply_to_user_id": "1423876004779630592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015704539702362507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cavu_zz @Alicemimimiao11 @A3k938 宝宝你看看是不是充电头用的不对，偷欢最大用20W，超过了容易坏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2015437838440190343",
+        "created_at": "2026-01-27T13:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T14:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016137981371818417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1423876004779630592",
+              "start": 0,
+              "username": "cavu_zz"
+            },
+            {
+              "end": 25,
+              "id": "1959674017373462528",
+              "start": 9,
+              "username": "Alicemimimiao11"
+            },
+            {
+              "end": 33,
+              "id": "1842443903561338880",
+              "start": 26,
+              "username": "A3k938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016137981371818417",
+        "in_reply_to_user_id": "1423876004779630592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015704539702362507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cavu_zz @Alicemimimiao11 @A3k938 宝宝你看看是不是充电头用的不对，偷欢最大用20W，超过了容易坏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423876004779630592",
+        "conversation_id": "2015437838440190343",
+        "created_at": "2026-01-26T08:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015704539702362507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959674017373462528",
+              "start": 0,
+              "username": "Alicemimimiao11"
+            },
+            {
+              "end": 24,
+              "id": "1842443903561338880",
+              "start": 17,
+              "username": "A3k938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015704539702362507",
+        "in_reply_to_user_id": "1959674017373462528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015460866729382050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alicemimimiao11 @A3k938 偷欢好容易坏😭两个全坏掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07   女  碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 20,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-07T05:17:58.000Z",
+        "description": "想到什么说什么",
+        "id": "1423876004779630592",
+        "name": "我不喜欢很多事",
+        "pinned_tweet_id": "1689669826782851072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003036688268828672/z7e2Qk1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 71,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 159
+        },
+        "username": "cavu_zz",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T17:47:59.000Z",
+        "description": "废话很多 喜欢女宝｜不定时删帖｜不约不加联系方式｜私信看心情回｜没有陪聊的义务 陪聊打钱谢谢｜骂我的没妈｜另一个我@Wendyyyy_awo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "Wendyyyy_awo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alice51462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alice51462",
+                "start": 0,
+                "url": "https://t.co/Py9CPZxB06"
+              }
+            ]
+          }
+        },
+        "id": "1959674017373462528",
+        "location": "🚪288/520/1314 匿名➡️",
+        "name": "Alice",
+        "pinned_tweet_id": "2006335726410183054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010237010825392128/cuiFSv0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 107,
+          "like_count": 4541,
+          "listed_count": 14,
+          "media_count": 100,
+          "tweet_count": 1795
+        },
+        "url": "https://t.co/Py9CPZxB06",
+        "username": "Alicemimimiao11",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T05:57:27.000Z",
+        "description": "奇怪的人类 infj-a xp超多^ ^",
+        "id": "1842443903561338880",
+        "location": "上海",
+        "name": "小枳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014924335786635264/SgErLmZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 65,
+          "like_count": 1961,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1200
+        },
+        "username": "A3k938",
+        "verified": false
+      }
+    ]
+  }
+}

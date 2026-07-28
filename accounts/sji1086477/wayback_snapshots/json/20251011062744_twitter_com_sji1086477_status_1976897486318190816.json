@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1976878062618001703",
+    "created_at": "2025-10-11T06:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T07:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976897486318190816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1757462922413096960",
+          "start": 0,
+          "username": "q1y1gu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976897486318190816",
+    "in_reply_to_user_id": "1757462922413096960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976891787345379806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q1y1gu_ 持续半个月肯定特别窒息了，我在网上看严重点还会产生幻觉真的特别恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1976878062618001703",
+        "created_at": "2025-10-11T06:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T07:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976897486318190816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1757462922413096960",
+              "start": 0,
+              "username": "q1y1gu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976897486318190816",
+        "in_reply_to_user_id": "1757462922413096960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976891787345379806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q1y1gu_ 持续半个月肯定特别窒息了，我在网上看严重点还会产生幻觉真的特别恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757462922413096960",
+        "conversation_id": "1976878062618001703",
+        "created_at": "2025-10-11T06:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T07:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976891787345379806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976891787345379806",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976878062618001703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 我经历过 大概持续了半个月左右睡午觉或者晚上睡觉都会 脑子是清醒的，但是身体动都不动，真的很可怕。可能是精神压力太大了，或者是没休息好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 24,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T17:53:24.000Z",
+        "description": "不免费陪聊/私信约炮死爹死爷爷/丑男别来骚扰我/对自己无限宽容",
+        "id": "1757462922413096960",
+        "location": "老公怀里",
+        "name": "🎨",
+        "pinned_tweet_id": "1976543837498859844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976603983004512256/LaKTdius_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 149,
+          "like_count": 1001,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 925
+        },
+        "username": "q1y1gu_",
+        "verified": false
+      }
+    ]
+  }
+}

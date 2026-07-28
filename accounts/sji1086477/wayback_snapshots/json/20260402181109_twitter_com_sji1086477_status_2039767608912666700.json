@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2039695623910519261",
+    "created_at": "2026-04-02T18:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T19:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039767608912666700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908850461891026945",
+          "start": 0,
+          "username": "qwykoou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039767608912666700",
+    "in_reply_to_user_id": "1908850461891026945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039695623910519261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwykoou 宝宝因为你在拿自己和比自己大两三轮已经拿时间去积累财富的同学父母做比较，这样好像就有自己落后于同龄人的错觉，但是宝宝你靠自己努力考上211已经超过绝大多数同龄人了☺️☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2039695623910519261",
+        "created_at": "2026-04-02T18:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T19:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039767608912666700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908850461891026945",
+              "start": 0,
+              "username": "qwykoou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039767608912666700",
+        "in_reply_to_user_id": "1908850461891026945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039695623910519261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwykoou 宝宝因为你在拿自己和比自己大两三轮已经拿时间去积累财富的同学父母做比较，这样好像就有自己落后于同龄人的错觉，但是宝宝你靠自己努力考上211已经超过绝大多数同龄人了☺️☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908850461891026945",
+        "conversation_id": "2039695623910519261",
+        "created_at": "2026-04-02T13:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039695623910519261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039695623910519261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2792,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想出去玩…..我好像从小到大很少去别的城市玩，没有人陪我去也没有钱…看到周围的同学朋友清明出去玩其实还挺羡慕的….唉，其实我的心态完全改变了，初中的时候可能会嫉妒难过，现在只会淡淡的说我就这样了，我就是这种命🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  /  欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 25,
+          "like_count": 1036,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 427
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T11:53:17.000Z",
+        "description": "不高兴就锁推",
+        "id": "1908850461891026945",
+        "name": "愈合",
+        "pinned_tweet_id": "2026604947043995930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994826902096560128/UJKHYEeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 197,
+          "like_count": 2871,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1105
+        },
+        "username": "qwykoou",
+        "verified": false
+      }
+    ]
+  }
+}

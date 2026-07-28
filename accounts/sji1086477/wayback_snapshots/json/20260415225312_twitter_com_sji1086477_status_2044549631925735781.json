@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2044549631925735781",
+    "created_at": "2026-04-15T22:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T23:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044549631925735781"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044549631925735781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚穿睡衣下楼买早餐的时候看到有学生背书包上学我还在下意识地想今天是周内吗怎么我不上学😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2044549631925735781",
+        "created_at": "2026-04-15T22:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044549631925735781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044549631925735781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚穿睡衣下楼买早餐的时候看到有学生背书包上学我还在下意识地想今天是周内吗怎么我不上学😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 反父权剥削 / 身体自主权 /长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 35,
+          "like_count": 1223,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 533
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

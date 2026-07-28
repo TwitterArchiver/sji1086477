@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2043862814880940341",
+    "created_at": "2026-04-14T11:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044014555374727306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1727566470371213312",
+          "start": 0,
+          "username": "huafu374938"
+        },
+        {
+          "end": 22,
+          "id": "1589809419822329857",
+          "start": 13,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044014555374727306",
+    "in_reply_to_user_id": "1727566470371213312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043958610032767352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huafu374938 @jianlvup 傻逼你也偷换概念，睡觉和交往一样吗🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2043862814880940341",
+        "created_at": "2026-04-14T11:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044014555374727306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1727566470371213312",
+              "start": 0,
+              "username": "huafu374938"
+            },
+            {
+              "end": 22,
+              "id": "1589809419822329857",
+              "start": 13,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044014555374727306",
+        "in_reply_to_user_id": "1727566470371213312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043958610032767352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huafu374938 @jianlvup 傻逼你也偷换概念，睡觉和交往一样吗🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727566470371213312",
+        "conversation_id": "2043862814880940341",
+        "created_at": "2026-04-14T07:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043958610032767352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043958610032767352",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1196,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043862814880940341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 无语了，隐藏条件是吧？炫耀只能在同性间炫耀，睡过很多女的拿到女性面前不还是要被骂渣男？女的不也可以在同性面前炫耀自己交往过许多男性？偷换概念一点意思都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 长期失眠 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 31,
+          "like_count": 1192,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 513
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T05:55:30.000Z",
+        "description": "",
+        "id": "1727566470371213312",
+        "name": "hua fu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727566526197477376/3ldez-jo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 329,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "huafu374938",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2043930316998578511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17089,
+          "following_count": 1450,
+          "like_count": 78276,
+          "listed_count": 60,
+          "media_count": 2959,
+          "tweet_count": 6216
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

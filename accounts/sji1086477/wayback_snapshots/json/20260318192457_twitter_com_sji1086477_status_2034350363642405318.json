@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2034349838997803420",
+    "created_at": "2026-03-18T19:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T20:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034350363642405318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2003119052898865152",
+          "start": 0,
+          "username": "Jiaoganemo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034350363642405318",
+    "in_reply_to_user_id": "2003119052898865152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034350031281766437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiaoganemo 抱抱🫂睡不着就不强迫自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2034349838997803420",
+        "created_at": "2026-03-18T19:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T20:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034350363642405318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2003119052898865152",
+              "start": 0,
+              "username": "Jiaoganemo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034350363642405318",
+        "in_reply_to_user_id": "2003119052898865152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034350031281766437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiaoganemo 抱抱🫂睡不着就不强迫自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003119052898865152",
+        "conversation_id": "2034349838997803420",
+        "created_at": "2026-03-18T19:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T20:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034350031281766437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034350031281766437",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034349838997803420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 我也T T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07   女  碎碎念  休学备考中…    这里是我发疯的唯一途径",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 21,
+          "like_count": 921,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T15:03:03.000Z",
+        "description": "恶魔的手帐📖｜互关欢迎🥰",
+        "id": "2003119052898865152",
+        "name": "交感恶魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003350257661280256/OGqW645W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 91,
+          "like_count": 542,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 137
+        },
+        "username": "Jiaoganemo",
+        "verified": false
+      }
+    ]
+  }
+}

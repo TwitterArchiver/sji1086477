@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1969081246920688047",
+    "created_at": "2025-09-19T17:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T18:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969085316066656566"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1969085316066656566",
+    "in_reply_to_user_id": "1934615181524615168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969081246920688047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对他人的愤怒和需求视若无睹，做人做事依然以可怜的自我需求满足为前提，把公共场合当自己家，三四十岁的成年人居然在医院谈起了恋爱还搞起了小团体那一套，在这里各种牛鬼蛇神应有尽有，我算是大饱眼福。\n以上只是每天要忍受的一小部分，最重要的是周边的食物特别特别难吃，我真的忍受不了这个😟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1969081246920688047",
+        "created_at": "2025-09-19T17:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T18:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969085316066656566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969085316066656566",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969081246920688047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对他人的愤怒和需求视若无睹，做人做事依然以可怜的自我需求满足为前提，把公共场合当自己家，三四十岁的成年人居然在医院谈起了恋爱还搞起了小团体那一套，在这里各种牛鬼蛇神应有尽有，我算是大饱眼福。\n以上只是每天要忍受的一小部分，最重要的是周边的食物特别特别难吃，我真的忍受不了这个😟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1969081246920688047",
+        "created_at": "2025-09-19T16:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T17:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969081246920688047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969081246920688047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从住院两个多月以来没睡过一次好觉，明明每天早睡早起作息规律黑眼圈却越来越重。晚上总是被旁边人制造出的各种噪声吵醒，还没睡几个小时早上又被走廊各种各样的吵闹声唤醒，几乎每晚都是浅睡眠状态。\n医院里的病人大多数都非常没有边界感没有换位思考的能力，每天耳边充斥着怨天尤人的声音"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 14,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 51
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

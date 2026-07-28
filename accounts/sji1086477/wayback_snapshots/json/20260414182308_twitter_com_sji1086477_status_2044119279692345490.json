@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2043862814880940341",
+    "created_at": "2026-04-14T18:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044119279692345490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685152248098410496",
+          "start": 0,
+          "username": "WYYXH2CY_"
+        },
+        {
+          "end": 23,
+          "id": "1727566470371213312",
+          "start": 11,
+          "username": "huafu374938"
+        },
+        {
+          "end": 33,
+          "id": "1589809419822329857",
+          "start": 24,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044119279692345490",
+    "in_reply_to_user_id": "1685152248098410496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044109621888225401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WYYXH2CY_ @huafu374938 @jianlvup 没有正常女性会在同性面前炫耀睡过多少男人哈，这个话题本来就很冒犯很奇怪，并且无论男女把性当成炫耀资本展现自己强大的一律都是烂人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2043862814880940341",
+        "created_at": "2026-04-14T18:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044119279692345490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685152248098410496",
+              "start": 0,
+              "username": "WYYXH2CY_"
+            },
+            {
+              "end": 23,
+              "id": "1727566470371213312",
+              "start": 11,
+              "username": "huafu374938"
+            },
+            {
+              "end": 33,
+              "id": "1589809419822329857",
+              "start": 24,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044119279692345490",
+        "in_reply_to_user_id": "1685152248098410496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044109621888225401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WYYXH2CY_ @huafu374938 @jianlvup 没有正常女性会在同性面前炫耀睡过多少男人哈，这个话题本来就很冒犯很奇怪，并且无论男女把性当成炫耀资本展现自己强大的一律都是烂人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685152248098410496",
+        "conversation_id": "2043862814880940341",
+        "created_at": "2026-04-14T17:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044109621888225401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            },
+            {
+              "end": 24,
+              "id": "1727566470371213312",
+              "start": 12,
+              "username": "huafu374938"
+            },
+            {
+              "end": 34,
+              "id": "1589809419822329857",
+              "start": 25,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044109621888225401",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044014555374727306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 @huafu374938 @jianlvup 那女的不也可以在同性面前炫耀自己睡过许多男性，有什么问题？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 女权主义 / 长期失眠 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 31,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 514
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-29T04:56:55.000Z",
+        "description": "你要坚信一场恋爱只是一场梦，把没有ta能活得更好的理由记下来，每次意志晕头晕脑时，将ta的罪状再看一遍，相信时间会消逝一切。",
+        "id": "1685152248098410496",
+        "name": "GYU",
+        "pinned_tweet_id": "1955325974595227798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008956437020725248/LANz9mZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 1451,
+          "like_count": 35829,
+          "listed_count": 1,
+          "media_count": 575,
+          "tweet_count": 3284
+        },
+        "username": "WYYXH2CY_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T05:55:30.000Z",
+        "description": "",
+        "id": "1727566470371213312",
+        "name": "hua fu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727566526197477376/3ldez-jo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 329,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "huafu374938",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "为爱发电",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2043930316998578511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17100,
+          "following_count": 1453,
+          "like_count": 78333,
+          "listed_count": 60,
+          "media_count": 2959,
+          "tweet_count": 6217
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

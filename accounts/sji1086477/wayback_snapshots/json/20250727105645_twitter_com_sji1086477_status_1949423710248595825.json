@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1948827253158428847",
+    "created_at": "2025-07-27T10:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T11:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949423710248595825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1587039924913831936",
+          "start": 0,
+          "username": "C_cchrs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949423710248595825",
+    "in_reply_to_user_id": "1587039924913831936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948827253158428847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C_cchrs 改成加拿大非欧盟国家也不行啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948827242139947008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwugDShbEAAtwvp.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1948827253158428847",
+        "created_at": "2025-07-27T10:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949423710248595825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1587039924913831936",
+              "start": 0,
+              "username": "C_cchrs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949423710248595825",
+        "in_reply_to_user_id": "1587039924913831936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948827253158428847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C_cchrs 改成加拿大非欧盟国家也不行啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948827242139947008"
+          ]
+        },
+        "author_id": "1587039924913831936",
+        "conversation_id": "1948827253158428847",
+        "created_at": "2025-07-25T19:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T20:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948827253158428847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vsega5dyvj",
+              "end": 77,
+              "expanded_url": "https://x.com/C_cchrs/status/1948827253158428847/photo/1",
+              "media_key": "3_1948827242139947008",
+              "start": 54,
+              "url": "https://t.co/Vsega5dyvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948827253158428847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13480,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有一件很坏的事情 不知道大家有没有办法解决\n推特把我账号识别成未成年人了 看不了成人内容 和发不了色图了😭 https://t.co/Vsega5dyvj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934615631162171392/vHF5nNux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T11:13:18.000Z",
+        "description": "随便看看 都很喜欢 前解惑大师 闲聊树洞 会回一些感兴趣的私信 没有门槛 不加v 没有电报群 不接推广",
+        "id": "1587039924913831936",
+        "location": "投喂请发口令🍚更好看的小号在关注列表💕",
+        "name": "Chrs",
+        "pinned_tweet_id": "1834979191336714258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791827840952074240/pT96e2aV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8367,
+          "following_count": 16,
+          "like_count": 283,
+          "listed_count": 27,
+          "media_count": 46,
+          "tweet_count": 192
+        },
+        "username": "C_cchrs",
+        "verified": false
+      }
+    ]
+  }
+}

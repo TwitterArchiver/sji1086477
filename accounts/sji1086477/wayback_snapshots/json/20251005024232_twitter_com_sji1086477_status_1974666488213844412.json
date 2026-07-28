@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1974297020983816224",
+    "created_at": "2025-10-05T02:42:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T03:42:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974666488213844412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1478427511793106949",
+          "start": 0,
+          "username": "DebbyDwise"
+        },
+        {
+          "end": 22,
+          "id": "51904755",
+          "start": 12,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974666488213844412",
+    "in_reply_to_user_id": "1478427511793106949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974663949145776133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DebbyDwise @Morris_LT 是不是天天转发故作高深的文字就能提高阅历了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1974297020983816224",
+        "created_at": "2025-10-05T02:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T03:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974666488213844412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1478427511793106949",
+              "start": 0,
+              "username": "DebbyDwise"
+            },
+            {
+              "end": 22,
+              "id": "51904755",
+              "start": 12,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974666488213844412",
+        "in_reply_to_user_id": "1478427511793106949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974663949145776133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DebbyDwise @Morris_LT 是不是天天转发故作高深的文字就能提高阅历了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478427511793106949",
+        "conversation_id": "1974297020983816224",
+        "created_at": "2025-10-05T02:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T03:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974663949145776133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            },
+            {
+              "end": 22,
+              "id": "51904755",
+              "start": 12,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974663949145776133",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974368487029289265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 @Morris_LT 别这么斩钉截铁地暴露自己的阅历。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 16,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 100
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-04T18:07:05.000Z",
+        "description": "",
+        "id": "1478427511793106949",
+        "name": "Debby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832293179279691777/Dn3MvE25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 47,
+          "like_count": 14814,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 2658
+        },
+        "username": "DebbyDwise",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/W2fM1ccAiv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/1912318899540095446",
+                "start": 83,
+                "url": "https://t.co/W2fM1ccAiv"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159279,
+          "following_count": 409,
+          "like_count": 50545,
+          "listed_count": 911,
+          "media_count": 6980,
+          "tweet_count": 69087
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

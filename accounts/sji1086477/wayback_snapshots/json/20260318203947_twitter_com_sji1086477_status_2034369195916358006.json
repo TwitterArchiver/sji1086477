@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2034364754454888886",
+    "created_at": "2026-03-18T20:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T21:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034369195916358006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628182955872129024",
+          "start": 0,
+          "username": "baifu080810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034369195916358006",
+    "in_reply_to_user_id": "1628182955872129024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034364754454888886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baifu080810 再等一会儿我们熬夜大军将会迎来第一波早餐😋😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2034364754454888886",
+        "created_at": "2026-03-18T20:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034369195916358006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628182955872129024",
+              "start": 0,
+              "username": "baifu080810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034369195916358006",
+        "in_reply_to_user_id": "1628182955872129024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034364754454888886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baifu080810 再等一会儿我们熬夜大军将会迎来第一波早餐😋😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628182955872129024",
+        "conversation_id": "2034364754454888886",
+        "created_at": "2026-03-18T20:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T21:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034364754454888886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034364754454888886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我唯一想吃的汉堡王...现在都是关门状态......不要......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人 /  欢迎互fo（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 22,
+          "like_count": 925,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 336
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T00:01:08.000Z",
+        "description": "你好这里是白缚...可以直接叫我白....我喜欢你们！\n08/不稳定很强/腐烂或燃烧\n超级话痨，会把内心的想法不定期全部丢到推特里\n喜欢大家的善意...还有爱...如果可以请和我做朋友",
+        "id": "1628182955872129024",
+        "location": "随家仓",
+        "name": "Hakukawaii",
+        "pinned_tweet_id": "1845832099548536875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640661273208832000/OKHEtjKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 238,
+          "like_count": 3005,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1896
+        },
+        "username": "baifu080810",
+        "verified": false
+      }
+    ]
+  }
+}

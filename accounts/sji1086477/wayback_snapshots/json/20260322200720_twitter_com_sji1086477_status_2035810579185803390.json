@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2035810579185803390",
+    "created_at": "2026-03-22T20:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T21:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035810579185803390"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035810579185803390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最痛苦那段时间我满脑子都是自杀和杀人，我幻想过拿刀把我的整只手砍掉放血幻想过跳楼后我爸会是什么反应但我舍不得妈妈哭，幻想过拿刀捅他的心脏或者把头砍下来然后肢解处理尸体，我还在想一个小孩子是否能抬动一个成年男性的大腿，还有一次鬼使神差地在白酒里放了一袋头孢结果液体太混浊不了了之"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2035810579185803390",
+        "created_at": "2026-03-22T20:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T21:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035810579185803390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035810579185803390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最痛苦那段时间我满脑子都是自杀和杀人，我幻想过拿刀把我的整只手砍掉放血幻想过跳楼后我爸会是什么反应但我舍不得妈妈哭，幻想过拿刀捅他的心脏或者把头砍下来然后肢解处理尸体，我还在想一个小孩子是否能抬动一个成年男性的大腿，还有一次鬼使神差地在白酒里放了一袋头孢结果液体太混浊不了了之"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人 /  欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 23,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 364
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

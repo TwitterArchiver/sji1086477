@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1967068350997246132",
+    "created_at": "2025-09-14T03:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T04:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967068350997246132"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1967068350997246132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当表达某些观点的时 \n需要考虑一下对方频率是否对等\n对着讲情绪的人讲逻辑注定会自我消耗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1967068350997246132",
+        "created_at": "2025-09-14T03:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967068350997246132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967068350997246132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当表达某些观点的时 \n需要考虑一下对方频率是否对等\n对着讲情绪的人讲逻辑注定会自我消耗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控 欢迎找我聊天～（不回就是不想跟你聊）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

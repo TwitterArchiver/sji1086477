@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2040878970724376609",
+    "created_at": "2026-04-05T19:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T20:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040878970724376609"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040878970724376609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在失去了以前的活力，我没有跟朋友出去玩的欲望，我失去了对大学生活的憧憬，我甚至连社交面具都懒得戴，我觉得维持表面关系很麻烦，或者这种淡淡的不想给任何人微笑的我才是真的我，庆幸的是我没有失去对兴趣爱好的热爱🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2040878970724376609",
+        "created_at": "2026-04-05T19:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T20:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040878970724376609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040878970724376609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在失去了以前的活力，我没有跟朋友出去玩的欲望，我失去了对大学生活的憧憬，我甚至连社交面具都懒得戴，我觉得维持表面关系很麻烦，或者这种淡淡的不想给任何人微笑的我才是真的我，庆幸的是我没有失去对兴趣爱好的热爱🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 长期失眠 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 30,
+          "like_count": 1092,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 459
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

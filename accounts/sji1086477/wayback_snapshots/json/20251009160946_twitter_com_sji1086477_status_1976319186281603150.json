@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1976253840824439120",
+    "created_at": "2025-10-09T16:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T17:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976319186281603150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "746646841605918720",
+          "start": 0,
+          "username": "caraluca_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976319186281603150",
+    "in_reply_to_user_id": "746646841605918720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976295819235164307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caraluca_1 因为女宝宝都太美了导致大家对女生过于挑剔🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1976253840824439120",
+        "created_at": "2025-10-09T16:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976319186281603150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "746646841605918720",
+              "start": 0,
+              "username": "caraluca_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976319186281603150",
+        "in_reply_to_user_id": "746646841605918720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976295819235164307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caraluca_1 因为女宝宝都太美了导致大家对女生过于挑剔🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "746646841605918720",
+        "conversation_id": "1976253840824439120",
+        "created_at": "2025-10-09T14:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976295819235164307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976295819235164307",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976253840824439120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 对这个爱男的世界绝望🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 20,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 132
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-25T10:10:53.000Z",
+        "description": "别管",
+        "id": "746646841605918720",
+        "location": "32层坠楼中",
+        "name": "须田",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1174766986875691008/fXTIBFGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 44,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 26
+        },
+        "username": "caraluca_1",
+        "verified": false
+      }
+    ]
+  }
+}

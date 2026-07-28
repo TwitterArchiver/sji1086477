@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978283914356776960"
+      ],
+      "media_source_tweet_id": [
+        "1978283923919515684"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "conversation_id": "1978662407950963078",
+    "created_at": "2025-10-16T03:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T04:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978662407950963078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663516164306382852",
+          "start": 3,
+          "username": "Yooeuh121590"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vfYR30xhyL",
+          "end": 51,
+          "expanded_url": "https://x.com/Yooeuh121590/status/1978283923919515684/photo/1",
+          "media_key": "3_1978283914356776960",
+          "start": 28,
+          "url": "https://t.co/vfYR30xhyL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978662407950963078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978283923919515684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yooeuh121590: 此图可治疗乳腺结节 https://t.co/vfYR30xhyL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1447,
+        "media_key": "3_1978283914356776960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RGvRwa4AA16e8.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978283914356776960"
+          ],
+          "media_source_tweet_id": [
+            "1978283923919515684"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "conversation_id": "1978662407950963078",
+        "created_at": "2025-10-16T03:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978662407950963078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663516164306382852",
+              "start": 3,
+              "username": "Yooeuh121590"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfYR30xhyL",
+              "end": 51,
+              "expanded_url": "https://x.com/Yooeuh121590/status/1978283923919515684/photo/1",
+              "media_key": "3_1978283914356776960",
+              "start": 28,
+              "url": "https://t.co/vfYR30xhyL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978662407950963078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978283923919515684",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yooeuh121590: 此图可治疗乳腺结节 https://t.co/vfYR30xhyL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978283914356776960"
+          ]
+        },
+        "author_id": "1663516164306382852",
+        "conversation_id": "1978283923919515684",
+        "created_at": "2025-10-15T02:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T03:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978283923919515684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfYR30xhyL",
+              "end": 33,
+              "expanded_url": "https://x.com/Yooeuh121590/status/1978283923919515684/photo/1",
+              "media_key": "3_1978283914356776960",
+              "start": 10,
+              "url": "https://t.co/vfYR30xhyL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978283923919515684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 46954,
+          "like_count": 1173,
+          "quote_count": 3,
+          "reply_count": 46,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "此图可治疗乳腺结节 https://t.co/vfYR30xhyL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 21,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "您的虚拟助手 |眼熟回关",
+        "id": "1663516164306382852",
+        "location": "wx🚪52",
+        "name": "豆包",
+        "pinned_tweet_id": "1977620444426780996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949456276330860544/XRYr0Aq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4941,
+          "following_count": 99,
+          "like_count": 9591,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4266
+        },
+        "username": "Yooeuh121590",
+        "verified": false
+      }
+    ]
+  }
+}

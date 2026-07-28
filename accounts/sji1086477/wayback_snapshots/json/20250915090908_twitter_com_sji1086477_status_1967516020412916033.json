@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1967516020412916033",
+    "created_at": "2025-09-15T09:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T10:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967516020412916033"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1967516020412916033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈吸血型缺爱男真搞笑，一天天就知道怪别人为什么不坚定选择你。怎么不反思反思自己呢？不知道感情是需要共建的吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1967516020412916033",
+        "created_at": "2025-09-15T09:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T10:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967516020412916033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967516020412916033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈吸血型缺爱男真搞笑，一天天就知道怪别人为什么不坚定选择你。怎么不反思反思自己呢？不知道感情是需要共建的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

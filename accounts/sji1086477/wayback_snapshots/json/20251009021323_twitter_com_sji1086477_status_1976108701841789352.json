@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1975585846242808208",
+    "created_at": "2025-10-09T02:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T03:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976108701841789352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1558761587296481280",
+          "start": 0,
+          "username": "pomindetumo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976108701841789352",
+    "in_reply_to_user_id": "1558761587296481280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975999115780891032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pomindetumo1 我最终还是走向了我妈喜欢的水果区"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1975585846242808208",
+        "created_at": "2025-10-09T02:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T03:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976108701841789352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1558761587296481280",
+              "start": 0,
+              "username": "pomindetumo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976108701841789352",
+        "in_reply_to_user_id": "1558761587296481280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975999115780891032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pomindetumo1 我最终还是走向了我妈喜欢的水果区"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558761587296481280",
+        "conversation_id": "1975585846242808208",
+        "created_at": "2025-10-08T18:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T19:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975999115780891032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975999115780891032",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975585846242808208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 已经到了对零食不感兴趣的年纪了，想买点坚果啃啃。终于明白为啥爸妈逛超市的时候为啥不买薯片了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 20,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 125
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T10:25:10.000Z",
+        "description": "地球什么时候爆炸🖕",
+        "id": "1558761587296481280",
+        "name": "p师傅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953072471357501440/6QviMk_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 298,
+          "like_count": 589,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 263
+        },
+        "username": "pomindetumo1",
+        "verified": false
+      }
+    ]
+  }
+}

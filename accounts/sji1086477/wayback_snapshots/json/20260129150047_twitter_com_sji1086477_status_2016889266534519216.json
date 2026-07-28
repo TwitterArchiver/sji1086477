@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2016849866308354361",
+    "created_at": "2026-01-29T15:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T16:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016889266534519216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1792011763875184640",
+          "start": 0,
+          "username": "lnmng5262080968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016889266534519216",
+    "in_reply_to_user_id": "1792011763875184640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016849866308354361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnmng5262080968 我发现了，真的不是对男性群体有什么偏见，而是这个物种本来就恶心又弱智，大脑除了撸管看b和吃屎没别的东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016849765624131584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1KLRVbMAAE-R7.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016849765661888516",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1KLRebUAQ579C.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016849765628260352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1KLRWaMAAXK-N.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016849765636722689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_1KLRYbUAERjbv.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2016849866308354361",
+        "created_at": "2026-01-29T15:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016889266534519216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016889266534519216",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016849866308354361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 我发现了，真的不是对男性群体有什么偏见，而是这个物种本来就恶心又弱智，大脑除了撸管看b和吃屎没别的东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016849765624131584",
+            "3_2016849765661888516",
+            "3_2016849765628260352",
+            "3_2016849765636722689"
+          ]
+        },
+        "author_id": "1792011763875184640",
+        "conversation_id": "2016849866308354361",
+        "created_at": "2026-01-29T12:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016849866308354361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/niV82FTqJT",
+              "end": 26,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2016849866308354361/photo/1",
+              "media_key": "3_2016849765624131584",
+              "start": 3,
+              "url": "https://t.co/niV82FTqJT"
+            },
+            {
+              "display_url": "pic.x.com/niV82FTqJT",
+              "end": 26,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2016849866308354361/photo/1",
+              "media_key": "3_2016849765661888516",
+              "start": 3,
+              "url": "https://t.co/niV82FTqJT"
+            },
+            {
+              "display_url": "pic.x.com/niV82FTqJT",
+              "end": 26,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2016849866308354361/photo/1",
+              "media_key": "3_2016849765628260352",
+              "start": 3,
+              "url": "https://t.co/niV82FTqJT"
+            },
+            {
+              "display_url": "pic.x.com/niV82FTqJT",
+              "end": 26,
+              "expanded_url": "https://x.com/lnmng5262080968/status/2016849866308354361/photo/1",
+              "media_key": "3_2016849765636722689",
+              "start": 3,
+              "url": "https://t.co/niV82FTqJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016849866308354361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1545,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合影 https://t.co/niV82FTqJT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07   女  碎碎念  这里是我发疯的唯一途径",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 20,
+          "like_count": 772,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 295
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 303,
+          "like_count": 15418,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5346
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

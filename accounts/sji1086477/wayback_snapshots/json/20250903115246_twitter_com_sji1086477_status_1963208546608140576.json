@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1963181033911631897",
+    "created_at": "2025-09-03T11:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T12:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963208546608140576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939713513230135296",
+          "start": 0,
+          "username": "lanlan655368838"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963208546608140576",
+    "in_reply_to_user_id": "1939713513230135296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963187859554459804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lanlan655368838 是的🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1963181033911631897",
+        "created_at": "2025-09-03T11:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963208546608140576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939713513230135296",
+              "start": 0,
+              "username": "lanlan655368838"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963208546608140576",
+        "in_reply_to_user_id": "1939713513230135296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963187859554459804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lanlan655368838 是的🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939713513230135296",
+        "conversation_id": "1963181033911631897",
+        "created_at": "2025-09-03T10:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963187859554459804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963187859554459804",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963181033911631897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 前两天很难过去找chagpt，特别会安慰人🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控 欢迎找我聊天～",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T15:52:10.000Z",
+        "description": "🍦🍦🍦🍦🍦🍦🍦🍦🍦",
+        "id": "1939713513230135296",
+        "name": "雪漫巴黎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955199407500169216/52zyii5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 8,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "lanlan655368838",
+        "verified": false
+      }
+    ]
+  }
+}

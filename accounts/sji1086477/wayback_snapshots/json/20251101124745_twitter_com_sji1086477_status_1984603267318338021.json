@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1984027194239459708",
+    "created_at": "2025-11-01T12:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T13:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984603267318338021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1286474824345194497",
+          "start": 0,
+          "username": "JEAN84812676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984603267318338021",
+    "in_reply_to_user_id": "1286474824345194497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984027194239459708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JEAN84812676 别在墙外丢中国人的脸了好吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1742,
+        "media_key": "3_1984027186517704704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4iuNt0bAAAZ-kZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1984027194239459708",
+        "created_at": "2025-11-01T12:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T13:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984603267318338021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1286474824345194497",
+              "start": 0,
+              "username": "JEAN84812676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984603267318338021",
+        "in_reply_to_user_id": "1286474824345194497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984027194239459708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JEAN84812676 别在墙外丢中国人的脸了好吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984027186517704704"
+          ]
+        },
+        "author_id": "1286474824345194497",
+        "conversation_id": "1984027194239459708",
+        "created_at": "2025-10-30T22:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T23:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984027194239459708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ceJFoewoaj",
+              "end": 40,
+              "expanded_url": "https://x.com/JEAN84812676/status/1984027194239459708/photo/1",
+              "media_key": "3_1984027186517704704",
+              "start": 17,
+              "url": "https://t.co/ceJFoewoaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984027194239459708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 99463,
+          "like_count": 892,
+          "quote_count": 26,
+          "reply_count": 868,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "这才是自由世界的领袖，看清楚了！ https://t.co/ceJFoewoaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 |（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 21,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 217
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-24T01:34:46.000Z",
+        "description": "一个误入理工科的姑娘，阴差阳错地玩上了Twitter，从此不爱浅红爱深红！",
+        "id": "1286474824345194497",
+        "name": "夏洛🇨🇳",
+        "pinned_tweet_id": "1984027194239459708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514600172365697024/krew1Be1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89507,
+          "following_count": 15066,
+          "like_count": 56756,
+          "listed_count": 91,
+          "media_count": 2839,
+          "tweet_count": 14699
+        },
+        "username": "JEAN84812676",
+        "verified": true
+      }
+    ]
+  }
+}

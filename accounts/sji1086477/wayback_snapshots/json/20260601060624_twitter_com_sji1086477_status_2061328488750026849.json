@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2061328488750026849",
+    "created_at": "2026-06-01T06:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061328488750026849"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061328488750026849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的不想再做噩梦了，一开始只是梦到被追杀或者事故之类，最近的噩梦越做越掉san越做越吓人😭像在拍cult片😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2061328488750026849",
+        "created_at": "2026-06-01T06:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061328488750026849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061328488750026849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的不想再做噩梦了，一开始只是梦到被追杀或者事故之类，最近的噩梦越做越掉san越做越吓人😭像在拍cult片😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 110,
+          "like_count": 2012,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 947
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

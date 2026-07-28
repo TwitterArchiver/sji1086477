@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1971897442259062881",
+    "created_at": "2025-09-28T08:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T09:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972218514934255700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761412268426989568",
+          "start": 0,
+          "username": "giuuksooyo57072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972218514934255700",
+    "in_reply_to_user_id": "1761412268426989568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971897442259062881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@giuuksooyo57072 让他们好好捂嘴，自从最近那么多大v被封号和于朦胧这个事发生以后也会有越来越多的人对他们不信任，网上再怎么变本加厉的捂嘴也不会捂住人们心里的情绪，一直这样只会越来越失去公信力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1971897442259062881",
+        "created_at": "2025-09-28T08:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972218514934255700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761412268426989568",
+              "start": 0,
+              "username": "giuuksooyo57072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972218514934255700",
+        "in_reply_to_user_id": "1761412268426989568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971897442259062881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@giuuksooyo57072 让他们好好捂嘴，自从最近那么多大v被封号和于朦胧这个事发生以后也会有越来越多的人对他们不信任，网上再怎么变本加厉的捂嘴也不会捂住人们心里的情绪，一直这样只会越来越失去公信力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761412268426989568",
+        "conversation_id": "1971897442259062881",
+        "created_at": "2025-09-27T11:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T12:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971897442259062881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971897442259062881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9947,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈无语的要命了 在微博和小红书帮于朦胧加热笔记 在发声博主底下评论 我现在号都炸了 在别人笔记评论不显示 微博是转发评论都不显示……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 68
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T15:26:31.000Z",
+        "description": "🐟❤️‍🔥",
+        "id": "1761412268426989568",
+        "name": "沉入无尽海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953097495225221120/ByERFpQo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 29,
+          "like_count": 1889,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 731
+        },
+        "username": "giuuksooyo57072",
+        "verified": false
+      }
+    ]
+  }
+}

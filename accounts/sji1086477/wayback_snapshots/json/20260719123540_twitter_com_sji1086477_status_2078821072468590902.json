@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2078821072468590902",
+    "created_at": "2026-07-19T12:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T13:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078821072468590902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhouzhouneko2/…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/zhouzhouneko2/status/2078746814464000393",
+          "start": 118,
+          "url": "https://t.co/M4oI0bVQhf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078821072468590902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078746814464000393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：✅\n有过男朋友：✅\n有过女朋友：✅\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅\n去过夜店：  ❌\n抽过烟/用过电子烟：✅\n吻过别人：✅\n被留堂（留着教老师题目）：✅\n被课堂赶出去：✅\n考试作弊（协助同学）：✅\n偷偷溜出家门：✅ https://t.co/M4oI0bVQhf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2078821072468590902",
+        "created_at": "2026-07-19T12:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078821072468590902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhouzhouneko2/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/zhouzhouneko2/status/2078746814464000393",
+              "start": 118,
+              "url": "https://t.co/M4oI0bVQhf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078821072468590902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078746814464000393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：✅\n有过男朋友：✅\n有过女朋友：✅\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅\n去过夜店：  ❌\n抽过烟/用过电子烟：✅\n吻过别人：✅\n被留堂（留着教老师题目）：✅\n被课堂赶出去：✅\n考试作弊（协助同学）：✅\n偷偷溜出家门：✅ https://t.co/M4oI0bVQhf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403720942858035201",
+        "conversation_id": "2078746814464000393",
+        "created_at": "2026-07-19T07:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T08:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078746814464000393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wlxlmjj/status…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/wlxlmjj/status/2078410045671522497",
+              "start": 118,
+              "url": "https://t.co/mQwgVg8uw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078746814464000393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 222,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078410045671522497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：✅\n有过男朋友：✅\n有过女朋友：✅\n嗑过药：✅\n喝过酒：✅  \n挂过科：✅\n去过夜店：  ✅\n抽过烟/用过电子烟：✅\n吻过别人：✅\n被留堂（留着教老师题目）：✅\n被课堂赶出去：❌\n考试作弊（协助同学）：✅\n偷偷溜出家门：✅ https://t.co/mQwgVg8uw8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 尝试戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 152,
+          "like_count": 2705,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1224
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T14:29:19.000Z",
+        "description": "转生了\n\n您的赛博猫咪｜双相｜互fo｜mtf｜二次元｜ENFP/INFP｜微键政｜传递爱 希望 自由｜ 方舟 雀魂 肉鸽 博德之门｜「唯一@sji1086477』闲聊 安慰与抱抱( ´•ω•)ノ｜写作ing｜希望成为温柔的人｜世界破破烂烂，喵喵缝缝补补｜🚪28/58/168/288",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 69,
+                "username": "sji1086477"
+              }
+            ]
+          }
+        },
+        "id": "1403720942858035201",
+        "location": "喵星✨",
+        "name": "周周喵🐈",
+        "pinned_tweet_id": "1907031259274211613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772551411274027008/V0C-jVfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2619,
+          "following_count": 2183,
+          "like_count": 11778,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 2412
+        },
+        "url": "",
+        "username": "zhouzhouneko2",
+        "verified": false
+      }
+    ]
+  }
+}

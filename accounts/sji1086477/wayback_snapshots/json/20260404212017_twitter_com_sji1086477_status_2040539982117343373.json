@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2040539982117343373",
+    "created_at": "2026-04-04T21:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T22:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040539982117343373"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040539982117343373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么中国人不能有哪怕一点点同理心呢，看到精神病人会骂脑子有问题，看到残障人士会嘲笑歧视，任何不符合主流的事物都会被攻击，就连善良有同情心这种美好的品质也会被骂傻子，自己没素质也不许别人有素质，说白了在这些人眼里冷漠、自私、互害才是“聪明人”（有素质的好中国人已被我开出中国籍😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2040539982117343373",
+        "created_at": "2026-04-04T21:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T22:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040539982117343373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040539982117343373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中国人不能有哪怕一点点同理心呢，看到精神病人会骂脑子有问题，看到残障人士会嘲笑歧视，任何不符合主流的事物都会被攻击，就连善良有同情心这种美好的品质也会被骂傻子，自己没素质也不许别人有素质，说白了在这些人眼里冷漠、自私、互害才是“聪明人”（有素质的好中国人已被我开出中国籍😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 29,
+          "like_count": 1067,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 439
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

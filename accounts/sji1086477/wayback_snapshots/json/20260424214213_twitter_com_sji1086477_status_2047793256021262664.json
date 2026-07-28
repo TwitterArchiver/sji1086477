@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2047788895736336602",
+    "created_at": "2026-04-24T21:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T22:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047793256021262664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "love727luv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047793256021262664",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047788895736336602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love727luv 我有点懵逼有点醉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2047788895736336602",
+        "created_at": "2026-04-24T21:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T22:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047793256021262664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "love727luv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047793256021262664",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047788895736336602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love727luv 我有点懵逼有点醉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2047788895736336602",
+        "created_at": "2026-04-24T21:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T22:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047788895736336602"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047788895736336602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很懵逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / od / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 51,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 636
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "男｜175cm｜55kg｜学生｜adhd｜双相情感障碍｜精神分裂症｜社交恐惧症｜抑郁症｜焦虑症｜生活灰暗｜爱好健身和音乐  正在努力规划未来",
+        "id": "1814688236398166016",
+        "name": "x_x",
+        "pinned_tweet_id": "2047756016486670554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047348345560350721/8tVcEm6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 406,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 259
+        },
+        "username": "love727luv",
+        "verified": false
+      }
+    ]
+  }
+}

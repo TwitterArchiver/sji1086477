@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "2031480592471101843",
+    "created_at": "2026-03-11T14:44:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031743110804291944"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "日本",
+          "probability": 0.9265,
+          "start": 45,
+          "type": "Place"
+        },
+        {
+          "end": 51,
+          "normalized_text": "アメリカ",
+          "probability": 0.9517,
+          "start": 48,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1203875885113204736",
+          "start": 0,
+          "username": "thithi_906"
+        },
+        {
+          "end": 26,
+          "id": "1992176486250696704",
+          "start": 12,
+          "username": "HeyiZhanghmap"
+        },
+        {
+          "end": 39,
+          "id": "1496947194645159936",
+          "start": 27,
+          "username": "KagaLover33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031743110804291944",
+    "in_reply_to_user_id": "1203875885113204736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031714008131395650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thithi_906 @HeyiZhanghmap @KagaLover33 彼の意味は日本はアメリカの息子で、中国文化では父の地位と階級が息子より高い、これは侮辱的な言葉で、その人はとても素質がなくて、ネズミのように下水道に隠れている"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2031480592471101843",
+        "created_at": "2026-03-11T14:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031743110804291944"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "日本",
+              "probability": 0.9265,
+              "start": 45,
+              "type": "Place"
+            },
+            {
+              "end": 51,
+              "normalized_text": "アメリカ",
+              "probability": 0.9517,
+              "start": 48,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1203875885113204736",
+              "start": 0,
+              "username": "thithi_906"
+            },
+            {
+              "end": 26,
+              "id": "1992176486250696704",
+              "start": 12,
+              "username": "HeyiZhanghmap"
+            },
+            {
+              "end": 39,
+              "id": "1496947194645159936",
+              "start": 27,
+              "username": "KagaLover33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031743110804291944",
+        "in_reply_to_user_id": "1203875885113204736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031714008131395650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thithi_906 @HeyiZhanghmap @KagaLover33 彼の意味は日本はアメリカの息子で、中国文化では父の地位と階級が息子より高い、これは侮辱的な言葉で、その人はとても素質がなくて、ネズミのように下水道に隠れている"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1203875885113204736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2031480592471101843",
+        "created_at": "2026-03-11T12:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T13:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031714008131395650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1992176486250696704",
+              "start": 0,
+              "username": "HeyiZhanghmap"
+            },
+            {
+              "end": 27,
+              "id": "1496947194645159936",
+              "start": 15,
+              "username": "KagaLover33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031714008131395650",
+        "in_reply_to_user_id": "1992176486250696704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031702381222932643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeyiZhanghmap @KagaLover33 ？？？🥺🥺💦？？\n中国語の特徴なのかわからないけど\n言いましが独特すぎて翻訳してもなにも伝わんない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07   女  碎碎念  休学备考中…    这里是我发疯的唯一途径",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 22,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 320
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-09T03:16:01.000Z",
+        "description": "95’",
+        "id": "1203875885113204736",
+        "location": "都内",
+        "name": "ち",
+        "pinned_tweet_id": "1236805055472209920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1385267191897985024/shBiqbIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 21,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 235
+        },
+        "username": "thithi_906",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T10:22:41.000Z",
+        "description": "最好胜的小孩也被我拥入怀",
+        "id": "1992176486250696704",
+        "name": "Heyi Zhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993275131528200198/TjTzH8ME_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 1947,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 611
+        },
+        "username": "HeyiZhanghmap",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T20:36:49.000Z",
+        "description": "Non political ‼️‼️\nAll for educational purposes,\nReenactor from Slovakia🇸🇰\nCan speak 🇸🇰🇩🇪🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "id": "1496947194645159936",
+        "name": "KagaLover",
+        "pinned_tweet_id": "2031710967936000263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928920941381259264/RqWnghsJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 307,
+          "like_count": 354,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 135
+        },
+        "username": "KagaLover33",
+        "verified": false
+      }
+    ]
+  }
+}

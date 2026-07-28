@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1985182220844507560",
+    "created_at": "2025-11-03T13:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985340728885543019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1733481944250511360",
+          "start": 0,
+          "username": "damenggang"
+        },
+        {
+          "end": 20,
+          "id": "1703086500366450688",
+          "start": 12,
+          "username": "AGQNLZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985340728885543019",
+    "in_reply_to_user_id": "1733481944250511360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985321310088839308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damenggang @AGQNLZS 请给我一个准确的笑点！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1985182220844507560",
+        "created_at": "2025-11-03T13:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985340728885543019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1733481944250511360",
+              "start": 0,
+              "username": "damenggang"
+            },
+            {
+              "end": 20,
+              "id": "1703086500366450688",
+              "start": 12,
+              "username": "AGQNLZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985340728885543019",
+        "in_reply_to_user_id": "1733481944250511360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985321310088839308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damenggang @AGQNLZS 请给我一个准确的笑点！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733481944250511360",
+        "conversation_id": "1985182220844507560",
+        "created_at": "2025-11-03T12:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985321310088839308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            },
+            {
+              "end": 20,
+              "id": "1703086500366450688",
+              "start": 12,
+              "username": "AGQNLZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985321310088839308",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985287848543887745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 @AGQNLZS 我tm不是粉红看见你这言论都觉得好笑🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、粉红 |（主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 21,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T13:41:26.000Z",
+        "description": "靡靡之音轻歌曼舞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sb.com",
+                "end": 23,
+                "expanded_url": "http://sb.com",
+                "start": 0,
+                "url": "https://t.co/BVUni3mV3P"
+              }
+            ]
+          }
+        },
+        "id": "1733481944250511360",
+        "location": "重庆市委市政府",
+        "name": "重庆の虎(平西王薄熙来)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898550408995602432/88o0zqqY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 63,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/BVUni3mV3P",
+        "username": "damenggang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T16:40:46.000Z",
+        "description": "清澈的爱，只为中国！🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqHrn…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqHrnDPURu18A90AUqJovvQ?si=NGcqmUi6RjNviqNB",
+                "start": 0,
+                "url": "https://t.co/K3JZ4OviFF"
+              }
+            ]
+          }
+        },
+        "id": "1703086500366450688",
+        "location": "China",
+        "name": "爱国青年刘战神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703086648777695232/Mhdka8cM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 127,
+          "like_count": 171,
+          "listed_count": 21,
+          "media_count": 177,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/K3JZ4OviFF",
+        "username": "AGQNLZS",
+        "verified": true
+      }
+    ]
+  }
+}

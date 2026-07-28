@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1983368676754723042",
+    "created_at": "2025-10-30T10:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983844709203403079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1490333538972958720",
+          "start": 0,
+          "username": "huddvjhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983844709203403079",
+    "in_reply_to_user_id": "1490333538972958720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983368676754723042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huddvjhh 其实是因为有人戳破了他们的无知，他们感觉自尊心受损所以破口大骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1983368676754723042",
+        "created_at": "2025-10-30T10:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983844709203403079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1490333538972958720",
+              "start": 0,
+              "username": "huddvjhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983844709203403079",
+        "in_reply_to_user_id": "1490333538972958720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983368676754723042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huddvjhh 其实是因为有人戳破了他们的无知，他们感觉自尊心受损所以破口大骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490333538972958720",
+        "conversation_id": "1983368676754723042",
+        "created_at": "2025-10-29T03:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T04:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983368676754723042"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983368676754723042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 94095,
+          "like_count": 1528,
+          "quote_count": 5,
+          "reply_count": 74,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "连科普白带都要被侮辱，我真觉得部分男性看见女性的生理问题就会暴怒，对月经卫生巾也是深恶痛绝，是痛恨女性完整的生理性。\n他们大部分只看A片，我高中的时候一个男生还不知道女性来例假和小便用的是两个地方。\n希望女性浑身嫩白除了长发没有体毛，女性对他们来说只是性欲的载体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 |（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 19,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T14:36:32.000Z",
+        "description": "当日记本发，欢迎提问交友，如果我没有和你及时互动，或者不小心“甩大牌”请私信或者提问箱抨击我，宝宝们，我不是故意的💖 沉默的日子也没在偷偷幸福是快死了 深交欢迎私联，不谈恋爱，不玩门槛那一套哈😙❤️全平台都是同一副贱人面孔，熟人见到更是无所谓 早已经和所有圣母割席 不键政 防断联及生活小号：@LofiCM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 146,
+                "username": "LofiCM"
+              }
+            ]
+          }
+        },
+        "id": "1490333538972958720",
+        "location": "三丽鸥",
+        "name": "HeteroMorph……",
+        "pinned_tweet_id": "1983500635258466485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901586687270260736/6ZwcUToK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3873,
+          "following_count": 1617,
+          "like_count": 37118,
+          "listed_count": 5,
+          "media_count": 233,
+          "tweet_count": 5635
+        },
+        "username": "huddvjhh",
+        "verified": false
+      }
+    ]
+  }
+}

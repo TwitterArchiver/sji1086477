@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2080113930265858187",
+    "created_at": "2026-07-23T04:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T05:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080146815635095865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3387321771",
+          "start": 0,
+          "username": "EZoutis777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080146815635095865",
+    "in_reply_to_user_id": "3387321771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080126360375435625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EZoutis777 怪不得，我喝完吃了两片才压住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2080113930265858187",
+        "created_at": "2026-07-23T04:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T05:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080146815635095865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3387321771",
+              "start": 0,
+              "username": "EZoutis777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080146815635095865",
+        "in_reply_to_user_id": "3387321771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080126360375435625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EZoutis777 怪不得，我喝完吃了两片才压住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3387321771",
+        "conversation_id": "2080113930265858187",
+        "created_at": "2026-07-23T03:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080126360375435625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080126360375435625",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080113930265858187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 是的 而且有的品牌咖啡因浓度特别高 我每次喝完必须要吃劳拉才能压制住🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念   /  这里是我发疯的唯一途径  / 不是健全人  / 尝试戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 154,
+          "like_count": 2787,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1265
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-22T14:19:55.000Z",
+        "description": "感受雪",
+        "id": "3387321771",
+        "location": "幻境",
+        "name": "莎末",
+        "pinned_tweet_id": "2015255143353295134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013957184808513536/hbZFNgRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 15,
+          "like_count": 2994,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 3262
+        },
+        "url": "",
+        "username": "EZoutis777",
+        "verified": false
+      }
+    ]
+  }
+}

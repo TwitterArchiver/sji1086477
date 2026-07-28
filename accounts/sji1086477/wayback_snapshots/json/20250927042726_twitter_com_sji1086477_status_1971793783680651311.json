@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1971615040949399872",
+    "created_at": "2025-09-27T04:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T05:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971793783680651311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1490333538972958720",
+          "start": 0,
+          "username": "huddvjhh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971793783680651311",
+    "in_reply_to_user_id": "1490333538972958720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971615040949399872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huddvjhh 这种国男就是典型的知道自己各方面都不如国外男性但又因为脆弱的自尊心不肯承认，于是对国女进行荡妇羞辱、贴标签来平衡自己的心理，如果是国男想娶国外女性那风向和评论就完全不一样了。再者国男百分之八十都觉得自己的价值取决于社会价值：金钱，权利，女人。所以这种情况说他没钱没女人要包破防的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_1971614618595504128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1yVDK9aMAAEZr2.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1971615040949399872",
+        "created_at": "2025-09-27T04:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971793783680651311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1490333538972958720",
+              "start": 0,
+              "username": "huddvjhh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971793783680651311",
+        "in_reply_to_user_id": "1490333538972958720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971615040949399872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huddvjhh 这种国男就是典型的知道自己各方面都不如国外男性但又因为脆弱的自尊心不肯承认，于是对国女进行荡妇羞辱、贴标签来平衡自己的心理，如果是国男想娶国外女性那风向和评论就完全不一样了。再者国男百分之八十都觉得自己的价值取决于社会价值：金钱，权利，女人。所以这种情况说他没钱没女人要包破防的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971614618595504128"
+          ]
+        },
+        "author_id": "1490333538972958720",
+        "conversation_id": "1971615040949399872",
+        "created_at": "2025-09-26T16:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971615040949399872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Vk0RvDRpa",
+              "end": 159,
+              "expanded_url": "https://x.com/huddvjhh/status/1971615040949399872/photo/1",
+              "media_key": "3_1971614618595504128",
+              "start": 136,
+              "url": "https://t.co/2Vk0RvDRpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971615040949399872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16520,
+          "like_count": 198,
+          "quote_count": 3,
+          "reply_count": 55,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真感觉完全是跨物种交流，你很难想象不管发什么他都能绕到奇怪的地方，而且十分下流也不知道从哪开始反驳，或者说反驳没有任何意义，我发出来也不是挂人，而是诉苦我最近招来了这些人，以及大家在我评论区见到也不要理拉黑就好了，我的互关们或者关注我的人也不要和这种人说话，好吗？好的 https://t.co/2Vk0RvDRpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 16,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 64
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T14:36:32.000Z",
+        "description": "当日记本发，欢迎提问交友，如果我没有和你及时互动，或者不小心“甩大牌”请私信或者提问箱抨击我，宝宝们，我不是故意的💖 沉默的日子也没在偷偷幸福是快死了 深交欢迎私联，不谈恋爱，不玩门槛那一套哈😙❤️全平台都是同一副贱人面孔，熟人见到更是无所谓 早已经和所有圣母割席 不键政 防断联及生活小号：@LofiCM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 146,
+                "username": "LofiCM"
+              }
+            ]
+          }
+        },
+        "id": "1490333538972958720",
+        "location": "三丽鸥",
+        "name": "HeteroMorph……",
+        "pinned_tweet_id": "1964005569632882710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901586687270260736/6ZwcUToK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 1575,
+          "like_count": 29829,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 4527
+        },
+        "username": "huddvjhh",
+        "verified": false
+      }
+    ]
+  }
+}

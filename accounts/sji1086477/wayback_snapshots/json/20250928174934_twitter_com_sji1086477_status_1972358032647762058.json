@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1971796346744230010",
+    "created_at": "2025-09-28T17:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972358032647762058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1641786377535913984",
+          "start": 0,
+          "username": "Racheliin_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972358032647762058",
+    "in_reply_to_user_id": "1641786377535913984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972333510099931564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Racheliin_ovo 说的没错！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1971796346744230010",
+        "created_at": "2025-09-28T17:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972358032647762058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1641786377535913984",
+              "start": 0,
+              "username": "Racheliin_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972358032647762058",
+        "in_reply_to_user_id": "1641786377535913984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972333510099931564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Racheliin_ovo 说的没错！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641786377535913984",
+        "conversation_id": "1971796346744230010",
+        "created_at": "2025-09-28T16:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T17:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972333510099931564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972333510099931564",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971796346744230010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 凡事都有两面性的啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 15,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 71
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T12:56:03.000Z",
+        "description": "imnotrachel",
+        "id": "1641786377535913984",
+        "location": "发几把直接拉黑",
+        "name": "Rachel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960356038537830400/7wfSOS6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 51,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 205
+        },
+        "username": "Racheliin_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

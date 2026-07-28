@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2046966928661700747",
+    "created_at": "2026-04-22T23:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T00:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047099899188060323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942953730388918272",
+          "start": 0,
+          "username": "yTQtI3wry334415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047099899188060323",
+    "in_reply_to_user_id": "1942953730388918272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046966928661700747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yTQtI3wry334415 抱抱🥺，有些人就是这样，你越低调他们反而觉得自己处于高位比你优越，就喜欢打压你获得优越感。一旦你有点成绩他们还会嫉妒你😡😡，所以社交的时候不需要刻意低调退让😋😋跟你觉得舒服的人玩🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2046966928661700747",
+        "created_at": "2026-04-22T23:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047099899188060323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942953730388918272",
+              "start": 0,
+              "username": "yTQtI3wry334415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047099899188060323",
+        "in_reply_to_user_id": "1942953730388918272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046966928661700747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yTQtI3wry334415 抱抱🥺，有些人就是这样，你越低调他们反而觉得自己处于高位比你优越，就喜欢打压你获得优越感。一旦你有点成绩他们还会嫉妒你😡😡，所以社交的时候不需要刻意低调退让😋😋跟你觉得舒服的人玩🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942953730388918272",
+        "conversation_id": "2046966928661700747",
+        "created_at": "2026-04-22T14:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046966928661700747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046966928661700747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么身边的人总是存在着无意义的恶，没有由来的作用于我...我明明够渺小了，够低调了，为什么退步与理智换来的是对方的猖獗？｡⁠:ﾟ⁠(⁠;⁠´⁠∩⁠`⁠;⁠)ﾟ⁠:⁠｡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / od / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 46,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 612
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T14:28:51.000Z",
+        "description": "大好き蕾塞",
+        "id": "1942953730388918272",
+        "location": "一处无聊的地方",
+        "name": "郁川瑜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942954695808688128/jnjjbVTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 250,
+          "like_count": 4286,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 234
+        },
+        "username": "yTQtI3wry334415",
+        "verified": false
+      }
+    ]
+  }
+}

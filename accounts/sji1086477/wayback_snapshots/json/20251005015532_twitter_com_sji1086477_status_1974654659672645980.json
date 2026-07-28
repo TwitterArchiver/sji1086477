@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1974520609653784666",
+    "created_at": "2025-10-05T01:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T02:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974654659672645980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596908443612622855",
+          "start": 0,
+          "username": "Cami040802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974654659672645980",
+    "in_reply_to_user_id": "1596908443612622855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974521521185161524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cami040802 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1974520609653784666",
+        "created_at": "2025-10-05T01:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T02:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974654659672645980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596908443612622855",
+              "start": 0,
+              "username": "Cami040802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974654659672645980",
+        "in_reply_to_user_id": "1596908443612622855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974521521185161524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cami040802 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596908443612622855",
+        "conversation_id": "1974520609653784666",
+        "created_at": "2025-10-04T17:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974521521185161524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974521521185161524",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974520609653784666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 破防了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 16,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 99
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T16:47:12.000Z",
+        "description": "什么时候会幸福🌧️  04",
+        "id": "1596908443612622855",
+        "name": "Cami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974139544728711173/1EkchsXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 8,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "Cami040802",
+        "verified": false
+      }
+    ]
+  }
+}

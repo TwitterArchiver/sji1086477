@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2023012136285585581",
+    "created_at": "2026-02-17T07:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T08:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023654384463233526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655299100148125696",
+          "start": 0,
+          "username": "Zxgaer16971"
+        },
+        {
+          "end": 21,
+          "id": "1433678976564662273",
+          "start": 13,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023654384463233526",
+    "in_reply_to_user_id": "1655299100148125696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023025380454805906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zxgaer16971 @hsn8086 电势法正在攻击我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 677,
+        "media_key": "3_2023025370560450561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBM62yfb0AETk0f.png",
+        "width": 615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2023012136285585581",
+        "created_at": "2026-02-17T07:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023654384463233526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655299100148125696",
+              "start": 0,
+              "username": "Zxgaer16971"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023654384463233526",
+        "in_reply_to_user_id": "1655299100148125696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023025380454805906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zxgaer16971 @hsn8086 电势法正在攻击我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023025370560450561"
+          ]
+        },
+        "author_id": "1655299100148125696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023012136285585581",
+        "created_at": "2026-02-15T13:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023025380454805906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQXiOGVb6l",
+              "end": 32,
+              "expanded_url": "https://x.com/Zxgaer16971/status/2023025380454805906/photo/1",
+              "media_key": "3_2023025370560450561",
+              "start": 9,
+              "url": "https://t.co/bQXiOGVb6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023025380454805906",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11951,
+          "like_count": 141,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023012136285585581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 https://t.co/bQXiOGVb6l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07   女  碎碎念  休学备考中…    这里是我发疯的唯一途径",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 22,
+          "like_count": 848,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T19:50:44.000Z",
+        "description": "「 Minecraft | Arcaea | Linux 」❤️ / 不想当傻猫(⁠≧⁠▽⁠≦⁠) / 欢迎和我交往\n\n看见可爱的猫猫记得叫我去看看好吗(⁠๑⁠•⁠﹏⁠•⁠)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zxgaer.top",
+                "end": 23,
+                "expanded_url": "http://zxgaer.top",
+                "start": 0,
+                "url": "https://t.co/G9vqwSmMI8"
+              }
+            ]
+          }
+        },
+        "id": "1655299100148125696",
+        "name": "Zxgaer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881000265043857409/6znmaLTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 169,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/G9vqwSmMI8",
+        "username": "Zxgaer16971",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117633,
+          "following_count": 1042,
+          "like_count": 51444,
+          "listed_count": 272,
+          "media_count": 19276,
+          "tweet_count": 29254
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

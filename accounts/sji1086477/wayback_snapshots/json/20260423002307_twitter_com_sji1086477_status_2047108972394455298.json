@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2046636262803796423",
+    "created_at": "2026-04-23T00:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T01:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047108972394455298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942953730388918272",
+          "start": 0,
+          "username": "yTQtI3wry334415"
+        },
+        {
+          "end": 31,
+          "id": "2032985503621095424",
+          "start": 17,
+          "username": "jianxiexingnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047108972394455298",
+    "in_reply_to_user_id": "1942953730388918272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046979954467090512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yTQtI3wry334415 @jianxiexingnb 他们应该不知道😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2046636262803796423",
+        "created_at": "2026-04-23T00:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047108972394455298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942953730388918272",
+              "start": 0,
+              "username": "yTQtI3wry334415"
+            },
+            {
+              "end": 31,
+              "id": "2032985503621095424",
+              "start": 17,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047108972394455298",
+        "in_reply_to_user_id": "1942953730388918272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046979954467090512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yTQtI3wry334415 @jianxiexingnb 他们应该不知道😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942953730388918272",
+        "conversation_id": "2046636262803796423",
+        "created_at": "2026-04-22T15:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046979954467090512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            },
+            {
+              "end": 26,
+              "id": "2032985503621095424",
+              "start": 12,
+              "username": "jianxiexingnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046979954467090512",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046872919683272740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 @jianxiexingnb 吃感康的不怕肾衰竭吗？(⁠&gt;⁠0⁠&lt;⁠；⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / od / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 46,
+          "like_count": 1404,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 613
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T14:28:51.000Z",
+        "description": "大好き蕾塞",
+        "id": "1942953730388918272",
+        "location": "一处无聊的地方",
+        "name": "郁川瑜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942954695808688128/jnjjbVTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 250,
+          "like_count": 4286,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 234
+        },
+        "username": "yTQtI3wry334415",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性依赖/女♀️/不爱男不爱女/intp/od/文艺逼/双相I型/同类互fo✧٩(ˊωˋ*)و✧",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 56,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 140
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

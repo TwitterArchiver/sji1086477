@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967250926822936576"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "conversation_id": "1967250963787579886",
+    "created_at": "2025-09-14T15:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T16:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967250963787579886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jsuPmfXKss",
+          "end": 29,
+          "expanded_url": "https://x.com/sji1086477/status/1967250963787579886/photo/1",
+          "media_key": "3_1967250926822936576",
+          "start": 6,
+          "url": "https://t.co/jsuPmfXKss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967250963787579886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好踏马爽… https://t.co/jsuPmfXKss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_1967250926822936576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G00US4VW0AAXSk1.jpg",
+        "width": 2219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967250926822936576"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "conversation_id": "1967250963787579886",
+        "created_at": "2025-09-14T15:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T16:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967250963787579886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsuPmfXKss",
+              "end": 29,
+              "expanded_url": "https://x.com/sji1086477/status/1967250963787579886/photo/1",
+              "media_key": "3_1967250926822936576",
+              "start": 6,
+              "url": "https://t.co/jsuPmfXKss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967250963787579886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好踏马爽… https://t.co/jsuPmfXKss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控 欢迎找我聊天～（不回就是不想跟你聊）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

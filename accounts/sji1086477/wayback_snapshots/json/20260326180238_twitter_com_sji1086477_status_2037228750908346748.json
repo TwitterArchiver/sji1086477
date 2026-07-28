@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2037228750908346748",
+    "created_at": "2026-03-26T18:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037228750908346748"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037228750908346748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然休学在家也会考前焦虑，但不得不说这一年是我从上学以来最爽最自由的一年，我他妈爽翻了，在学校天天要面对犯官瘾的脑残老师面对绩优主义面对服从性测试面对傻逼中共洗脑面对教室里的各种酸臭味（尤其是跑完操）面对班里的各种贱人面对各种调休面对基本盘同学面对食堂泔水面对二十一世纪集中营👿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2037228750908346748",
+        "created_at": "2026-03-26T18:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037228750908346748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037228750908346748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然休学在家也会考前焦虑，但不得不说这一年是我从上学以来最爽最自由的一年，我他妈爽翻了，在学校天天要面对犯官瘾的脑残老师面对绩优主义面对服从性测试面对傻逼中共洗脑面对教室里的各种酸臭味（尤其是跑完操）面对班里的各种贱人面对各种调休面对基本盘同学面对食堂泔水面对二十一世纪集中营👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  /  欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 25,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 389
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2079592048374563251",
+    "created_at": "2026-07-21T21:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079682102937752024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2014087828607737857",
+          "start": 0,
+          "username": "smytjsyctxwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079682102937752024",
+    "in_reply_to_user_id": "2014087828607737857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079679940983988300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smytjsyctxwg 环境本来就不是稳定因素，我想试着让自己自洽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2079592048374563251",
+        "created_at": "2026-07-21T21:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079682102937752024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2014087828607737857",
+              "start": 0,
+              "username": "smytjsyctxwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079682102937752024",
+        "in_reply_to_user_id": "2014087828607737857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079679940983988300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smytjsyctxwg 环境本来就不是稳定因素，我想试着让自己自洽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014087828607737857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2079592048374563251",
+        "created_at": "2026-07-21T21:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079679940983988300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079679940983988300",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079592048374563251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 一个人的心理健康取决于身边的环境，一个人情绪很稳定不代表他是一个稳定的人，但是一个人一直不平定那说明他的外在环境一定很烂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念   /  这里是我发疯的唯一途径  / 不是健全人  / 尝试戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 152,
+          "like_count": 2757,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1248
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T21:29:05.000Z",
+        "description": "看你妈逼啥呢，卖逼女压抑男早点把你家地址发我，我给你们的老妈子横斩了，一能让社会少一些劣质基因，二让你们可以找一样贱的人哭诉原生家庭😂😂😂像骂我的全家死光被我横斩的一群傻逼😂😂😂😂😂",
+        "id": "2014087828607737857",
+        "name": "横斩卖骚之人的老妈子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079664190764261376/VQkXD1pE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 8,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "smytjsyctxwg",
+        "verified": false
+      }
+    ]
+  }
+}

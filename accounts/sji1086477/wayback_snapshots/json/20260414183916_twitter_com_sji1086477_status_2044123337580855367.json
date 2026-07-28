@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2044123337580855367",
+    "created_at": "2026-04-14T18:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044123337580855367"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044123337580855367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "任何人都有直面生活的选择，同样也有逃避生活的选择。任何所谓积极或消极的选择都不该被歌颂或者唾弃，因为这是个人的人生态度，不该由外界评判。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2044123337580855367",
+        "created_at": "2026-04-14T18:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044123337580855367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044123337580855367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "任何人都有直面生活的选择，同样也有逃避生活的选择。任何所谓积极或消极的选择都不该被歌颂或者唾弃，因为这是个人的人生态度，不该由外界评判。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 女权主义 / 反父权剥削 /长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 31,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 517
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

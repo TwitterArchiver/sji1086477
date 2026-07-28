@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1985182220844507560",
+    "created_at": "2025-11-03T13:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985340040524726455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "862617247491149824",
+          "start": 0,
+          "username": "ZakuraMask"
+        },
+        {
+          "end": 20,
+          "id": "1703086500366450688",
+          "start": 12,
+          "username": "AGQNLZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985340040524726455",
+    "in_reply_to_user_id": "862617247491149824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985308593462341935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZakuraMask @AGQNLZS 我在反讽你没看出来啊🤣，选择相信政治书的只有粉红吧🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1985182220844507560",
+        "created_at": "2025-11-03T13:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985340040524726455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "862617247491149824",
+              "start": 0,
+              "username": "ZakuraMask"
+            },
+            {
+              "end": 20,
+              "id": "1703086500366450688",
+              "start": 12,
+              "username": "AGQNLZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985340040524726455",
+        "in_reply_to_user_id": "862617247491149824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985308593462341935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZakuraMask @AGQNLZS 我在反讽你没看出来啊🤣，选择相信政治书的只有粉红吧🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "862617247491149824",
+        "conversation_id": "1985182220844507560",
+        "created_at": "2025-11-03T11:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T12:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985308593462341935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            },
+            {
+              "end": 20,
+              "id": "1703086500366450688",
+              "start": 12,
+              "username": "AGQNLZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985308593462341935",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985287848543887745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 @AGQNLZS 动态逻辑控制，符合你认知的便是真理，不符合的便是无逻辑的，你要是真相信政治书上的内容咋只挑自己喜欢的相信呢😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、粉红 |（主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 21,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-11T10:35:53.000Z",
+        "description": "",
+        "id": "862617247491149824",
+        "name": "铁柱",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 31
+        },
+        "username": "ZakuraMask",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T16:40:46.000Z",
+        "description": "清澈的爱，只为中国！🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqHrn…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqHrnDPURu18A90AUqJovvQ?si=NGcqmUi6RjNviqNB",
+                "start": 0,
+                "url": "https://t.co/K3JZ4OviFF"
+              }
+            ]
+          }
+        },
+        "id": "1703086500366450688",
+        "location": "China",
+        "name": "爱国青年刘战神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703086648777695232/Mhdka8cM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 127,
+          "like_count": 171,
+          "listed_count": 21,
+          "media_count": 177,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/K3JZ4OviFF",
+        "username": "AGQNLZS",
+        "verified": true
+      }
+    ]
+  }
+}

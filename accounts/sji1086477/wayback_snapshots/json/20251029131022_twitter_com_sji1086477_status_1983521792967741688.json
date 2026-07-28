@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1983207663467901242",
+    "created_at": "2025-10-29T13:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T14:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983521792967741688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1970838581813051392",
+          "start": 0,
+          "username": "q9zi_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983521792967741688",
+    "in_reply_to_user_id": "1970838581813051392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983207663467901242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q9zi_1 因为相信从小被灌输的成绩代表一切，自己是既得利益者当然要贯彻到底"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1983207663467901242",
+        "created_at": "2025-10-29T13:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T14:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983521792967741688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1970838581813051392",
+              "start": 0,
+              "username": "q9zi_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983521792967741688",
+        "in_reply_to_user_id": "1970838581813051392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983207663467901242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q9zi_1 因为相信从小被灌输的成绩代表一切，自己是既得利益者当然要贯彻到底"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970838581813051392",
+        "conversation_id": "1983207663467901242",
+        "created_at": "2025-10-28T16:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983207663467901242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983207663467901242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12793,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我不明白学历高的人凭啥有莫名其妙的优越感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 |（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 19,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T13:12:05.000Z",
+        "description": "欢迎再次来到我的世界。",
+        "id": "1970838581813051392",
+        "location": "🐈",
+        "name": "麦当劳被捕薯条",
+        "pinned_tweet_id": "1976966657022345665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970844433630568449/NfthXuLX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 148,
+          "like_count": 1710,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 2518
+        },
+        "username": "q9zi_1",
+        "verified": false
+      }
+    ]
+  }
+}

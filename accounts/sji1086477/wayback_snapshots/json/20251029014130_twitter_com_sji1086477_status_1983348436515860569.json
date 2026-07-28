@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "1983168432658100390",
+    "created_at": "2025-10-29T01:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T02:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983348436515860569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1536171429187956737",
+          "start": 0,
+          "username": "MSBPANG"
+        },
+        {
+          "end": 18,
+          "id": "1521851592827310080",
+          "start": 9,
+          "username": "KLGJ8888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983348436515860569",
+    "in_reply_to_user_id": "1536171429187956737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983174129701511200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MSBPANG @KLGJ8888 还是个rapper"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "1983168432658100390",
+        "created_at": "2025-10-29T01:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983348436515860569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1536171429187956737",
+              "start": 0,
+              "username": "MSBPANG"
+            },
+            {
+              "end": 18,
+              "id": "1521851592827310080",
+              "start": 9,
+              "username": "KLGJ8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983348436515860569",
+        "in_reply_to_user_id": "1536171429187956737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983174129701511200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MSBPANG @KLGJ8888 还是个rapper"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536171429187956737",
+        "conversation_id": "1983168432658100390",
+        "created_at": "2025-10-28T14:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T15:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983174129701511200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521851592827310080",
+              "start": 0,
+              "username": "KLGJ8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983174129701511200",
+        "in_reply_to_user_id": "1521851592827310080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6376,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983168432658100390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KLGJ8888 这个傻逼 操你妈 你妈大逼人人插 左插插右插插"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不定时上线 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 17,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T02:19:51.000Z",
+        "description": "",
+        "id": "1536171429187956737",
+        "name": "RUZ-",
+        "pinned_tweet_id": "1536284682786344962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910345333038833664/AVK-4XsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 482,
+          "like_count": 1555,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 63
+        },
+        "username": "MSBPANG",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T13:58:05.000Z",
+        "description": "省流请看亮点｜@Lu_lu4Xi1是小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Lu_lu4Xi1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw01.damoplane.one/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw01.damoplane.one/#/register?code=ATyPkgkN",
+                "start": 0,
+                "url": "https://t.co/bYRS9DrSVf"
+              }
+            ]
+          }
+        },
+        "id": "1521851592827310080",
+        "location": "好用vpn👉🏻",
+        "name": "快乐冠军",
+        "pinned_tweet_id": "1983094592519143518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645592507559063554/wDXTr60v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189778,
+          "following_count": 729,
+          "like_count": 14963,
+          "listed_count": 356,
+          "media_count": 629,
+          "tweet_count": 7188
+        },
+        "url": "https://t.co/bYRS9DrSVf",
+        "username": "KLGJ8888",
+        "verified": true
+      }
+    ]
+  }
+}

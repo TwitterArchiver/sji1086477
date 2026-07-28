@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975221460848533504"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "conversation_id": "1975221471665598885",
+    "created_at": "2025-10-06T15:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T16:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975221471665598885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gtpypQNRvb",
+          "end": 30,
+          "expanded_url": "https://x.com/sji1086477/status/1975221471665598885/photo/1",
+          "media_key": "3_1975221460848533504",
+          "start": 7,
+          "url": "https://t.co/gtpypQNRvb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975221471665598885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我是内双 https://t.co/gtpypQNRvb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975221460848533504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lldBaa4AAJYRf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975221460848533504"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "conversation_id": "1975221471665598885",
+        "created_at": "2025-10-06T15:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T16:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975221471665598885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gtpypQNRvb",
+              "end": 30,
+              "expanded_url": "https://x.com/sji1086477/status/1975221471665598885/photo/1",
+              "media_key": "3_1975221460848533504",
+              "start": 7,
+              "url": "https://t.co/gtpypQNRvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975221471665598885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我是内双 https://t.co/gtpypQNRvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直 | 欢迎找我聊天～（没点关注、主页空白/转发大量黄推的私信一律不回）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 112
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974520569635745792",
+        "3_1974520569644097536",
+        "3_1974520568188731392"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "conversation_id": "1974520609653784666",
+    "created_at": "2025-10-04T17:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T18:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974520609653784666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yx0OkChUQk",
+          "end": 78,
+          "expanded_url": "https://x.com/sji1086477/status/1974520609653784666/photo/1",
+          "media_key": "3_1974520569635745792",
+          "start": 55,
+          "url": "https://t.co/yx0OkChUQk"
+        },
+        {
+          "display_url": "pic.x.com/yx0OkChUQk",
+          "end": 78,
+          "expanded_url": "https://x.com/sji1086477/status/1974520609653784666/photo/1",
+          "media_key": "3_1974520569644097536",
+          "start": 55,
+          "url": "https://t.co/yx0OkChUQk"
+        },
+        {
+          "display_url": "pic.x.com/yx0OkChUQk",
+          "end": 78,
+          "expanded_url": "https://x.com/sji1086477/status/1974520609653784666/photo/1",
+          "media_key": "3_1974520568188731392",
+          "start": 55,
+          "url": "https://t.co/yx0OkChUQk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974520609653784666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "莫名其妙被喷，说不过我就破防然后屏蔽我，一看主页原来是币⭕️懂哥平时喜欢指点江山，原是我伤了他脆弱的自尊心。 https://t.co/yx0OkChUQk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974520569635745792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2bn_yLXMAAd3s6.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974520569644097536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2bn_yNWoAAX8zM.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974520568188731392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2bn_syXgAANNfO.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974520569635745792",
+            "3_1974520569644097536",
+            "3_1974520568188731392"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "conversation_id": "1974520609653784666",
+        "created_at": "2025-10-04T17:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974520609653784666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yx0OkChUQk",
+              "end": 78,
+              "expanded_url": "https://x.com/sji1086477/status/1974520609653784666/photo/1",
+              "media_key": "3_1974520569635745792",
+              "start": 55,
+              "url": "https://t.co/yx0OkChUQk"
+            },
+            {
+              "display_url": "pic.x.com/yx0OkChUQk",
+              "end": 78,
+              "expanded_url": "https://x.com/sji1086477/status/1974520609653784666/photo/1",
+              "media_key": "3_1974520569644097536",
+              "start": 55,
+              "url": "https://t.co/yx0OkChUQk"
+            },
+            {
+              "display_url": "pic.x.com/yx0OkChUQk",
+              "end": 78,
+              "expanded_url": "https://x.com/sji1086477/status/1974520609653784666/photo/1",
+              "media_key": "3_1974520568188731392",
+              "start": 55,
+              "url": "https://t.co/yx0OkChUQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974520609653784666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "莫名其妙被喷，说不过我就破防然后屏蔽我，一看主页原来是币⭕️懂哥平时喜欢指点江山，原是我伤了他脆弱的自尊心。 https://t.co/yx0OkChUQk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 16,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 96
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

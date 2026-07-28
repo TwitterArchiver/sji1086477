@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2037945630098895105",
+    "created_at": "2026-03-28T22:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T23:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038021461667963158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906912579412496384",
+          "start": 0,
+          "username": "n2dIZqv31n86005"
+        },
+        {
+          "end": 27,
+          "id": "1987243077657055232",
+          "start": 17,
+          "username": "puppy0581"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038021461667963158",
+    "in_reply_to_user_id": "1906912579412496384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038008027773808742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n2dIZqv31n86005 @puppy0581 你处处都是恶意，教一个正在读书的小女孩用青春美貌去走一个找有钱男人这种最危险最没有保障的路，回复全是张口闭口母狗门槛，初步鉴定为付不起门槛费但上半身厌女下半身辱女的动物，并且恨不得自己身上长个b然后去当咯咯哒挣快钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2037945630098895105",
+        "created_at": "2026-03-28T22:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T23:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038021461667963158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906912579412496384",
+              "start": 0,
+              "username": "n2dIZqv31n86005"
+            },
+            {
+              "end": 27,
+              "id": "1987243077657055232",
+              "start": 17,
+              "username": "puppy0581"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038021461667963158",
+        "in_reply_to_user_id": "1906912579412496384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038008027773808742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n2dIZqv31n86005 @puppy0581 你处处都是恶意，教一个正在读书的小女孩用青春美貌去走一个找有钱男人这种最危险最没有保障的路，回复全是张口闭口母狗门槛，初步鉴定为付不起门槛费但上半身厌女下半身辱女的动物，并且恨不得自己身上长个b然后去当咯咯哒挣快钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906912579412496384",
+        "conversation_id": "2037945630098895105",
+        "created_at": "2026-03-28T21:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T22:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038008027773808742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987243077657055232",
+              "start": 0,
+              "username": "puppy0581"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038008027773808742",
+        "in_reply_to_user_id": "1987243077657055232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037945630098895105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppy0581 把账号注销，攀上一个有经济能力的男人才是你目前最该做的。门槛你能收多少钱？你没有漂亮的脸蛋和足够傲视群雄的身材，你在别人眼里就是条母狗。希望你自己能好好想想，你也收不了多少门槛钱，摊上这个爹这个家，你也挺倒霉的。我并没有恶意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  /  欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 24,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 401
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T03:32:56.000Z",
+        "description": "",
+        "id": "1906912579412496384",
+        "name": "罐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906912680998518784/g5n1rvAQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 31,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "username": "n2dIZqv31n86005",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T19:37:43.000Z",
+        "description": "很容易心碎的小狗",
+        "id": "1987243077657055232",
+        "location": "没门 无私信",
+        "name": "mumusup",
+        "pinned_tweet_id": "2010667721818874048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012660836645339137/qx_FHqCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9569,
+          "following_count": 29,
+          "like_count": 56,
+          "listed_count": 36,
+          "media_count": 99,
+          "tweet_count": 536
+        },
+        "username": "puppy0581",
+        "verified": false
+      }
+    ]
+  }
+}

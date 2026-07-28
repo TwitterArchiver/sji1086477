@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2042213669950407049",
+    "created_at": "2026-04-10T07:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042506842476036203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826990923466653696",
+          "start": 0,
+          "username": "Nellie_Yuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042506842476036203",
+    "in_reply_to_user_id": "1826990923466653696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042213669950407049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nellie_Yuyu 大妈我们干什么跟你有什么关系啊在这里叫叫叫，你是健全人就好好呆在自己的健全圈子里呗非要来oder这里刷什么存在感你这不活该被骂吗🤣🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2042213669950407049",
+        "created_at": "2026-04-10T07:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042506842476036203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826990923466653696",
+              "start": 0,
+              "username": "Nellie_Yuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042506842476036203",
+        "in_reply_to_user_id": "1826990923466653696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042213669950407049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nellie_Yuyu 大妈我们干什么跟你有什么关系啊在这里叫叫叫，你是健全人就好好呆在自己的健全圈子里呗非要来oder这里刷什么存在感你这不活该被骂吗🤣🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826990923466653696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2042213669950407049",
+        "created_at": "2026-04-09T12:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042213669950407049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042213669950407049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咋那么多小oder去喷广州禁毒🙄人家说啥了 说自残被戏称为改花刀会忽视心理痛苦 人家不是站在你们这群小oder的角度出发吗 说加强药物管制 关注心理健康 哪句话惹到你们🙄就非要od 自残 卖淫 信息不受管制传播你们才觉得社会是包容接纳你们的是吗 青少年od的还少吗 真想不明白为什么天天在网上发这些东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 长期失眠 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 32,
+          "like_count": 1178,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 507
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:32:54.000Z",
+        "description": "",
+        "id": "1826990923466653696",
+        "location": "London, England",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906518911933153283/xEvCQLVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 75
+        },
+        "username": "Nellie_Yuyu",
+        "verified": false
+      }
+    ]
+  }
+}

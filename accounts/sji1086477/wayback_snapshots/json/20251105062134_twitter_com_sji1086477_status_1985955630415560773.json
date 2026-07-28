@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1985745326959923374",
+    "created_at": "2025-11-05T06:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T07:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985955630415560773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1970859518524592129",
+          "start": 0,
+          "username": "GPretty26090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985955630415560773",
+    "in_reply_to_user_id": "1970859518524592129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985940727646601249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GPretty26090 对！无论是演技，情感细腻程度，服化道，氛围风格，这部完全没有平替"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1985745326959923374",
+        "created_at": "2025-11-05T06:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T07:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985955630415560773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1970859518524592129",
+              "start": 0,
+              "username": "GPretty26090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985955630415560773",
+        "in_reply_to_user_id": "1970859518524592129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985940727646601249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GPretty26090 对！无论是演技，情感细腻程度，服化道，氛围风格，这部完全没有平替"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970859518524592129",
+        "conversation_id": "1985745326959923374",
+        "created_at": "2025-11-05T05:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T06:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985940727646601249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985940727646601249",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985745326959923374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 小姐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、小粉红 | （主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 21,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:35:35.000Z",
+        "description": "",
+        "id": "1970859518524592129",
+        "name": "松夏守沙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973257782423171073/DoXEk1N-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "GPretty26090",
+        "verified": false
+      }
+    ]
+  }
+}

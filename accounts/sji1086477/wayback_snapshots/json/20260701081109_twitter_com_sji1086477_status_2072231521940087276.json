@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2072223464426234287",
+    "created_at": "2026-07-01T08:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072231521940087276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754843908524376064",
+          "start": 0,
+          "username": "huajiliefushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072231521940087276",
+    "in_reply_to_user_id": "1754843908524376064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072223464426234287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajiliefushi 最后你打了没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2072223464426234287",
+        "created_at": "2026-07-01T08:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072231521940087276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754843908524376064",
+              "start": 0,
+              "username": "huajiliefushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072231521940087276",
+        "in_reply_to_user_id": "1754843908524376064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072223464426234287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajiliefushi 最后你打了没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754843908524376064",
+        "conversation_id": "2072223464426234287",
+        "created_at": "2026-07-01T07:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072223464426234287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072223464426234287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次自己去打舞萌全是人好尴尬）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 尝试戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 136,
+          "like_count": 2528,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1162
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T12:26:17.000Z",
+        "description": "颓废准大一 网络蛆虫 摇滚迷   酗酒重度依赖 没事喜欢踢踢足球 友跨 漫摄fw  欢迎互fo互发乐子唠嗑",
+        "id": "1754843908524376064",
+        "location": "沃尔库塔—5",
+        "name": "diaonansfz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460493376475136/mLc0BZcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 116,
+          "like_count": 826,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1007
+        },
+        "url": "",
+        "username": "huajiliefushi",
+        "verified": false
+      }
+    ]
+  }
+}

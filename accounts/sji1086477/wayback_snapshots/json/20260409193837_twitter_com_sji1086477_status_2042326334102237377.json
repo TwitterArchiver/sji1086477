@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2042323288429343133",
+    "created_at": "2026-04-09T19:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T20:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042326334102237377"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042326334102237377",
+    "in_reply_to_user_id": "1934615181524615168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042324531180716051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后来班主任只是说了她们几句这个事情就不了了之，后续就是我依旧遭受着霸凌直到五六年级。从那以后我不没有再信任过任何老师和父母，在他们那里我也是不安全的，我的世界里没有任何庇护所，所到之处全是打压和无声霸凌，我从那个活泼开朗的小女孩变得内向自卑讨好😢。。但是现在那个小女孩已经找到自我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2042323288429343133",
+        "created_at": "2026-04-09T19:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042326334102237377"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042326334102237377",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042324531180716051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后来班主任只是说了她们几句这个事情就不了了之，后续就是我依旧遭受着霸凌直到五六年级。从那以后我不没有再信任过任何老师和父母，在他们那里我也是不安全的，我的世界里没有任何庇护所，所到之处全是打压和无声霸凌，我从那个活泼开朗的小女孩变得内向自卑讨好😢。。但是现在那个小女孩已经找到自我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2042323288429343133",
+        "created_at": "2026-04-09T19:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042324531180716051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042324531180716051",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042323288429343133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "记得很清楚那个时候我实在忍受不了找班主任说明情况，我爸也在场。当时班主任说了一句我印象很深的话“他们为什么不欺负别人只欺负你？”我爸也跟着附和，我也很懵逼她们为什么要这样对我，但是现在我想清楚了，社达社会里的社达父母就是容易培养出社达孩子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 长期失眠 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 32,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 503
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

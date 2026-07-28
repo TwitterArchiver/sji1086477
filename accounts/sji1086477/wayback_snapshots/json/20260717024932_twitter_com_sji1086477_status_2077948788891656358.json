@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2076977096795078725",
+    "created_at": "2026-07-17T02:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077948788891656358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754843908524376064",
+          "start": 0,
+          "username": "huajiliefushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077948788891656358",
+    "in_reply_to_user_id": "1754843908524376064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077757823015170505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajiliefushi 吓哭了😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 404,
+        "media_key": "3_2077757820259512320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWtuqXbsAA-J81.jpg",
+        "width": 361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2076977096795078725",
+        "created_at": "2026-07-17T02:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077948788891656358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754843908524376064",
+              "start": 0,
+              "username": "huajiliefushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077948788891656358",
+        "in_reply_to_user_id": "1754843908524376064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077757823015170505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajiliefushi 吓哭了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077757820259512320"
+          ]
+        },
+        "author_id": "1754843908524376064",
+        "conversation_id": "2076977096795078725",
+        "created_at": "2026-07-16T14:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077757823015170505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJvXT8ziFi",
+              "end": 35,
+              "expanded_url": "https://x.com/huajiliefushi/status/2077757823015170505/photo/1",
+              "media_key": "3_2077757820259512320",
+              "start": 12,
+              "url": "https://t.co/QJvXT8ziFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077757823015170505",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076977096795078725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 https://t.co/QJvXT8ziFi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 尝试戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 143,
+          "like_count": 2662,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T12:26:17.000Z",
+        "description": "颓废准大一 网络蛆虫 摇滚迷   酗酒重度依赖 没事喜欢踢踢足球 友跨 漫摄fw  欢迎互fo互发乐子唠嗑",
+        "id": "1754843908524376064",
+        "location": "沃尔库塔—5",
+        "name": "diaonansfz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460493376475136/mLc0BZcT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 120,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1105
+        },
+        "url": "",
+        "username": "huajiliefushi",
+        "verified": false
+      }
+    ]
+  }
+}

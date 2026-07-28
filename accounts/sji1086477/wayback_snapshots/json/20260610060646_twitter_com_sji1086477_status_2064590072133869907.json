@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2064590072133869907",
+    "created_at": "2026-06-10T06:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064590072133869907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1569188240128876545",
+          "start": 3,
+          "username": "for_4ngel_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064590072133869907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064422864489717816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @for_4ngel_2: 这里是Angel二号机备用号，大号被奸人所害封号七天还被ghostban了，希望大家帮我转一下帖，寻回互fo😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2064590072133869907",
+        "created_at": "2026-06-10T06:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064590072133869907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1569188240128876545",
+              "start": 3,
+              "username": "for_4ngel_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064590072133869907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064422864489717816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @for_4ngel_2: 这里是Angel二号机备用号，大号被奸人所害封号七天还被ghostban了，希望大家帮我转一下帖，寻回互fo😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569188240128876545",
+        "conversation_id": "2064422864489717816",
+        "created_at": "2026-06-09T19:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T20:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064422864489717816"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064422864489717816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1062,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "这里是Angel二号机备用号，大号被奸人所害封号七天还被ghostban了，希望大家帮我转一下帖，寻回互fo😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 尝试戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 129,
+          "like_count": 2334,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1069
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T04:56:53.000Z",
+        "description": "这里是Angel二号机|07 |♂ | 双相情感障碍C-PTSD BPD-E | shtwt| 0D | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些0D相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1569188240128876545",
+        "location": "若能成為誰的心臟",
+        "name": "Angel #昴宿四",
+        "pinned_tweet_id": "2064422864489717816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064420842935881728/qOmEnKft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 31,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "for_4ngel_2",
+        "verified": false
+      }
+    ]
+  }
+}

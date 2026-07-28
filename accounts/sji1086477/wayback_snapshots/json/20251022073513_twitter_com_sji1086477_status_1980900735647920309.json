@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1980392443364442427",
+    "created_at": "2025-10-22T07:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T08:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980900735647920309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1279993391204511750",
+          "start": 0,
+          "username": "DJxButKKad0hDsS"
+        },
+        {
+          "end": 32,
+          "id": "1669893523611725824",
+          "start": 17,
+          "username": "dngbwn36967737"
+        },
+        {
+          "end": 41,
+          "id": "1816923932005396480",
+          "start": 33,
+          "username": "ZHRKGHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980900735647920309",
+    "in_reply_to_user_id": "1279993391204511750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980808510490439922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DJxButKKad0hDsS @dngbwn36967737 @ZHRKGHG 你个不孝子赶紧回b里回炉重造吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1980392443364442427",
+        "created_at": "2025-10-22T07:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980900735647920309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1279993391204511750",
+              "start": 0,
+              "username": "DJxButKKad0hDsS"
+            },
+            {
+              "end": 32,
+              "id": "1669893523611725824",
+              "start": 17,
+              "username": "dngbwn36967737"
+            },
+            {
+              "end": 41,
+              "id": "1816923932005396480",
+              "start": 33,
+              "username": "ZHRKGHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980900735647920309",
+        "in_reply_to_user_id": "1279993391204511750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980808510490439922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DJxButKKad0hDsS @dngbwn36967737 @ZHRKGHG 你个不孝子赶紧回b里回炉重造吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279993391204511750",
+        "conversation_id": "1980392443364442427",
+        "created_at": "2025-10-22T01:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T02:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980808510490439922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            },
+            {
+              "end": 27,
+              "id": "1669893523611725824",
+              "start": 12,
+              "username": "dngbwn36967737"
+            },
+            {
+              "end": 36,
+              "id": "1816923932005396480",
+              "start": 28,
+              "username": "ZHRKGHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980808510490439922",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980584085262344656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 @dngbwn36967737 @ZHRKGHG 带个孩子把你b给拽地下来了哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 17,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:19:47.000Z",
+        "description": "chinois",
+        "id": "1279993391204511750",
+        "name": "_等待secarc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544342727201918976/eLgpUHTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 44,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "DJxButKKad0hDsS",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-17T02:23:56.000Z",
+        "description": "右翼/反犹（包括☭☪️✡️✝️）/反台独/反毒品/反一切女权/反lgbt/男权主义/漢本位支持者/国社主义支持者，拒绝mtf性别逃亡主义，坐看🇵🇸🇮🇱狗咬狗。台湾是中国仅存的一部分。㜅无法创造社会和文化，它们只会腐化和毁坏已被创造出的文明和优秀文化。",
+        "id": "1669893523611725824",
+        "name": "make men great again",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920062884652199936/AyRIGMJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 265,
+          "like_count": 84482,
+          "listed_count": 4,
+          "media_count": 165,
+          "tweet_count": 16818
+        },
+        "username": "dngbwn36967737",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T19:50:20.000Z",
+        "description": "",
+        "id": "1816923932005396480",
+        "location": "加利福尼亚州",
+        "name": "中华人矿共和国",
+        "pinned_tweet_id": "1980744633731715540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950500480775544832/WwaIftgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41979,
+          "following_count": 1753,
+          "like_count": 35208,
+          "listed_count": 136,
+          "media_count": 4545,
+          "tweet_count": 7926
+        },
+        "username": "ZHRKGHG",
+        "verified": false
+      }
+    ]
+  }
+}

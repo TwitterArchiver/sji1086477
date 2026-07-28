@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972639469980258304"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "conversation_id": "1972639473206018203",
+    "created_at": "2025-09-29T12:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T13:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972639473206018203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PSXGAgJyJY",
+          "end": 23,
+          "expanded_url": "https://x.com/sji1086477/status/1972639473206018203/photo/1",
+          "media_key": "3_1972639469980258304",
+          "start": 0,
+          "url": "https://t.co/PSXGAgJyJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972639473206018203",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/PSXGAgJyJY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 292,
+        "media_key": "3_1972639469980258304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2A5JX4WkAA0GE4.jpg",
+        "width": 738
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972639469980258304"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "conversation_id": "1972639473206018203",
+        "created_at": "2025-09-29T12:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T13:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972639473206018203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSXGAgJyJY",
+              "end": 23,
+              "expanded_url": "https://x.com/sji1086477/status/1972639473206018203/photo/1",
+              "media_key": "3_1972639469980258304",
+              "start": 0,
+              "url": "https://t.co/PSXGAgJyJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972639473206018203",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PSXGAgJyJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 73
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

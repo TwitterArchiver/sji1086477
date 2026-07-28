@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1966861446341685466",
+    "created_at": "2025-09-13T13:48:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T14:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966861446341685466"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966861446341685466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实没有多喜欢，只是需要他来间接证明自己的魅力而已，那些回忆只不过是彼此在无聊时的消遣罢了\n需求匹配才能走到一起，利益捆绑才能走得更远。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1966861446341685466",
+        "created_at": "2025-09-13T13:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T14:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966861446341685466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966861446341685466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实没有多喜欢，只是需要他来间接证明自己的魅力而已，那些回忆只不过是彼此在无聊时的消遣罢了\n需求匹配才能走到一起，利益捆绑才能走得更远。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控 欢迎找我聊天～",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

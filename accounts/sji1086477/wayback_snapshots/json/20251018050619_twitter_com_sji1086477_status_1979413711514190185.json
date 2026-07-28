@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1978468194294907312",
+    "created_at": "2025-10-18T05:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T06:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979413711514190185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1451783157418627073",
+          "start": 0,
+          "username": "KX1a0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979413711514190185",
+    "in_reply_to_user_id": "1451783157418627073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978501871904964950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KX1a0 对，像那种分手后会发中二语录的小学生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1978468194294907312",
+        "created_at": "2025-10-18T05:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T06:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979413711514190185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1451783157418627073",
+              "start": 0,
+              "username": "KX1a0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979413711514190185",
+        "in_reply_to_user_id": "1451783157418627073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978501871904964950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KX1a0 对，像那种分手后会发中二语录的小学生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451783157418627073",
+        "conversation_id": "1978468194294907312",
+        "created_at": "2025-10-15T16:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978501871904964950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978501871904964950",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978468194294907312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 越是这样越是觉得这个男的廉价且令人反胃🥀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 18,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-23T05:31:00.000Z",
+        "description": "",
+        "id": "1451783157418627073",
+        "name": "婚后发现老公在成都出轨当0",
+        "pinned_tweet_id": "1471145197442461701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951722171992346624/0_F9lPQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 273,
+          "like_count": 2565,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "KX1a0",
+        "verified": false
+      }
+    ]
+  }
+}

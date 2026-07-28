@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1959996394124845238",
+    "created_at": "2025-08-26T05:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T06:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960209715943637165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1667832796751044608",
+          "start": 0,
+          "username": "prettybitchyyha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960209715943637165",
+    "in_reply_to_user_id": "1667832796751044608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959996394124845238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@prettybitchyyha 宝宝你能控制住自己的情绪说明你的认知比他高多了，跟这种人无法交流就尽量避免，心里明白你这里没有任何问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1959996394124845238",
+        "created_at": "2025-08-26T05:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T06:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960209715943637165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1667832796751044608",
+              "start": 0,
+              "username": "prettybitchyyha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960209715943637165",
+        "in_reply_to_user_id": "1667832796751044608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959996394124845238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@prettybitchyyha 宝宝你能控制住自己的情绪说明你的认知比他高多了，跟这种人无法交流就尽量避免，心里明白你这里没有任何问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667832796751044608",
+        "conversation_id": "1959996394124845238",
+        "created_at": "2025-08-25T15:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T16:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959996394124845238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959996394124845238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1533,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们如果跟爸爸关系不好要怎么办呢  已经到了他喝完酒回来 我关一下门在他眼里就是摔门的程度了 我这些年开始接受他不爱我  但是我觉得一直这样下去我会得精神病的我要变成疯子了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T09:55:10.000Z",
+        "description": "",
+        "id": "1667832796751044608",
+        "location": "he nan",
+        "name": "伯贤常来梦里做客",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797496309420871680/qS1UNokE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 124,
+          "like_count": 5376,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 276
+        },
+        "username": "prettybitchyyha",
+        "verified": false
+      }
+    ]
+  }
+}

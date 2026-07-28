@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1982346403776242166",
+    "created_at": "2025-10-26T16:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982482797970293208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1673541831878135811",
+          "start": 0,
+          "username": "niuyouguo_1739"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982482797970293208",
+    "in_reply_to_user_id": "1673541831878135811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982346403776242166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niuyouguo_1739 因为女性消费水平比男性高，他们一直在宣传这些想方设法地从女性口袋里捞钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1982346403776242166",
+        "created_at": "2025-10-26T16:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982482797970293208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1673541831878135811",
+              "start": 0,
+              "username": "niuyouguo_1739"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982482797970293208",
+        "in_reply_to_user_id": "1673541831878135811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982346403776242166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niuyouguo_1739 因为女性消费水平比男性高，他们一直在宣传这些想方设法地从女性口袋里捞钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673541831878135811",
+        "conversation_id": "1982346403776242166",
+        "created_at": "2025-10-26T07:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T08:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982346403776242166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982346403776242166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2402,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷小红书看到有人鼓吹“女孩子一定不要丧失打扮欲”，原因是打扮漂亮了一整天状态都会很好，但我怎么感觉越看越奇怪呢，收拾的干净整洁不就行了吗，也没人跟男的说男孩子一定不要丧失打扮欲啊，我怀疑这就是给服美役换了一种说法\n还有那种什么美女感很强的衣服也听起来怪怪的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 17,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T04:00:49.000Z",
+        "description": "最是人间留不住，朱颜辞镜花辞树。｜出原味｜有偿转推",
+        "id": "1673541831878135811",
+        "location": "🚪188/520/888/1314 ",
+        "name": "猫猫猫猫头鹰",
+        "pinned_tweet_id": "1958422279261450405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943682537206804480/4FCW3HuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 359,
+          "like_count": 5767,
+          "listed_count": 20,
+          "media_count": 449,
+          "tweet_count": 2756
+        },
+        "username": "niuyouguo_1739",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2046820776221798747",
+    "created_at": "2026-04-22T23:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T00:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047098810757759271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942953730388918272",
+          "start": 0,
+          "username": "yTQtI3wry334415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047098810757759271",
+    "in_reply_to_user_id": "1942953730388918272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046983844323377506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yTQtI3wry334415 对😭😭希望身边不要再有这种人出现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2046820776221798747",
+        "created_at": "2026-04-22T23:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047098810757759271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942953730388918272",
+              "start": 0,
+              "username": "yTQtI3wry334415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047098810757759271",
+        "in_reply_to_user_id": "1942953730388918272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046983844323377506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yTQtI3wry334415 对😭😭希望身边不要再有这种人出现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942953730388918272",
+        "conversation_id": "2046820776221798747",
+        "created_at": "2026-04-22T16:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046983844323377506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046983844323377506",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046820776221798747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 弱者抽刀向更弱者，这种暴力行为无论怎么说都够堕入畜生道了嘛！(⁠╯⁠°⁠□⁠°⁠）⁠╯⁠︵⁠ ⁠┻⁠━⁠┻未来才不在这种牲畜的手里，一定可以被姐掌握的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / od / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 46,
+          "like_count": 1402,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 611
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T14:28:51.000Z",
+        "description": "大好き蕾塞",
+        "id": "1942953730388918272",
+        "location": "一处无聊的地方",
+        "name": "郁川瑜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942954695808688128/jnjjbVTg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 250,
+          "like_count": 4286,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 234
+        },
+        "username": "yTQtI3wry334415",
+        "verified": false
+      }
+    ]
+  }
+}

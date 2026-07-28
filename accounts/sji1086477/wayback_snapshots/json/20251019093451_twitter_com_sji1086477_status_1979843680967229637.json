@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1979825612039889090",
+    "created_at": "2025-10-19T09:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T10:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979843680967229637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952925143002701824",
+          "start": 0,
+          "username": "sfmyl0301"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979843680967229637",
+    "in_reply_to_user_id": "1952925143002701824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979839134345912727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfmyl0301 很典型的例子，有感而发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1979825612039889090",
+        "created_at": "2025-10-19T09:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979843680967229637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952925143002701824",
+              "start": 0,
+              "username": "sfmyl0301"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979843680967229637",
+        "in_reply_to_user_id": "1952925143002701824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979839134345912727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfmyl0301 很典型的例子，有感而发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952925143002701824",
+        "conversation_id": "1979825612039889090",
+        "created_at": "2025-10-19T09:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979839134345912727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979839134345912727",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979825612039889090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 拿731学院来举例请问是在？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男 | 欢迎女宝宝找我聊天～（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 18,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 179
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T02:50:24.000Z",
+        "description": "声控、手控、20⬆️，每天敲代码产生的怨念需要被声音治愈，INTP♏。『恋津田蓮也』、『六条銀』全肯定。❗❗预警：我的主页什么内容都会发，如果雷到你了，我不会道歉哦。ps：婉拒未成年",
+        "id": "1952925143002701824",
+        "name": "Sfmy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952925337886871552/PbimginC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 37,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 262
+        },
+        "username": "sfmyl0301",
+        "verified": false
+      }
+    ]
+  }
+}

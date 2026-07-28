@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2041838351473635330"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "conversation_id": "2041838477096935733",
+    "created_at": "2026-04-08T11:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T12:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041838477096935733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h8fjwLncQ3",
+          "end": 29,
+          "expanded_url": "https://x.com/sji1086477/status/2041838477096935733/video/1",
+          "media_key": "7_2041838351473635330",
+          "start": 6,
+          "url": "https://t.co/h8fjwLncQ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041838477096935733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "放一段歌😙 https://t.co/h8fjwLncQ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35944,
+        "height": 720,
+        "media_key": "7_2041838351473635330",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041838351473635330/pu/img/UJ-LNb2ccxfFnfbO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041838351473635330/pu/vid/avc1/480x270/ML2cin1j3V1c0sS-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041838351473635330/pu/vid/avc1/640x360/3M2vp_310rFLbGPF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041838351473635330/pu/vid/avc1/1280x720/S0hnA4F9Oi_0szlI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041838351473635330/pu/pl/DYok1ZCwed2HUpHd.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041838351473635330"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "conversation_id": "2041838477096935733",
+        "created_at": "2026-04-08T11:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041838477096935733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8fjwLncQ3",
+              "end": 29,
+              "expanded_url": "https://x.com/sji1086477/status/2041838477096935733/video/1",
+              "media_key": "7_2041838351473635330",
+              "start": 6,
+              "url": "https://t.co/h8fjwLncQ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041838477096935733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放一段歌😙 https://t.co/h8fjwLncQ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 长期失眠 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 31,
+          "like_count": 1139,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 490
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

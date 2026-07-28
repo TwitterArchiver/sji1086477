@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2042323288429343133",
+    "created_at": "2026-04-09T19:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T20:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042324531180716051"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042324531180716051",
+    "in_reply_to_user_id": "1934615181524615168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042323288429343133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "记得很清楚那个时候我实在忍受不了找班主任说明情况，我爸也在场。当时班主任说了一句我印象很深的话“他们为什么不欺负别人只欺负你？”我爸也跟着附和，我也很懵逼她们为什么要这样对我，但是现在我想清楚了，社达社会里的社达父母就是容易培养出社达孩子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2042323288429343133",
+        "created_at": "2026-04-09T19:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042324531180716051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042324531180716051",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042323288429343133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "记得很清楚那个时候我实在忍受不了找班主任说明情况，我爸也在场。当时班主任说了一句我印象很深的话“他们为什么不欺负别人只欺负你？”我爸也跟着附和，我也很懵逼她们为什么要这样对我，但是现在我想清楚了，社达社会里的社达父母就是容易培养出社达孩子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2042323288429343133",
+        "created_at": "2026-04-09T19:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042323288429343133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042323288429343133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在床上莫名其妙想起小学霸凌我的人从小就是交际花拉帮结派很爱吹嘘自己家里有钱住别墅，直到她妈妈来我们学校食堂打工。我那个时候也是莫名其妙被她们霸凌，我甚至都没有跟她有太多的交流。。现在想想她得自卑空虚到什么程度得靠说谎和霸凌来获得自我满足感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 长期失眠 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 32,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 502
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

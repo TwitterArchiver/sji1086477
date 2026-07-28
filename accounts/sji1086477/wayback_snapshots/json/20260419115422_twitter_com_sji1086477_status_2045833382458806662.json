@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2045579808978174259",
+    "created_at": "2026-04-19T11:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T12:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045833382458806662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751084995312275456",
+          "start": 0,
+          "username": "WikuWiku1911"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045833382458806662",
+    "in_reply_to_user_id": "1751084995312275456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045579808978174259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WikuWiku1911 为了满足校长的虚荣心：看！我小时候的学生在我的管理下服从性如此高！如此地有纪律！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2045579808978174259",
+        "created_at": "2026-04-19T11:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T12:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045833382458806662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084995312275456",
+              "start": 0,
+              "username": "WikuWiku1911"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045833382458806662",
+        "in_reply_to_user_id": "1751084995312275456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045579808978174259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WikuWiku1911 为了满足校长的虚荣心：看！我小时候的学生在我的管理下服从性如此高！如此地有纪律！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751084995312275456",
+        "conversation_id": "2045579808978174259",
+        "created_at": "2026-04-18T19:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T20:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045579808978174259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyf98334204/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hyf98334204/status/2045153170083754388",
+              "start": 8,
+              "url": "https://t.co/sqnmoWRYBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045579808978174259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4465,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045153170083754388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧碳基显示屏 https://t.co/sqnmoWRYBR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川 / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 40,
+          "like_count": 1285,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 557
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "「私たちが経験した平凡な日常は、連続して起こる奇跡かもしれません」 友達！：@meguruKirara Remi @miku_suki393939 对象：@Mikuloverr_新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Yuuteki",
+                "end": 23,
+                "expanded_url": "https://github.com/Yuuteki",
+                "start": 0,
+                "url": "https://t.co/Wcto2ghIDr"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "2022938243470401923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996915949782581248/zpb98e3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3930,
+          "following_count": 1343,
+          "like_count": 39055,
+          "listed_count": 17,
+          "media_count": 2765,
+          "tweet_count": 15306
+        },
+        "url": "https://t.co/Wcto2ghIDr",
+        "username": "WikuWiku1911",
+        "verified": false
+      }
+    ]
+  }
+}

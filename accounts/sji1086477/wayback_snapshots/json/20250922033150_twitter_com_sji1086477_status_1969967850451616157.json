@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969967847695945728"
+      ]
+    },
+    "author_id": "1934615181524615168",
+    "conversation_id": "1969967850451616157",
+    "created_at": "2025-09-22T03:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T04:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969967850451616157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KsRw5B3Prw",
+          "end": 111,
+          "expanded_url": "https://x.com/sji1086477/status/1969967850451616157/photo/1",
+          "media_key": "3_1969967847695945728",
+          "start": 88,
+          "url": "https://t.co/KsRw5B3Prw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969967850451616157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "底层国男的普遍低素质\n当中国女性已经开始探索精神世界不再受限于结婚生子时\n他们还在纠结彩礼价格且将女性的苦难当做意淫工具\n抱怨自己老光棍的时候先照照镜子看看自己的嘴脸和低认知 https://t.co/KsRw5B3Prw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969967847695945728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1a7UfTbkAA1S1W.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969967847695945728"
+          ]
+        },
+        "author_id": "1934615181524615168",
+        "conversation_id": "1969967850451616157",
+        "created_at": "2025-09-22T03:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T04:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969967850451616157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KsRw5B3Prw",
+              "end": 111,
+              "expanded_url": "https://x.com/sji1086477/status/1969967850451616157/photo/1",
+              "media_key": "3_1969967847695945728",
+              "start": 88,
+              "url": "https://t.co/KsRw5B3Prw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969967850451616157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "底层国男的普遍低素质\n当中国女性已经开始探索精神世界不再受限于结婚生子时\n他们还在纠结彩礼价格且将女性的苦难当做意淫工具\n抱怨自己老光棍的时候先照照镜子看看自己的嘴脸和低认知 https://t.co/KsRw5B3Prw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 14,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 55
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

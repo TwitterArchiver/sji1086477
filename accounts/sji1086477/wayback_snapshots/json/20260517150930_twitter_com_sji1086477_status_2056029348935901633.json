@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2056026308283625635",
+    "created_at": "2026-05-17T15:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056029348935901633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1557036804578377730",
+          "start": 0,
+          "username": "PM2_53"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056029348935901633",
+    "in_reply_to_user_id": "1557036804578377730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056027855629549719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PM2_53 是这样的，打着关心和爱的旗号肆无忌惮地对对方实施暴力行为和道德绑架，但是我目前没办法做到忽视他呢，同处一个屋檐下我只能自己排解🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2056026308283625635",
+        "created_at": "2026-05-17T15:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056029348935901633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1557036804578377730",
+              "start": 0,
+              "username": "PM2_53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056029348935901633",
+        "in_reply_to_user_id": "1557036804578377730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056027855629549719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PM2_53 是这样的，打着关心和爱的旗号肆无忌惮地对对方实施暴力行为和道德绑架，但是我目前没办法做到忽视他呢，同处一个屋檐下我只能自己排解🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557036804578377730",
+        "conversation_id": "2056026308283625635",
+        "created_at": "2026-05-17T15:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056027855629549719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056027855629549719",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056026308283625635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 情绪不稳定的人往往是控制欲很强的人，他们想要通过对别人施加压力来满足自己的要求，最好的办法就是不要理他们，稳定自己的情绪，不要被他们牵着鼻子走，遵从自己内心的想法去做，这样他们可能就会自讨没趣而远离你了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 75,
+          "like_count": 1648,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 735
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T16:12:52.000Z",
+        "description": "03大学生，男生，喜欢动画，历史，金融，欢迎大家\nwelcome for chating(。・`ω´・)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mengluosuiyuan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mengluosuiyuan",
+                "start": 0,
+                "url": "https://t.co/lZLbGAgALy"
+              }
+            ]
+          }
+        },
+        "id": "1557036804578377730",
+        "name": "梦落随缘",
+        "pinned_tweet_id": "2051933142127428073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051863921800396800/KnuHQknZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 90,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/lZLbGAgALy",
+        "username": "PM2_53",
+        "verified": false
+      }
+    ]
+  }
+}

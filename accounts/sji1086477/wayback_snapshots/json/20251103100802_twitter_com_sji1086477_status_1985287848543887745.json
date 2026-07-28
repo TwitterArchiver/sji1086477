@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1985182220844507560",
+    "created_at": "2025-11-03T10:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T11:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985287848543887745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1703086500366450688",
+          "start": 0,
+          "username": "AGQNLZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985287848543887745",
+    "in_reply_to_user_id": "1703086500366450688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985182220844507560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGQNLZS 政治书上都写着人口素质偏低，你这会咋不相信政治书了，典型的没逻辑可以反驳于是人身攻击把人挂网上进行颅内高潮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 260,
+        "media_key": "3_1985182212778844160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zItF8bYAA-H9g.jpg",
+        "width": 1290
+      },
+      {
+        "height": 854,
+        "media_key": "3_1985182212808175616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zItGDa8AAwoPI.jpg",
+        "width": 1290
+      },
+      {
+        "height": 527,
+        "media_key": "3_1985182212795531265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zItGAaAAEtUcD.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985182212787163136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zItF-aUAAanXj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1985182220844507560",
+        "created_at": "2025-11-03T10:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985287848543887745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1703086500366450688",
+              "start": 0,
+              "username": "AGQNLZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985287848543887745",
+        "in_reply_to_user_id": "1703086500366450688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985182220844507560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGQNLZS 政治书上都写着人口素质偏低，你这会咋不相信政治书了，典型的没逻辑可以反驳于是人身攻击把人挂网上进行颅内高潮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985182212778844160",
+            "3_1985182212808175616",
+            "3_1985182212795531265",
+            "3_1985182212787163136"
+          ]
+        },
+        "author_id": "1703086500366450688",
+        "conversation_id": "1985182220844507560",
+        "created_at": "2025-11-03T03:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T04:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985182220844507560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVrwe4QYU5",
+              "end": 41,
+              "expanded_url": "https://x.com/AGQNLZS/status/1985182220844507560/photo/1",
+              "media_key": "3_1985182212778844160",
+              "start": 18,
+              "url": "https://t.co/WVrwe4QYU5"
+            },
+            {
+              "display_url": "pic.x.com/WVrwe4QYU5",
+              "end": 41,
+              "expanded_url": "https://x.com/AGQNLZS/status/1985182220844507560/photo/1",
+              "media_key": "3_1985182212808175616",
+              "start": 18,
+              "url": "https://t.co/WVrwe4QYU5"
+            },
+            {
+              "display_url": "pic.x.com/WVrwe4QYU5",
+              "end": 41,
+              "expanded_url": "https://x.com/AGQNLZS/status/1985182220844507560/photo/1",
+              "media_key": "3_1985182212795531265",
+              "start": 18,
+              "url": "https://t.co/WVrwe4QYU5"
+            },
+            {
+              "display_url": "pic.x.com/WVrwe4QYU5",
+              "end": 41,
+              "expanded_url": "https://x.com/AGQNLZS/status/1985182220844507560/photo/1",
+              "media_key": "3_1985182212787163136",
+              "start": 18,
+              "url": "https://t.co/WVrwe4QYU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985182220844507560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14288,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 61,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小女孩心理有问题，建议去看看吧…… https://t.co/WVrwe4QYU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、粉红 |（没点关注、主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 21,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 228
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T16:40:46.000Z",
+        "description": "清澈的爱，只为中国！🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCqHrn…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCqHrnDPURu18A90AUqJovvQ?si=NGcqmUi6RjNviqNB",
+                "start": 0,
+                "url": "https://t.co/K3JZ4OviFF"
+              }
+            ]
+          }
+        },
+        "id": "1703086500366450688",
+        "location": "China",
+        "name": "爱国青年刘战神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703086648777695232/Mhdka8cM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 126,
+          "like_count": 170,
+          "listed_count": 21,
+          "media_count": 176,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/K3JZ4OviFF",
+        "username": "AGQNLZS",
+        "verified": true
+      }
+    ]
+  }
+}

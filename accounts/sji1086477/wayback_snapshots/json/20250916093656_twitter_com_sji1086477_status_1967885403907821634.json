@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1967592894472360232",
+    "created_at": "2025-09-16T09:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T10:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967885403907821634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1854156896141459456",
+          "start": 0,
+          "username": "xiaomiaaan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967885403907821634",
+    "in_reply_to_user_id": "1854156896141459456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967592894472360232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomiaaan 这种还没开智"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1967592894472360232",
+        "created_at": "2025-09-16T09:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T10:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967885403907821634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1854156896141459456",
+              "start": 0,
+              "username": "xiaomiaaan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967885403907821634",
+        "in_reply_to_user_id": "1854156896141459456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967592894472360232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomiaaan 这种还没开智"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854156896141459456",
+        "conversation_id": "1967592894472360232",
+        "created_at": "2025-09-15T14:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967592894472360232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967592894472360232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉现在的学生越来越不懂什么是尊重了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 12,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 37
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T13:40:37.000Z",
+        "description": "可以叫我小眠•͈ᴗ⁃͈ ✧喜欢和女宝聊天//一天到晚就爱发点废话一张嘴叭叭叭个没停//不约炮没有门！//只接受来自女生的黄色消息//女生可以随意骚扰我🥹//男的给我发私信带上你的胸肌照哈 敢给我发你的丑鸡你就死了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaaan68179",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miaaan68179",
+                "start": 0,
+                "url": "https://t.co/2UOYF1sAyw"
+              }
+            ]
+          }
+        },
+        "id": "1854156896141459456",
+        "name": "Miaaan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960723956803231744/rXt5JJbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 68,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 673
+        },
+        "url": "https://t.co/2UOYF1sAyw",
+        "username": "xiaomiaaan",
+        "verified": false
+      }
+    ]
+  }
+}

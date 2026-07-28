@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1964747763339743553",
+    "created_at": "2025-09-07T18:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T19:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964752106537328726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1958167444176187392",
+          "start": 0,
+          "username": "ouoliko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964752106537328726",
+    "in_reply_to_user_id": "1958167444176187392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964750602447339656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouoliko 隐私设置--你的账号--账户信息--国家改成欧盟以外的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1964747763339743553",
+        "created_at": "2025-09-07T18:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T19:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964752106537328726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1958167444176187392",
+              "start": 0,
+              "username": "ouoliko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964752106537328726",
+        "in_reply_to_user_id": "1958167444176187392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964750602447339656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouoliko 隐私设置--你的账号--账户信息--国家改成欧盟以外的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958167444176187392",
+        "conversation_id": "1964747763339743553",
+        "created_at": "2025-09-07T18:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T19:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964750602447339656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964750602447339656",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964749778757288048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 宝我 vpn用的是美国的 但是还是不行 ip信息发出来是国内不知道为什么😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控 欢迎找我聊天～",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T14:02:05.000Z",
+        "description": "",
+        "id": "1958167444176187392",
+        "location": "New York, USA",
+        "name": "k k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964747432417226753/ZNrw1t79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "ouoliko",
+        "verified": false
+      }
+    ]
+  }
+}

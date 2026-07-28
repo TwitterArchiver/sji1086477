@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2061167304004780146",
+    "created_at": "2026-05-31T19:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T20:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061168898787962945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1717455447110844416",
+          "start": 0,
+          "username": "ZhuangXuexin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061168898787962945",
+    "in_reply_to_user_id": "1717455447110844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061167304004780146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhuangXuexin 可以在通知里看到但是评论区没有的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061167295586832384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJq8vBwbEAAGXdp.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2061167304004780146",
+        "created_at": "2026-05-31T19:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061168898787962945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1717455447110844416",
+              "start": 0,
+              "username": "ZhuangXuexin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061168898787962945",
+        "in_reply_to_user_id": "1717455447110844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061167304004780146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhuangXuexin 可以在通知里看到但是评论区没有的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061167295586832384"
+          ]
+        },
+        "author_id": "1717455447110844416",
+        "conversation_id": "2061167304004780146",
+        "created_at": "2026-05-31T19:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061167304004780146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtG4jcxMOn",
+              "end": 46,
+              "expanded_url": "https://x.com/ZhuangXuexin/status/2061167304004780146/photo/1",
+              "media_key": "3_2061167295586832384",
+              "start": 23,
+              "url": "https://t.co/YtG4jcxMOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061167304004780146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真解ban了吗，怎么给别人的回复还是看不到呢 https://t.co/YtG4jcxMOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 110,
+          "like_count": 2003,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 941
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185/72 想交朋友 想买衣服。国女国男综合特征 想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲塑造的。看过一些木柜子动画 中国古典文学和西方近现代哲学 最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔。新对政治思想史 英美道德学 德国法学感兴趣。物理学研究生 想学代数拓扑。想做一个功利主义的幸福者。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2061042977041211725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 105,
+          "like_count": 8277,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1153
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      }
+    ]
+  }
+}

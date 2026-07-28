@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1962750838201339911",
+    "created_at": "2025-09-02T06:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962762753057157511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1898216964650418177",
+          "start": 0,
+          "username": "yunx9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962762753057157511",
+    "in_reply_to_user_id": "1898216964650418177",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962753218347159900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunx9n +++"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1962750838201339911",
+        "created_at": "2025-09-02T06:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962762753057157511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1898216964650418177",
+              "start": 0,
+              "username": "yunx9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962762753057157511",
+        "in_reply_to_user_id": "1898216964650418177",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962753218347159900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunx9n +++"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898216964650418177",
+        "conversation_id": "1962750838201339911",
+        "created_at": "2025-09-02T05:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962753218347159900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962753218347159900",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962750838201339911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 +++"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T03:39:37.000Z",
+        "description": "꒰ঌ⚝໒꒱\n⋆ʚ——————\n时常爱碎碎念🐾\n只想和美女帅哥聊天🐾\n随缘回 没回就是不感兴趣/在睡觉🐾\n🚫不聊骚不尬聊不约不加联系方式🐾\n让我觉得不舒服了我就冷暴力你🐾有礼貌的都是好宝宝🐾",
+        "id": "1898216964650418177",
+        "location": "喜欢我就给我转钱",
+        "name": "酒酿小团",
+        "pinned_tweet_id": "1961631628112830738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919768764134129664/tk24NpMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 17,
+          "like_count": 2325,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 616
+        },
+        "username": "yunx9n",
+        "verified": false
+      }
+    ]
+  }
+}

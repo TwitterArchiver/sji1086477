@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1989507048640315523",
+    "created_at": "2025-11-15T01:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T02:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989507048640315523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1596405792315691008",
+          "start": 3,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989507048640315523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989198845050519836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0502railgun1949: 推特，在这一点上比国内平台差多了\n人家自杀，被救活了也是很正常的事情，现代医学比想象中的要强大很多，有部分畜生说炒作假死\n我只感受到这个社会的冷漠\n想起温总理的一句话\n“诚信的缺失、道德的滑坡已经到了何等严重的地步”\n还有当年的小悦悦案…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "3_1989198838071177218",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sNzdLaMAI7Rx_.jpg",
+        "width": 1271
+      },
+      {
+        "height": 361,
+        "media_key": "3_1989198838859722752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sNzgHacAAp-n-.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989198841959297024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sNzrqaMAA1WDw.jpg",
+        "width": 930
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989198841812602880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sNzrHb0AAOw0g.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1989507048640315523",
+        "created_at": "2025-11-15T01:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T02:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989507048640315523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1596405792315691008",
+              "start": 3,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989507048640315523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989198845050519836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0502railgun1949: 推特，在这一点上比国内平台差多了\n人家自杀，被救活了也是很正常的事情，现代医学比想象中的要强大很多，有部分畜生说炒作假死\n我只感受到这个社会的冷漠\n想起温总理的一句话\n“诚信的缺失、道德的滑坡已经到了何等严重的地步”\n还有当年的小悦悦案…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989198838071177218",
+            "3_1989198838859722752",
+            "3_1989198841959297024",
+            "3_1989198841812602880"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1989198845050519836",
+        "created_at": "2025-11-14T05:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989198845050519836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nvQyz6hmoe",
+              "end": 161,
+              "expanded_url": "https://x.com/0502railgun1949/status/1989198845050519836/photo/1",
+              "media_key": "3_1989198838071177218",
+              "start": 138,
+              "url": "https://t.co/nvQyz6hmoe"
+            },
+            {
+              "display_url": "pic.x.com/nvQyz6hmoe",
+              "end": 161,
+              "expanded_url": "https://x.com/0502railgun1949/status/1989198845050519836/photo/1",
+              "media_key": "3_1989198838859722752",
+              "start": 138,
+              "url": "https://t.co/nvQyz6hmoe"
+            },
+            {
+              "display_url": "pic.x.com/nvQyz6hmoe",
+              "end": 161,
+              "expanded_url": "https://x.com/0502railgun1949/status/1989198845050519836/photo/1",
+              "media_key": "3_1989198841959297024",
+              "start": 138,
+              "url": "https://t.co/nvQyz6hmoe"
+            },
+            {
+              "display_url": "pic.x.com/nvQyz6hmoe",
+              "end": 161,
+              "expanded_url": "https://x.com/0502railgun1949/status/1989198845050519836/photo/1",
+              "media_key": "3_1989198841812602880",
+              "start": 138,
+              "url": "https://t.co/nvQyz6hmoe"
+            },
+            {
+              "display_url": "x.com/LINKINGMadoka/…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/LINKINGMadoka/status/1989049480998732198",
+              "start": 162,
+              "url": "https://t.co/aWkirUDXgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989198845050519836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 54981,
+          "like_count": 151,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989049480998732198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推特，在这一点上比国内平台差多了\n人家自杀，被救活了也是很正常的事情，现代医学比想象中的要强大很多，有部分畜生说炒作假死\n我只感受到这个社会的冷漠\n想起温总理的一句话\n“诚信的缺失、道德的滑坡已经到了何等严重的地步”\n还有当年的小悦悦案\n意识形态的缺失，会带来很多恐怖的事情 https://t.co/nvQyz6hmoe https://t.co/aWkirUDXgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直男、支黑、小粉红 | （主页空白/转发大量黄推的男的私信一律不回）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwertyuiop49082",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwertyuiop49082",
+                "start": 0,
+                "url": "https://t.co/Ik4vPkySgX"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 19,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 274
+        },
+        "url": "https://t.co/Ik4vPkySgX",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 627,
+          "like_count": 10966,
+          "listed_count": 3,
+          "media_count": 1088,
+          "tweet_count": 7849
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

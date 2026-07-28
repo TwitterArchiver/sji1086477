@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2067834774765617453",
+    "created_at": "2026-06-19T08:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067887348616970664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1755494652889661440",
+          "start": 0,
+          "username": "Victor_zhang233"
+        },
+        {
+          "end": 33,
+          "id": "1786442629917589505",
+          "start": 17,
+          "username": "GreenMarc512269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067887348616970664",
+    "in_reply_to_user_id": "1755494652889661440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067881422371930606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Victor_zhang233 @GreenMarc512269 我笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2067834774765617453",
+        "created_at": "2026-06-19T08:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067887348616970664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1755494652889661440",
+              "start": 0,
+              "username": "Victor_zhang233"
+            },
+            {
+              "end": 33,
+              "id": "1786442629917589505",
+              "start": 17,
+              "username": "GreenMarc512269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067887348616970664",
+        "in_reply_to_user_id": "1755494652889661440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067881422371930606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Victor_zhang233 @GreenMarc512269 我笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755494652889661440",
+        "conversation_id": "2067834774765617453",
+        "created_at": "2026-06-19T08:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067881422371930606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786442629917589505",
+              "start": 0,
+              "username": "GreenMarc512269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067881422371930606",
+        "in_reply_to_user_id": "1786442629917589505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067879146395742297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreenMarc512269 你可以当胖猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 尝试戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 129,
+          "like_count": 2410,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 1103
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T07:32:13.000Z",
+        "description": "09 | ♂ | 药物欣快重度依赖 |\nDM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "欢迎互.fo",
+                "end": 23,
+                "expanded_url": "http://xn--blq290eyez.fo",
+                "start": 0,
+                "url": "https://t.co/uQKzYEZSkj"
+              }
+            ]
+          }
+        },
+        "id": "1755494652889661440",
+        "location": "在人间，在地狱",
+        "name": "ASHES",
+        "pinned_tweet_id": "2058818129669824948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062989136881958912/YFP-Zjel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 375,
+          "like_count": 7334,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2065
+        },
+        "url": "https://t.co/uQKzYEZSkj",
+        "username": "Victor_zhang233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T17:08:30.000Z",
+        "description": "好说话 可以和我聊天只要有空就回你消息|支持：简中 繁中 English Japanese|互fo|当朋友圈发🤯🤯🫪\nTG：@GGHKing520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 62,
+                "username": "GGHKing520"
+              }
+            ]
+          }
+        },
+        "id": "1786442629917589505",
+        "location": "我他妈男的傻逼约炮佬别给我发消息",
+        "name": "LinQi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062444159643648/_Bj8y2n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 111,
+          "like_count": 2259,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 576
+        },
+        "url": "",
+        "username": "GreenMarc512269",
+        "verified": false
+      }
+    ]
+  }
+}

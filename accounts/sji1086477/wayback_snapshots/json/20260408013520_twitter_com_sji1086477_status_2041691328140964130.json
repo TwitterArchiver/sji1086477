@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2041691328140964130",
+    "created_at": "2026-04-08T01:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041691328140964130"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041691328140964130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好窒息啊九点的时候我爸直接把我房间窗帘拉开把窗户打开，今天下雨特别冷，，然后他就开始特别急躁地要求我立刻下床，但是我昨天吃的pr药效没过😵‍💫无法选中，他就把我被子大力掀开然后用蛮力拉我胳膊，我坐在床上控诉他是不是疯了，他就突然暴跳如雷吼我但其实0个人惹他，我现在不敢进客厅因为他在😭😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2041691328140964130",
+        "created_at": "2026-04-08T01:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041691328140964130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041691328140964130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好窒息啊九点的时候我爸直接把我房间窗帘拉开把窗户打开，今天下雨特别冷，，然后他就开始特别急躁地要求我立刻下床，但是我昨天吃的pr药效没过😵‍💫无法选中，他就把我被子大力掀开然后用蛮力拉我胳膊，我坐在床上控诉他是不是疯了，他就突然暴跳如雷吼我但其实0个人惹他，我现在不敢进客厅因为他在😭😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 长期失眠 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 31,
+          "like_count": 1119,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 480
+        },
+        "username": "sji1086477",
+        "verified": false
+      }
+    ]
+  }
+}

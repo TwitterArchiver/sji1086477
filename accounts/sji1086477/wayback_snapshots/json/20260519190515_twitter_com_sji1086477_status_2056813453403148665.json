@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2056809795861065795",
+    "created_at": "2026-05-19T19:05:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T20:05:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056813453403148665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873708075619946497",
+          "start": 0,
+          "username": "qik1182069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056813453403148665",
+    "in_reply_to_user_id": "1873708075619946497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056812500465971209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qik1182069 翻箱倒柜只有右佐匹克隆，我吃这个第二天头晕头疼睡不醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2056809795861065795",
+        "created_at": "2026-05-19T19:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056813453403148665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873708075619946497",
+              "start": 0,
+              "username": "qik1182069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056813453403148665",
+        "in_reply_to_user_id": "1873708075619946497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056812500465971209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qik1182069 翻箱倒柜只有右佐匹克隆，我吃这个第二天头晕头疼睡不醒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873708075619946497",
+        "conversation_id": "2056809795861065795",
+        "created_at": "2026-05-19T19:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056812500465971209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056812500465971209",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056809795861065795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 没效果换药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 75,
+          "like_count": 1675,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 757
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T12:30:09.000Z",
+        "description": "自由 - 平等 - 博爱 - 无性别 - 开放 - 包容 - 多元",
+        "id": "1873708075619946497",
+        "name": "✝️春沫✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049306580643123200/u3zr6mwe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 43,
+          "like_count": 1341,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 93
+        },
+        "username": "qik1182069",
+        "verified": false
+      }
+    ]
+  }
+}

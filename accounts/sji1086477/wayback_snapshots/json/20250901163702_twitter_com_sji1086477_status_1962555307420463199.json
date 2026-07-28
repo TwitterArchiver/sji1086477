@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1962553081729843486",
+    "created_at": "2025-09-01T16:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T17:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962555307420463199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911084879095455744",
+          "start": 0,
+          "username": "ivvviann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962555307420463199",
+    "in_reply_to_user_id": "1911084879095455744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962553081729843486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ivvviann 丑的也没结果🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1962553081729843486",
+        "created_at": "2025-09-01T16:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962555307420463199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911084879095455744",
+              "start": 0,
+              "username": "ivvviann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962555307420463199",
+        "in_reply_to_user_id": "1911084879095455744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962553081729843486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ivvviann 丑的也没结果🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911084879095455744",
+        "conversation_id": "1962553081729843486",
+        "created_at": "2025-09-01T16:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962553081729843486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962553081729843486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子再也不跟任何帅哥暧昧了，没有结果的事情到底是要干嘛？饱饱们求调节教程😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 13,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T15:52:24.000Z",
+        "description": "entp社畜\n\n稳定发癫\n偶尔稳定",
+        "id": "1911084879095455744",
+        "name": "eviann",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957476674288996352/tc4RVqG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 31,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 170
+        },
+        "username": "ivvviann",
+        "verified": false
+      }
+    ]
+  }
+}

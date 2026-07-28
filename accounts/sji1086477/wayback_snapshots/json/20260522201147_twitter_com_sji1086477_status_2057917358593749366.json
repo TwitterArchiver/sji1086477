@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2057913913094889523",
+    "created_at": "2026-05-22T20:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T21:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057917358593749366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838433917529149440",
+          "start": 0,
+          "username": "shwjwn2575471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057917358593749366",
+    "in_reply_to_user_id": "1838433917529149440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057913913094889523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shwjwn2575471 第一项到底谁能做到😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2057913913094889523",
+        "created_at": "2026-05-22T20:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057917358593749366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838433917529149440",
+              "start": 0,
+              "username": "shwjwn2575471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057917358593749366",
+        "in_reply_to_user_id": "1838433917529149440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057913913094889523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shwjwn2575471 第一项到底谁能做到😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838433917529149440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2057913913094889523",
+        "created_at": "2026-05-22T19:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057913913094889523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057913913094889523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要早起早睡，要准备健康早餐，不油不腻营养充分，要选择一件充实的事去填满一整天，要锻炼身体，不是瞎跑瞎跳要学有经验的人定时定量，可能要去最抗拒的健身房，要去医院检查身体，从挂号到选购项目要一个一个搜教程学，要服药治疗胃里不知道什么病，要配一个更合适的眼镜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 78,
+          "like_count": 1724,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 795
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T04:23:09.000Z",
+        "description": "我什么也不知道我什么都想知道",
+        "id": "1838433917529149440",
+        "location": "荒野之中",
+        "name": "hippie wildman",
+        "pinned_tweet_id": "2048431152642339234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044801952408866816/FBqFxwaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 183,
+          "like_count": 6221,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 235
+        },
+        "username": "shwjwn2575471",
+        "verified": false
+      }
+    ]
+  }
+}

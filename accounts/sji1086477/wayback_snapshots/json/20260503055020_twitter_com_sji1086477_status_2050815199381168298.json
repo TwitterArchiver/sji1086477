@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2050716194219634771",
+    "created_at": "2026-05-03T05:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050815199381168298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816508247651860480",
+          "start": 0,
+          "username": "DIC_EWE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050815199381168298",
+    "in_reply_to_user_id": "1816508247651860480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050716194219634771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DIC_EWE 从日常小事判断ta值不值得交往😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2050716194219634771",
+        "created_at": "2026-05-03T05:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050815199381168298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816508247651860480",
+              "start": 0,
+              "username": "DIC_EWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050815199381168298",
+        "in_reply_to_user_id": "1816508247651860480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050716194219634771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DIC_EWE 从日常小事判断ta值不值得交往😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816508247651860480",
+        "conversation_id": "2050716194219634771",
+        "created_at": "2026-05-02T23:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T00:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050716194219634771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050716194219634771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1241,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们是怎么交到真心相待的朋友的\n我已经被我的朋友恶心死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / od / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 65,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 658
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T16:18:17.000Z",
+        "description": "出厂日期2010.9.5    期待很多东西\n                                丨@KuaiWo34671 主人＆爱人丨\n杀杀杀杀杀杀杀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "KuaiWo34671"
+              }
+            ]
+          }
+        },
+        "id": "1816508247651860480",
+        "location": "家",
+        "name": "大骰目（淡推）",
+        "pinned_tweet_id": "2033065286291820762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033310866901463040/p5F5E2Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 274,
+          "like_count": 8052,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1898
+        },
+        "username": "DIC_EWE",
+        "verified": false
+      }
+    ]
+  }
+}

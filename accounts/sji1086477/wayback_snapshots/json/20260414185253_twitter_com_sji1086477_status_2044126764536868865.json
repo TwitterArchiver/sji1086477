@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2044126764536868865",
+    "created_at": "2026-04-14T18:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044126764536868865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1904502396602241024",
+          "start": 3,
+          "username": "ChangS69585"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044126764536868865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043543964440240387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChangS69585: 我再说一次性欲被高估了。性欲被高估了并不代表说女性没有性欲。就是说女性有性欲，也不是说一天24小时不揉自己阴蒂不高潮，这个女性就爆炸死了。每次提这个观点，就有人说我否定了女性的性欲，天啊，好吧，你给我找出来一个只要24小时不揉自己阴蒂就死的女人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2044126764536868865",
+        "created_at": "2026-04-14T18:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044126764536868865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1904502396602241024",
+              "start": 3,
+              "username": "ChangS69585"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044126764536868865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043543964440240387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChangS69585: 我再说一次性欲被高估了。性欲被高估了并不代表说女性没有性欲。就是说女性有性欲，也不是说一天24小时不揉自己阴蒂不高潮，这个女性就爆炸死了。每次提这个观点，就有人说我否定了女性的性欲，天啊，好吧，你给我找出来一个只要24小时不揉自己阴蒂就死的女人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904502396602241024",
+        "conversation_id": "2043543964440240387",
+        "created_at": "2026-04-13T04:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043543964440240387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043543964440240387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我再说一次性欲被高估了。性欲被高估了并不代表说女性没有性欲。就是说女性有性欲，也不是说一天24小时不揉自己阴蒂不高潮，这个女性就爆炸死了。每次提这个观点，就有人说我否定了女性的性欲，天啊，好吧，你给我找出来一个只要24小时不揉自己阴蒂就死的女人。实际上不就是连现在有些自称女权主义者的人也完全都被性欲绑架了嘛，觉得人类最重要的欲望是性欲什么？食欲也好，睡欲也好，爱的欲望也好，沟通的欲望也好，求知欲也好，完全无视，只想着性欲。只想着性欲你本身还是被父权制绑架了，因为父权制本身就是把一个不是特别必要的欲望抬的特别高，来控制所有人类。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 102388,
+          "like_count": 1823,
+          "quote_count": 11,
+          "reply_count": 21,
+          "retweet_count": 157
+        },
+        "reply_settings": "everyone",
+        "text": "我再说一次性欲被高估了。性欲被高估了并不代表说女性没有性欲。就是说女性有性欲，也不是说一天24小时不揉自己阴蒂不高潮，这个女性就爆炸死了。每次提这个观点，就有人说我否定了女性的性欲，天啊，好吧，你给我找出来一个只要24小时不揉自己阴蒂就死的女人。实际上不就是连现在有些自称女权主义者的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  / 女权主义 / 反父权剥削 / 身体自主权 /长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 31,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 520
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T11:55:52.000Z",
+        "description": "Feminist 👩🏻 ♀",
+        "id": "1904502396602241024",
+        "name": "常赛",
+        "pinned_tweet_id": "2038393693779177481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988202966852268032/EbfwrNHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39976,
+          "following_count": 230,
+          "like_count": 4083,
+          "listed_count": 33,
+          "media_count": 178,
+          "tweet_count": 5625
+        },
+        "username": "ChangS69585",
+        "verified": false
+      }
+    ]
+  }
+}

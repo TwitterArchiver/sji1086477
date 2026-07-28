@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2040565637999636906",
+    "created_at": "2026-04-05T17:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040847514962653300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873708075619946497",
+          "start": 0,
+          "username": "qik1182069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040847514962653300",
+    "in_reply_to_user_id": "1873708075619946497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040844587338506615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qik1182069 最搞笑的是我五天前用三月底的处方还能在莲藕医院开出来结果今天再发就告诉我处方无效😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2040565637999636906",
+        "created_at": "2026-04-05T17:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040847514962653300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873708075619946497",
+              "start": 0,
+              "username": "qik1182069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040847514962653300",
+        "in_reply_to_user_id": "1873708075619946497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040844587338506615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qik1182069 最搞笑的是我五天前用三月底的处方还能在莲藕医院开出来结果今天再发就告诉我处方无效😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873708075619946497",
+        "conversation_id": "2040565637999636906",
+        "created_at": "2026-04-05T17:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040844587338506615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040844587338506615",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040565637999636906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 你说得对，我一直尝试根本开不出来，京东一下就出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07  / 女 /  碎碎念  / 休学备考中…  /  这里是我发疯的唯一途径  / 不是健全人  /  我很善良，欢迎互fo，会看成分（粉红走开）",
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011782963508494337/iho9XUod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 31,
+          "like_count": 1086,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 454
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T12:30:09.000Z",
+        "description": "三民主义-五权宪法-天下为公\n民族 民权 民生-三民主义\n立法 行政 司法 考试 监察-五权宪法\n🇹🇼天下为公🇹🇼",
+        "id": "1873708075619946497",
+        "name": "春陌🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040427172569976832/mGmo5Eam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 13,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "qik1182069",
+        "verified": false
+      }
+    ]
+  }
+}

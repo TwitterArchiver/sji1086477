@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1974450537795141873",
+    "created_at": "2025-10-06T17:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T18:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975245342343127365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1878696875236438017",
+          "start": 0,
+          "username": "crxxdoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975245342343127365",
+    "in_reply_to_user_id": "1878696875236438017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975245203679420465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crxxdoii 还很有安全感🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1974450537795141873",
+        "created_at": "2025-10-06T17:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975245342343127365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1878696875236438017",
+              "start": 0,
+              "username": "crxxdoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975245342343127365",
+        "in_reply_to_user_id": "1878696875236438017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975245203679420465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crxxdoii 还很有安全感🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878696875236438017",
+        "conversation_id": "1974450537795141873",
+        "created_at": "2025-10-06T17:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T18:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975245203679420465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975245203679420465",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974450537795141873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 我也是！好喜欢东北口音说话那种吊儿郎当的感觉🥰🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "谢谢你的关注 | 07 | 性别女 | 日常喜欢碎碎念 | 不约不聊S | 厌顺直 | 欢迎找我聊天～（没点关注、主页空白/转发大量黄推的私信一律不回）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 114
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T06:54:03.000Z",
+        "description": "",
+        "id": "1878696875236438017",
+        "name": "Velvet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975114752272859136/P8Le2lN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 33,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "crxxdoii",
+        "verified": false
+      }
+    ]
+  }
+}

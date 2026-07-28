@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "1967275105916194844",
+    "created_at": "2025-09-18T10:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T11:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968630863756730790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "72242220",
+          "start": 0,
+          "username": "piyopina"
+        },
+        {
+          "end": 23,
+          "id": "76575124",
+          "start": 10,
+          "username": "sawayama0410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968630863756730790",
+    "in_reply_to_user_id": "72242220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967446909532213596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@piyopina @sawayama0410 否めないのは731部隊と8964すべて真実だが、731部隊の犯罪は反人類の種族絶滅であり、彼らの最終的な目標は細菌兵器を作り出して世界に投入することでさえある。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "1967275105916194844",
+        "created_at": "2025-09-18T10:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968630863756730790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "72242220",
+              "start": 0,
+              "username": "piyopina"
+            },
+            {
+              "end": 23,
+              "id": "76575124",
+              "start": 10,
+              "username": "sawayama0410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968630863756730790",
+        "in_reply_to_user_id": "72242220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967446909532213596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@piyopina @sawayama0410 否めないのは731部隊と8964すべて真実だが、731部隊の犯罪は反人類の種族絶滅であり、彼らの最終的な目標は細菌兵器を作り出して世界に投入することでさえある。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "72242220",
+        "conversation_id": "1967275105916194844",
+        "created_at": "2025-09-15T04:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T05:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967446909532213596"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "天安門",
+              "probability": 0.4139,
+              "start": 14,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "76575124",
+              "start": 0,
+              "username": "sawayama0410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967446909532213596",
+        "in_reply_to_user_id": "76575124",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 28209,
+          "like_count": 69,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967275105916194844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sawayama0410 天安門事件も映画化したいね☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "07 日常喜欢碎碎念 颜控  欢迎找我聊天～（约的别私我）",
+        "id": "1934615181524615168",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960188587724484608/xRLArnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 12,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-07T08:48:34.000Z",
+        "description": "日本人ファーストの国になりますように‼️保守系ポチッて応援します\nアメリカのドラマ好き\nカワイイ物が好き🎀\n世の中のことを勉強中\nエロ垢ブロックします\n株関係興味無し\nDM返信しません",
+        "id": "72242220",
+        "name": "ぴぴ",
+        "pinned_tweet_id": "1905309228392444187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903333559311667200/XlHm32-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 485,
+          "like_count": 42654,
+          "listed_count": 13,
+          "media_count": 490,
+          "tweet_count": 44174
+        },
+        "username": "piyopina",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-23T06:16:36.000Z",
+        "description": "I am a doctor of theoretical physics. I compose music using Vocaloid. I also write books. I know all the official languages of the United Nations.🇷🇺🇵🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sawayama-phys.jp/jaindex.html",
+                "end": 23,
+                "expanded_url": "http://sawayama-phys.jp/jaindex.html",
+                "start": 0,
+                "url": "https://t.co/O5440XlMpA"
+              }
+            ]
+          }
+        },
+        "id": "76575124",
+        "location": "Japan",
+        "name": "Dr. Shintaro Sawayama",
+        "pinned_tweet_id": "1968372720044999028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839676088496373760/a_XYbuXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66935,
+          "following_count": 6856,
+          "like_count": 72351,
+          "listed_count": 778,
+          "media_count": 5510,
+          "tweet_count": 47062
+        },
+        "url": "https://t.co/O5440XlMpA",
+        "username": "sawayama0410",
+        "verified": true
+      }
+    ]
+  }
+}
