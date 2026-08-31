@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2092283363658989784",
+    "created_at": "2026-08-25T16:10:01.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T17:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092283363658989784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ashesssssssss_…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ashesssssssss_/status/2092009751924363405",
+          "start": 10,
+          "url": "https://t.co/hxkcLdN5SD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092283363658989784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092009751924363405",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又饿了泡面启动🤤 https://t.co/hxkcLdN5SD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2092283363658989784",
+        "created_at": "2026-08-25T16:10:01.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092283363658989784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashesssssssss_…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ashesssssssss_/status/2092009751924363405",
+              "start": 10,
+              "url": "https://t.co/hxkcLdN5SD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092283363658989784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092009751924363405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又饿了泡面启动🤤 https://t.co/hxkcLdN5SD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908794052973084672",
+        "conversation_id": "2092009751924363405",
+        "created_at": "2026-08-24T22:02:47.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T23:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092009751924363405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashesssssssss_…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ashesssssssss_/status/2090838880874635465",
+              "start": 10,
+              "url": "https://t.co/uxUeZutO5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092009751924363405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090838880874635465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又饿了泡面启动🤤 https://t.co/uxUeZutO5W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念   /  这里是我发疯的唯一途径  / 不是健全人  / 退役oder / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo /❤️ 愿大家摆脱药物好好生活❤️\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "is_identity_verified": false,
+        "location": "👁",
+        "most_recent_tweet_id": "2092283363658989784",
+        "name": "qwertyuiop",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934615181524615168/1757348974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 159,
+          "like_count": 3058,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1406
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-06T08:09:09.000Z",
+        "description": "he/him\n\"他们相信天堂是有的，可以实现的，但在现世界与那天堂的中间隔着一座海，一座血污海。人类泅得过这血海，才能登彼岸——他们决定先实现那血海。\"",
+        "id": "1908794052973084672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092241243778748499",
+        "name": "Ashessssss（2.0预备坠机版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908794052973084672/1776268667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089987931306131456/w8RjakEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 73,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "ashesssssssss_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2082827430876590117",
+    "created_at": "2026-07-30T22:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T23:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082959456686514421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628182955872129024",
+          "start": 0,
+          "username": "baifu080810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082959456686514421",
+    "in_reply_to_user_id": "1628182955872129024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082871947474677802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baifu080810 睡一觉起来能缓解一点点😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2082827430876590117",
+        "created_at": "2026-07-30T22:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T23:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082959456686514421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628182955872129024",
+              "start": 0,
+              "username": "baifu080810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082959456686514421",
+        "in_reply_to_user_id": "1628182955872129024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082871947474677802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baifu080810 睡一觉起来能缓解一点点😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628182955872129024",
+        "conversation_id": "2082827430876590117",
+        "created_at": "2026-07-30T16:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082871947474677802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934615181524615168",
+              "start": 0,
+              "username": "sji1086477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082871947474677802",
+        "in_reply_to_user_id": "1934615181524615168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082827430876590117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sji1086477 去医院问问医生能不能给你开点高强度止痛药🤲痛痛飞走吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念   /  这里是我发疯的唯一途径  / 不是健全人  / 尝试戒o / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo，会看成分（粉红走开）\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 124,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "location": "👁",
+        "name": "qwertyuiop",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 162,
+          "like_count": 2893,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1320
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T00:01:08.000Z",
+        "description": "你好这里是白缚！直接叫haku就行！08/不登校/低浮上",
+        "id": "1628182955872129024",
+        "location": "银河铁道",
+        "name": "Hakukawaii",
+        "pinned_tweet_id": "1845832099548536875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640661273208832000/OKHEtjKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 240,
+          "like_count": 3085,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2117
+        },
+        "url": "",
+        "username": "baifu080810",
+        "verified": false
+      }
+    ]
+  }
+}

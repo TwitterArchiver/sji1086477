@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2087780267809468666",
+    "created_at": "2026-08-14T03:50:31.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T04:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088110995260502430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675444856288870401",
+          "start": 0,
+          "username": "Maedarikuonly1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088110995260502430",
+    "in_reply_to_user_id": "1675444856288870401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087780267809468666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maedarikuonly1 我笑晕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087780259538341888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlJFaLbEAA6BKB.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087780259496374272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlJFaBasAAKSaf.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2087780267809468666",
+        "created_at": "2026-08-14T03:50:31.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T04:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088110995260502430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675444856288870401",
+              "start": 0,
+              "username": "Maedarikuonly1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088110995260502430",
+        "in_reply_to_user_id": "1675444856288870401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087780267809468666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maedarikuonly1 我笑晕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087780259538341888",
+            "3_2087780259496374272"
+          ]
+        },
+        "author_id": "1675444856288870401",
+        "conversation_id": "2087780267809468666",
+        "created_at": "2026-08-13T05:56:19.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087780267809468666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eoxuQ1Tbmk",
+              "end": 25,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2087780267809468666/photo/1",
+              "media_key": "3_2087780259538341888",
+              "start": 2,
+              "url": "https://t.co/eoxuQ1Tbmk"
+            },
+            {
+              "display_url": "pic.x.com/eoxuQ1Tbmk",
+              "end": 25,
+              "expanded_url": "https://x.com/Maedarikuonly1/status/2087780267809468666/photo/1",
+              "media_key": "3_2087780259496374272",
+              "start": 2,
+              "url": "https://t.co/eoxuQ1Tbmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087780267809468666",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2087780259538341888"
+          },
+          {
+            "media_key": "3_2087780259496374272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6 https://t.co/eoxuQ1Tbmk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念   /  这里是我发疯的唯一途径  / 不是健全人  / 退役oder / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo /❤️ 愿大家摆脱药物好好生活❤️\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "is_identity_verified": false,
+        "location": "👁",
+        "most_recent_tweet_id": "2088110995260502430",
+        "name": "qwertyuiop",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934615181524615168/1757348974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 158,
+          "like_count": 2962,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-02T10:02:43.000Z",
+        "description": "爱着沃尔玛塑料袋，备孕中。少管我是谁，认识我的肯定认得出来。想fo就fo，我不会无缘由取关任何人。最喜欢的运动是左脑揍右脑，右脑再打回来，谁也不吃亏。",
+        "id": "1675444856288870401",
+        "is_identity_verified": false,
+        "location": "Украина",
+        "most_recent_tweet_id": "2087948207926186007",
+        "name": "Она не хочет умирать🍀",
+        "pinned_tweet_id": "1982503111794250042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1675444856288870401/1761213390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986111679604903936/qclllEvE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 285,
+          "like_count": 4334,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1437
+        },
+        "url": "",
+        "username": "Maedarikuonly1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
