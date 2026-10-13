@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2108480063729537070",
+    "created_at": "2026-10-09T10:25:15.000Z",
+    "display_text_range": [
+      13,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T11:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108504052988338529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2193559340",
+          "start": 0,
+          "username": "Evf_Trotsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108504052988338529",
+    "in_reply_to_user_id": "2193559340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108480063729537070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evf_Trotsky 也许年轻吧，完全把这个当行为习惯不考虑对小孩的危害"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2108480063729537070",
+        "created_at": "2026-10-09T10:25:15.000Z",
+        "display_text_range": [
+          13,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T11:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108504052988338529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2193559340",
+              "start": 0,
+              "username": "Evf_Trotsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108504052988338529",
+        "in_reply_to_user_id": "2193559340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108480063729537070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evf_Trotsky 也许年轻吧，完全把这个当行为习惯不考虑对小孩的危害"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2193559340",
+        "conversation_id": "2108480063729537070",
+        "created_at": "2026-10-09T08:49:55.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T09:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108480063729537070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108480063729537070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我雖然也抽菸，但是我真的很不理解為什麼會有人帶著小孩抽菸啊😧\n我自己平時在有小孩的地方都不抽菸，抽著菸有小孩走過來也會滅掉丟掉🧐\n\n我居然看到有三個女的邊帶小孩邊抽菸，抱著小孩的那個居然也在抽菸🫪\n你們都當媽的的人了，不知道二手菸對小孩傷害有多大嗎？菸癮就那麼大？放下小孩，走到一邊抽不行嗎？😳\n\n我不理解，我大受震撼"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我雖然也抽菸，但是我真的很不理解為什麼會有人帶著小孩抽菸啊😧\n我自己平時在有小孩的地方都不抽菸，抽著菸有小孩走過來也會滅掉丟掉🧐\n\n我居然看到有三個女的邊帶小孩邊抽菸，抱著小孩的那個居然也在抽菸🫪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念   /  这里是我发疯的唯一途径  / 不是健全人  / 退役oder / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo /❤️ 愿大家摆脱药物好好生活❤️",
+        "id": "1934615181524615168",
+        "is_identity_verified": false,
+        "location": "👁",
+        "most_recent_tweet_id": "2108504052988338529",
+        "name": "qwertyuiop",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934615181524615168/1757348974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 156,
+          "like_count": 3195,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1506
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-11-14T05:13:45.000Z",
+        "description": "中老年少女\n烏克蘭閒散人士\n飛天拉麵神教中國教區修女\n德涅斯特河沿岸摩爾達維亞共和國駐華大使",
+        "id": "2193559340",
+        "is_identity_verified": false,
+        "location": "Одеса,Україна",
+        "most_recent_tweet_id": "2108500610165412253",
+        "name": "細洛EvfrosiniaTC",
+        "pinned_tweet_id": "2055243923728347367",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2193559340/1578922022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026014401980174336/BpS1kZKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 178,
+          "like_count": 4702,
+          "listed_count": 4,
+          "media_count": 781,
+          "tweet_count": 5621
+        },
+        "url": "",
+        "username": "Evf_Trotsky",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

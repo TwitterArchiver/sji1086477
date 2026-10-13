@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "conversation_id": "2104540569460691415",
+    "created_at": "2026-09-28T13:36:24.000Z",
+    "display_text_range": [
+      10,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104565891874635964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089870275496054784",
+          "start": 0,
+          "username": "Yygl7439"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104565891874635964",
+    "in_reply_to_user_id": "2089870275496054784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104540569460691415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yygl7439 毫无娱乐价值，只是能让眼前复视，让东西抖动🫠"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104540569460691415].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2104540569460691415",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2104540569460691415"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "conversation_id": "2104540569460691415",
+        "created_at": "2026-09-28T13:36:24.000Z",
+        "display_text_range": [
+          10,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104565891874635964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089870275496054784",
+              "start": 0,
+              "username": "Yygl7439"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104565891874635964",
+        "in_reply_to_user_id": "2089870275496054784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104540569460691415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yygl7439 毫无娱乐价值，只是能让眼前复视，让东西抖动🫠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念   /  这里是我发疯的唯一途径  / 不是健全人  / 退役oder / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo /❤️ 愿大家摆脱药物好好生活❤️\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "is_identity_verified": false,
+        "location": "👁",
+        "most_recent_tweet_id": "2104565891874635964",
+        "name": "qwertyuiop",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934615181524615168/1757348974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 153,
+          "like_count": 3121,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1466
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T00:22:35.000Z",
+        "description": "",
+        "id": "2089870275496054784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100982267095237117",
+        "name": "L",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089870275496054784/1789744288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100965797321699328/bANtNdWR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 53,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "Yygl7439",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

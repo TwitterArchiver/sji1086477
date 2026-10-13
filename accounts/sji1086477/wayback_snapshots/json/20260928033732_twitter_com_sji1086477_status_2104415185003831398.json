@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934615181524615168",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2104178584588067208",
+    "created_at": "2026-09-28T03:37:32.000Z",
+    "display_text_range": [
+      29,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T04:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104415185003831398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1190192406307602433",
+          "start": 0,
+          "username": "annaqizuyi"
+        },
+        {
+          "end": 28,
+          "id": "1294139978616840192",
+          "start": 12,
+          "username": "QrM8tNxiHiDnTO0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104415185003831398",
+    "in_reply_to_user_id": "1190192406307602433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104393000373948665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annaqizuyi @QrM8tNxiHiDnTO0 那是不是可以吃辣椒戒o然后对辣椒上瘾🤗听起来比od健康"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934615181524615168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2104178584588067208",
+        "created_at": "2026-09-28T03:37:32.000Z",
+        "display_text_range": [
+          29,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104415185003831398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1190192406307602433",
+              "start": 0,
+              "username": "annaqizuyi"
+            },
+            {
+              "end": 28,
+              "id": "1294139978616840192",
+              "start": 12,
+              "username": "QrM8tNxiHiDnTO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104415185003831398",
+        "in_reply_to_user_id": "1190192406307602433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104393000373948665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annaqizuyi @QrM8tNxiHiDnTO0 那是不是可以吃辣椒戒o然后对辣椒上瘾🤗听起来比od健康"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1190192406307602433",
+        "conversation_id": "2104178584588067208",
+        "created_at": "2026-09-28T02:09:23.000Z",
+        "display_text_range": [
+          17,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104393000373948665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1294139978616840192",
+              "start": 0,
+              "username": "QrM8tNxiHiDnTO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104393000373948665",
+        "in_reply_to_user_id": "1294139978616840192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104178584588067208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QrM8tNxiHiDnTO0 多吃点辣椒辣死自己，然后等到辣椒不辣的时候缓解的感觉。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-16T14:13:36.000Z",
+        "description": "祈川  / 07  / 女 /  碎碎念   /  这里是我发疯的唯一途径  / 不是健全人  / 退役oder / 反父权剥削 / 身体自主权 / 轻微键政 / 长期失眠焦虑 /  我很善良，欢迎互fo /❤️ 愿大家摆脱药物好好生活❤️\n/////////\n唯一@zhouzhouneko2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "zhouzhouneko2"
+              }
+            ]
+          }
+        },
+        "id": "1934615181524615168",
+        "is_identity_verified": false,
+        "location": "👁",
+        "most_recent_tweet_id": "2104415185003831398",
+        "name": "qwertyuiop",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934615181524615168/1757348974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041271972093661184/_tZ4Ye3M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 153,
+          "like_count": 3121,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1458
+        },
+        "url": "",
+        "username": "sji1086477",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-01T09:03:16.000Z",
+        "description": "我只希望自由只能更加自由\n警告：我的思想价值观有严重问题（从社会规范上面说确实如此）主要就是情绪词和语言游戏的自说自话为主。有一点要说清楚我并不是在搞“哲学”，我只是在玩一个思维游戏我从这些和自己游戏里面会有神圣感和欣快感。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/annaqizhuyi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/annaqizhuyi",
+                "start": 0,
+                "url": "https://t.co/DcqWU8dcZh"
+              }
+            ]
+          }
+        },
+        "id": "1190192406307602433",
+        "is_identity_verified": false,
+        "location": "上海闵行徐汇交界处",
+        "most_recent_tweet_id": "2104414111006400523",
+        "name": "卡爾思",
+        "pinned_tweet_id": "2077262016499335489",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1190192406307602433/1588900893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190192652026830848/6P_aT4uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 160,
+          "like_count": 170,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 995
+        },
+        "url": "https://t.co/DcqWU8dcZh",
+        "username": "annaqizuyi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-14T05:13:22.000Z",
+        "description": "20/热爱精神活性物质💊(合理使用均有处方)低浮上 画师/穿孔师⚠️吐黑泥碎碎念乱七八糟/男的骚扰拉黑",
+        "id": "1294139978616840192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104380749013307564",
+        "name": "昕昕",
+        "pinned_tweet_id": "2095010051643916621",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1294139978616840192/1788258844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094735504709500928/f-RdG1ZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 34,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "QrM8tNxiHiDnTO0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
